@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://www.loc.gov/item/73644404/manifest.json",
+  "id": "https://hadro.github.io/woods-directory/manifest.json",
   "type": "Manifest",
   "label": {
     "en": [
