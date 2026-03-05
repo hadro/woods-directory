@@ -37,7 +37,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "1"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/2",
@@ -68,7 +73,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "2"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/3",
@@ -99,7 +109,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "3"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/4",
@@ -130,7 +145,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "4"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/5",
@@ -161,7 +181,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "5"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/6",
@@ -198,7 +223,12 @@
           "id": "https://hadro.github.io/woods-directory/0006_service:rbc:lcrbmrp:t8073:006_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "6"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/7",
@@ -235,7 +265,12 @@
           "id": "https://hadro.github.io/woods-directory/0007_service:rbc:lcrbmrp:t8073:007_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "7"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/8",
@@ -266,7 +301,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "8"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/9",
@@ -297,7 +337,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "9"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/10",
@@ -328,7 +373,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "10"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/11",
@@ -359,7 +409,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "11"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/12",
@@ -390,7 +445,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "12"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/13",
@@ -427,7 +487,12 @@
           "id": "https://hadro.github.io/woods-directory/0013_service:rbc:lcrbmrp:t8073:013_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "13"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/14",
@@ -464,7 +529,12 @@
           "id": "https://hadro.github.io/woods-directory/0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "14"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/15",
@@ -501,7 +571,12 @@
           "id": "https://hadro.github.io/woods-directory/0015_service:rbc:lcrbmrp:t8073:015_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "15"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/16",
@@ -538,7 +613,12 @@
           "id": "https://hadro.github.io/woods-directory/0016_service:rbc:lcrbmrp:t8073:016_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "16"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/17",
@@ -575,7 +655,12 @@
           "id": "https://hadro.github.io/woods-directory/0017_service:rbc:lcrbmrp:t8073:017_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "17"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/18",
@@ -612,7 +697,12 @@
           "id": "https://hadro.github.io/woods-directory/0018_service:rbc:lcrbmrp:t8073:018_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "18"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/19",
@@ -649,7 +739,12 @@
           "id": "https://hadro.github.io/woods-directory/0019_service:rbc:lcrbmrp:t8073:019_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "19"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/20",
@@ -686,7 +781,12 @@
           "id": "https://hadro.github.io/woods-directory/0020_service:rbc:lcrbmrp:t8073:020_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "20"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/21",
@@ -723,7 +823,12 @@
           "id": "https://hadro.github.io/woods-directory/0021_service:rbc:lcrbmrp:t8073:021_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "21"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/22",
@@ -760,7 +865,12 @@
           "id": "https://hadro.github.io/woods-directory/0022_service:rbc:lcrbmrp:t8073:022_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "22"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/23",
@@ -797,7 +907,12 @@
           "id": "https://hadro.github.io/woods-directory/0023_service:rbc:lcrbmrp:t8073:023_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "23"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/24",
@@ -834,7 +949,12 @@
           "id": "https://hadro.github.io/woods-directory/0024_service:rbc:lcrbmrp:t8073:024_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "24"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/25",
@@ -871,7 +991,12 @@
           "id": "https://hadro.github.io/woods-directory/0025_service:rbc:lcrbmrp:t8073:025_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "25"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/26",
@@ -908,7 +1033,12 @@
           "id": "https://hadro.github.io/woods-directory/0026_service:rbc:lcrbmrp:t8073:026_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "26"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/27",
@@ -945,7 +1075,12 @@
           "id": "https://hadro.github.io/woods-directory/0027_service:rbc:lcrbmrp:t8073:027_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "27"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/28",
@@ -982,7 +1117,12 @@
           "id": "https://hadro.github.io/woods-directory/0028_service:rbc:lcrbmrp:t8073:028_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "28"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/29",
@@ -1019,7 +1159,12 @@
           "id": "https://hadro.github.io/woods-directory/0029_service:rbc:lcrbmrp:t8073:029_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "29"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/30",
@@ -1056,7 +1201,12 @@
           "id": "https://hadro.github.io/woods-directory/0030_service:rbc:lcrbmrp:t8073:030_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "30"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/31",
@@ -1093,7 +1243,12 @@
           "id": "https://hadro.github.io/woods-directory/0031_service:rbc:lcrbmrp:t8073:031_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "31"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/32",
@@ -1130,7 +1285,12 @@
           "id": "https://hadro.github.io/woods-directory/0032_service:rbc:lcrbmrp:t8073:032_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "32"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/33",
@@ -1167,7 +1327,12 @@
           "id": "https://hadro.github.io/woods-directory/0033_service:rbc:lcrbmrp:t8073:033_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "33"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/34",
@@ -1204,7 +1369,12 @@
           "id": "https://hadro.github.io/woods-directory/0034_service:rbc:lcrbmrp:t8073:034_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "34"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/35",
@@ -1241,7 +1411,12 @@
           "id": "https://hadro.github.io/woods-directory/0035_service:rbc:lcrbmrp:t8073:035_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "35"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/36",
@@ -1278,7 +1453,12 @@
           "id": "https://hadro.github.io/woods-directory/0036_service:rbc:lcrbmrp:t8073:036_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "36"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/37",
@@ -1315,7 +1495,12 @@
           "id": "https://hadro.github.io/woods-directory/0037_service:rbc:lcrbmrp:t8073:037_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "37"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/38",
@@ -1352,7 +1537,12 @@
           "id": "https://hadro.github.io/woods-directory/0038_service:rbc:lcrbmrp:t8073:038_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "38"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/39",
@@ -1389,7 +1579,12 @@
           "id": "https://hadro.github.io/woods-directory/0039_service:rbc:lcrbmrp:t8073:039_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "39"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/40",
@@ -1420,7 +1615,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "40"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/41",
@@ -1457,7 +1657,12 @@
           "id": "https://hadro.github.io/woods-directory/0041_service:rbc:lcrbmrp:t8073:041_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "41"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/42",
@@ -1494,7 +1699,12 @@
           "id": "https://hadro.github.io/woods-directory/0042_service:rbc:lcrbmrp:t8073:042_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "42"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/43",
@@ -1531,7 +1741,12 @@
           "id": "https://hadro.github.io/woods-directory/0043_service:rbc:lcrbmrp:t8073:043_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "43"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/44",
@@ -1568,7 +1783,12 @@
           "id": "https://hadro.github.io/woods-directory/0044_service:rbc:lcrbmrp:t8073:044_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "44"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/45",
@@ -1605,7 +1825,12 @@
           "id": "https://hadro.github.io/woods-directory/0045_service:rbc:lcrbmrp:t8073:045_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "45"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/46",
@@ -1642,7 +1867,12 @@
           "id": "https://hadro.github.io/woods-directory/0046_service:rbc:lcrbmrp:t8073:046_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "46"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/47",
@@ -1679,7 +1909,12 @@
           "id": "https://hadro.github.io/woods-directory/0047_service:rbc:lcrbmrp:t8073:047_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "47"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/48",
@@ -1716,7 +1951,12 @@
           "id": "https://hadro.github.io/woods-directory/0048_service:rbc:lcrbmrp:t8073:048_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "48"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/49",
@@ -1753,7 +1993,12 @@
           "id": "https://hadro.github.io/woods-directory/0049_service:rbc:lcrbmrp:t8073:049_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "49"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/50",
@@ -1790,7 +2035,12 @@
           "id": "https://hadro.github.io/woods-directory/0050_service:rbc:lcrbmrp:t8073:050_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "50"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/51",
@@ -1827,7 +2077,12 @@
           "id": "https://hadro.github.io/woods-directory/0051_service:rbc:lcrbmrp:t8073:051_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "51"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/52",
@@ -1864,7 +2119,12 @@
           "id": "https://hadro.github.io/woods-directory/0052_service:rbc:lcrbmrp:t8073:052_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "52"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/53",
@@ -1901,7 +2161,12 @@
           "id": "https://hadro.github.io/woods-directory/0053_service:rbc:lcrbmrp:t8073:053_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "53"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/54",
@@ -1938,7 +2203,12 @@
           "id": "https://hadro.github.io/woods-directory/0054_service:rbc:lcrbmrp:t8073:054_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "54"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/55",
@@ -1975,7 +2245,12 @@
           "id": "https://hadro.github.io/woods-directory/0055_service:rbc:lcrbmrp:t8073:055_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "55"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/56",
@@ -2006,7 +2281,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "56"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/57",
@@ -2043,7 +2323,12 @@
           "id": "https://hadro.github.io/woods-directory/0057_service:rbc:lcrbmrp:t8073:057_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "57"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/58",
@@ -2080,7 +2365,12 @@
           "id": "https://hadro.github.io/woods-directory/0058_service:rbc:lcrbmrp:t8073:058_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "58"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/59",
@@ -2117,7 +2407,12 @@
           "id": "https://hadro.github.io/woods-directory/0059_service:rbc:lcrbmrp:t8073:059_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "59"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/60",
@@ -2154,7 +2449,12 @@
           "id": "https://hadro.github.io/woods-directory/0060_service:rbc:lcrbmrp:t8073:060_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "60"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/61",
@@ -2191,7 +2491,12 @@
           "id": "https://hadro.github.io/woods-directory/0061_service:rbc:lcrbmrp:t8073:061_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "61"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/62",
@@ -2228,7 +2533,12 @@
           "id": "https://hadro.github.io/woods-directory/0062_service:rbc:lcrbmrp:t8073:062_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "62"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/63",
@@ -2265,7 +2575,12 @@
           "id": "https://hadro.github.io/woods-directory/0063_service:rbc:lcrbmrp:t8073:063_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "63"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/64",
@@ -2296,7 +2611,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "64"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/65",
@@ -2327,7 +2647,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "65"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/66",
@@ -2358,7 +2683,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "66"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/67",
@@ -2389,7 +2719,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "67"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/68",
@@ -2420,7 +2755,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "68"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/69",
@@ -2451,7 +2791,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "69"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/70",
@@ -2482,7 +2827,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "70"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/71",
@@ -2513,7 +2863,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "71"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/72",
@@ -2544,7 +2899,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "72"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/73",
@@ -2575,7 +2935,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "73"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/74",
@@ -2606,7 +2971,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "74"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/75",
@@ -2637,7 +3007,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "75"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/76",
@@ -2668,7 +3043,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "76"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/77",
@@ -2705,7 +3085,12 @@
           "id": "https://hadro.github.io/woods-directory/0077_service:rbc:lcrbmrp:t8074:008_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "77"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/78",
@@ -2736,7 +3121,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "78"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/79",
@@ -2767,7 +3157,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "79"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/80",
@@ -2804,7 +3199,12 @@
           "id": "https://hadro.github.io/woods-directory/0080_service:rbc:lcrbmrp:t8074:011_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "80"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/81",
@@ -2835,7 +3235,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "81"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/82",
@@ -2872,7 +3277,12 @@
           "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "82"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/83",
@@ -2909,7 +3319,12 @@
           "id": "https://hadro.github.io/woods-directory/0083_service:rbc:lcrbmrp:t8074:014_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "83"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/84",
@@ -2946,7 +3361,12 @@
           "id": "https://hadro.github.io/woods-directory/0084_service:rbc:lcrbmrp:t8074:015_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "84"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/85",
@@ -2983,7 +3403,12 @@
           "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "85"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/86",
@@ -3020,7 +3445,12 @@
           "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "86"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/87",
@@ -3057,7 +3487,12 @@
           "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "87"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/88",
@@ -3094,7 +3529,12 @@
           "id": "https://hadro.github.io/woods-directory/0088_service:rbc:lcrbmrp:t8074:019_gemini-2.0-flash_box_annotations.json",
           "type": "AnnotationPage"
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "88"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/89",
@@ -3125,7 +3565,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "89"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/90",
@@ -3156,7 +3601,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "90"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/91",
@@ -3187,7 +3637,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "91"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/92",
@@ -3218,7 +3673,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "92"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/93",
@@ -3249,7 +3709,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "93"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/94",
@@ -3280,7 +3745,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "94"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/95",
@@ -3311,7 +3781,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "95"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/96",
@@ -3342,7 +3817,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "96"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/97",
@@ -3373,7 +3853,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "97"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/98",
@@ -3404,7 +3889,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "98"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/99",
@@ -3435,7 +3925,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "99"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/100",
@@ -3466,7 +3961,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "100"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/101",
@@ -3497,7 +3997,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "101"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/102",
@@ -3528,7 +4033,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "102"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/103",
@@ -3559,7 +4069,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "103"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/104",
@@ -3590,7 +4105,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "104"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/105",
@@ -3621,7 +4141,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "105"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/106",
@@ -3652,7 +4177,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "106"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/107",
@@ -3683,7 +4213,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "107"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/108",
@@ -3714,7 +4249,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "108"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/109",
@@ -3745,7 +4285,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "109"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/110",
@@ -3776,7 +4321,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "110"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/111",
@@ -3807,7 +4357,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "111"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/112",
@@ -3838,7 +4393,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "112"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/113",
@@ -3869,7 +4429,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "113"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/114",
@@ -3900,7 +4465,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "114"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/115",
@@ -3931,7 +4501,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "115"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/116",
@@ -3962,7 +4537,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "116"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/117",
@@ -3993,7 +4573,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "117"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/118",
@@ -4024,7 +4609,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "118"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/119",
@@ -4055,7 +4645,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "119"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/120",
@@ -4086,7 +4681,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "120"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/121",
@@ -4117,7 +4717,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "121"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/122",
@@ -4148,7 +4753,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "122"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/123",
@@ -4179,7 +4789,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "123"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/124",
@@ -4210,7 +4825,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "124"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/125",
@@ -4241,7 +4861,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "125"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/126",
@@ -4272,7 +4897,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "126"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/127",
@@ -4303,7 +4933,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "127"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/128",
@@ -4334,7 +4969,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "128"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/129",
@@ -4365,7 +5005,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "129"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/130",
@@ -4396,7 +5041,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "130"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/131",
@@ -4427,7 +5077,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "131"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/132",
@@ -4458,7 +5113,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "132"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/133",
@@ -4489,7 +5149,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "133"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/134",
@@ -4520,7 +5185,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "134"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/135",
@@ -4551,7 +5221,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "135"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/136",
@@ -4582,7 +5257,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "136"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/137",
@@ -4613,7 +5293,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "137"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/138",
@@ -4644,7 +5329,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "138"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/139",
@@ -4675,7 +5365,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "139"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/140",
@@ -4706,7 +5401,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "140"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/141",
@@ -4737,7 +5437,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "141"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/142",
@@ -4768,7 +5473,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "142"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/143",
@@ -4799,7 +5509,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "143"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/144",
@@ -4830,7 +5545,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "144"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/145",
@@ -4861,7 +5581,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "145"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/146",
@@ -4892,7 +5617,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "146"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/147",
@@ -4923,7 +5653,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "147"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/148",
@@ -4954,7 +5689,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "148"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/149",
@@ -4985,7 +5725,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "149"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/150",
@@ -5016,7 +5761,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "150"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/151",
@@ -5047,7 +5797,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "151"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/152",
@@ -5078,7 +5833,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "152"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/153",
@@ -5109,7 +5869,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "153"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/154",
@@ -5140,7 +5905,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "154"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/155",
@@ -5171,7 +5941,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "155"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/156",
@@ -5202,7 +5977,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "156"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/157",
@@ -5233,7 +6013,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "157"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/158",
@@ -5264,7 +6049,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "158"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/159",
@@ -5295,7 +6085,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "159"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/160",
@@ -5326,7 +6121,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "160"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/161",
@@ -5357,7 +6157,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "161"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/162",
@@ -5388,7 +6193,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "162"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/163",
@@ -5419,7 +6229,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "163"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/164",
@@ -5450,7 +6265,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "164"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/165",
@@ -5481,7 +6301,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "165"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/166",
@@ -5512,7 +6337,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "166"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/167",
@@ -5543,7 +6373,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "167"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/168",
@@ -5574,7 +6409,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "168"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/169",
@@ -5605,7 +6445,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "169"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/170",
@@ -5636,7 +6481,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "170"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/171",
@@ -5667,7 +6517,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "171"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/172",
@@ -5698,7 +6553,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "172"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/173",
@@ -5729,7 +6589,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "173"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/174",
@@ -5760,7 +6625,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "174"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/175",
@@ -5791,7 +6661,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "175"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/176",
@@ -5822,7 +6697,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "176"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/177",
@@ -5853,7 +6733,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "177"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/178",
@@ -5884,7 +6769,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "178"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/179",
@@ -5915,7 +6805,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "179"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/180",
@@ -5946,7 +6841,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "180"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/181",
@@ -5977,7 +6877,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "181"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/182",
@@ -6008,7 +6913,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "182"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/183",
@@ -6039,7 +6949,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "183"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/184",
@@ -6070,7 +6985,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "184"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/185",
@@ -6101,7 +7021,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "185"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/186",
@@ -6132,7 +7057,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "186"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/187",
@@ -6163,7 +7093,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "187"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/188",
@@ -6194,7 +7129,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "188"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/189",
@@ -6225,7 +7165,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "189"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/190",
@@ -6256,7 +7201,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "190"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/191",
@@ -6287,7 +7237,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "191"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/192",
@@ -6318,7 +7273,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "192"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/193",
@@ -6349,7 +7309,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "193"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/194",
@@ -6380,7 +7345,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "194"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/195",
@@ -6411,7 +7381,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "195"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/196",
@@ -6442,7 +7417,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "196"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/197",
@@ -6473,7 +7453,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "197"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/198",
@@ -6504,7 +7489,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "198"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/199",
@@ -6535,7 +7525,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "199"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/200",
@@ -6566,7 +7561,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "200"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/201",
@@ -6597,7 +7597,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "201"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/202",
@@ -6628,7 +7633,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "202"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/203",
@@ -6659,7 +7669,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "203"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/204",
@@ -6690,7 +7705,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "204"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/205",
@@ -6721,7 +7741,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "205"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/206",
@@ -6752,7 +7777,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "206"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/207",
@@ -6783,7 +7813,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "207"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/208",
@@ -6814,7 +7849,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "208"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/209",
@@ -6845,7 +7885,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "209"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/210",
@@ -6876,7 +7921,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "210"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/211",
@@ -6907,7 +7957,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "211"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/212",
@@ -6938,7 +7993,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "212"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/213",
@@ -6969,7 +8029,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "213"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/214",
@@ -7000,7 +8065,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "214"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/215",
@@ -7031,7 +8101,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "215"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/216",
@@ -7062,7 +8137,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "216"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/217",
@@ -7093,7 +8173,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "217"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/218",
@@ -7124,7 +8209,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "218"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/219",
@@ -7155,7 +8245,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "219"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/220",
@@ -7186,7 +8281,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "220"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/221",
@@ -7217,7 +8317,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "221"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/222",
@@ -7248,7 +8353,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "222"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/223",
@@ -7279,7 +8389,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "223"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/224",
@@ -7310,7 +8425,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "224"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/225",
@@ -7341,7 +8461,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "225"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/226",
@@ -7372,7 +8497,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "226"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/227",
@@ -7403,7 +8533,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "227"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/228",
@@ -7434,7 +8569,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "228"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/229",
@@ -7465,7 +8605,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "229"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/230",
@@ -7496,7 +8641,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "230"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/231",
@@ -7527,7 +8677,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "231"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/232",
@@ -7558,7 +8713,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "232"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/233",
@@ -7589,7 +8749,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "233"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/234",
@@ -7620,7 +8785,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "234"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/235",
@@ -7651,7 +8821,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "235"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/236",
@@ -7682,7 +8857,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "236"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/237",
@@ -7713,7 +8893,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "237"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/238",
@@ -7744,7 +8929,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "238"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/239",
@@ -7775,7 +8965,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "239"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/240",
@@ -7806,7 +9001,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "240"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/241",
@@ -7837,7 +9037,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "241"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/242",
@@ -7868,7 +9073,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "242"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/243",
@@ -7899,7 +9109,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "243"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/244",
@@ -7930,7 +9145,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "244"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/245",
@@ -7961,7 +9181,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "245"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/246",
@@ -7992,7 +9217,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "246"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/247",
@@ -8023,7 +9253,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "247"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/248",
@@ -8054,7 +9289,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "248"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/249",
@@ -8085,7 +9325,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "249"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/250",
@@ -8116,7 +9361,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "250"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/251",
@@ -8147,7 +9397,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "251"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/252",
@@ -8178,7 +9433,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "252"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/253",
@@ -8209,7 +9469,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "253"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/254",
@@ -8240,7 +9505,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "254"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/255",
@@ -8271,7 +9541,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "255"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/256",
@@ -8302,7 +9577,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "256"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/257",
@@ -8333,7 +9613,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "257"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/258",
@@ -8364,7 +9649,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "258"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/259",
@@ -8395,7 +9685,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "259"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/260",
@@ -8426,7 +9721,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "260"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/261",
@@ -8457,7 +9757,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "261"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/262",
@@ -8488,7 +9793,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "262"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/263",
@@ -8519,7 +9829,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "263"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/264",
@@ -8550,7 +9865,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "264"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/265",
@@ -8581,7 +9901,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "265"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/266",
@@ -8612,7 +9937,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "266"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/267",
@@ -8643,7 +9973,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "267"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/268",
@@ -8674,7 +10009,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "268"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/269",
@@ -8705,7 +10045,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "269"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/270",
@@ -8736,7 +10081,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "270"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/271",
@@ -8767,7 +10117,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "271"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/272",
@@ -8798,7 +10153,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "272"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/273",
@@ -8829,7 +10189,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "273"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/274",
@@ -8860,7 +10225,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "274"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/275",
@@ -8891,7 +10261,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "275"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/276",
@@ -8922,7 +10297,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "276"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/277",
@@ -8953,7 +10333,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "277"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/278",
@@ -8984,7 +10369,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "278"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/279",
@@ -9015,7 +10405,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "279"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/280",
@@ -9046,7 +10441,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "280"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/281",
@@ -9077,7 +10477,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "281"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/282",
@@ -9108,7 +10513,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "282"
+        ]
+      }
     },
     {
       "id": "https://www.loc.gov/item/73644404/canvas/283",
@@ -9139,7 +10549,12 @@
             }
           ]
         }
-      ]
+      ],
+      "label": {
+        "en": [
+          "283"
+        ]
+      }
     }
   ]
 }
