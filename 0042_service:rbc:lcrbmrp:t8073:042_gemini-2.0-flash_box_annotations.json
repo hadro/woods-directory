@@ -11,7 +11,7 @@
         "format": "text/plain"
       },
       "target": "https://www.loc.gov/item/73644404/canvas/42#xywh=297,926,1764,138",
-      "id": "https://hadro.github.io/woods-directory//0042_service:rbc:lcrbmrp:t8073:042_gemini-2.0-flash_box_annotations.json/entry/0"
+      "id": "https://hadro.github.io/woods-directory/0042_service:rbc:lcrbmrp:t8073:042_gemini-2.0-flash_box_annotations.json/entry/0"
     },
     {
       "type": "Annotation",
@@ -22,8 +22,8 @@
         "format": "text/plain"
       },
       "target": "https://www.loc.gov/item/73644404/canvas/42#xywh=302,3228,1744,92",
-      "id": "https://hadro.github.io/woods-directory//0042_service:rbc:lcrbmrp:t8073:042_gemini-2.0-flash_box_annotations.json/entry/1"
+      "id": "https://hadro.github.io/woods-directory/0042_service:rbc:lcrbmrp:t8073:042_gemini-2.0-flash_box_annotations.json/entry/1"
     }
   ],
-  "id": "https://hadro.github.io/woods-directory//0042_service:rbc:lcrbmrp:t8073:042_gemini-2.0-flash_box_annotations.json"
+  "id": "https://hadro.github.io/woods-directory/0042_service:rbc:lcrbmrp:t8073:042_gemini-2.0-flash_box_annotations.json"
 }
