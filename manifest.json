@@ -28,8 +28,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:001",
-                    "type": "ImageService3",
-                    "maxWidth": 461
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -59,8 +59,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:002",
-                    "type": "ImageService3",
-                    "maxWidth": 2594
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -90,8 +90,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:003",
-                    "type": "ImageService3",
-                    "maxWidth": 2490
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -121,8 +121,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:004",
-                    "type": "ImageService3",
-                    "maxWidth": 2235
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -152,8 +152,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:005",
-                    "type": "ImageService3",
-                    "maxWidth": 2219
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -183,8 +183,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:006",
-                    "type": "ImageService3",
-                    "maxWidth": 2396
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -220,8 +220,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:007",
-                    "type": "ImageService3",
-                    "maxWidth": 2614
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -257,8 +257,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:008",
-                    "type": "ImageService3",
-                    "maxWidth": 2324
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -288,8 +288,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:009",
-                    "type": "ImageService3",
-                    "maxWidth": 2607
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -319,8 +319,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:010",
-                    "type": "ImageService3",
-                    "maxWidth": 2389
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -350,8 +350,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:011",
-                    "type": "ImageService3",
-                    "maxWidth": 2577
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -381,8 +381,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:012",
-                    "type": "ImageService3",
-                    "maxWidth": 2456
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -412,8 +412,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:013",
-                    "type": "ImageService3",
-                    "maxWidth": 2563
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -449,8 +449,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:014",
-                    "type": "ImageService3",
-                    "maxWidth": 2471
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -486,8 +486,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:015",
-                    "type": "ImageService3",
-                    "maxWidth": 2564
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -523,8 +523,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:016",
-                    "type": "ImageService3",
-                    "maxWidth": 2466
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -560,8 +560,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:017",
-                    "type": "ImageService3",
-                    "maxWidth": 2544
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -597,8 +597,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:018",
-                    "type": "ImageService3",
-                    "maxWidth": 2463
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -634,8 +634,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:019",
-                    "type": "ImageService3",
-                    "maxWidth": 2557
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -671,8 +671,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:020",
-                    "type": "ImageService3",
-                    "maxWidth": 2490
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -708,8 +708,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:021",
-                    "type": "ImageService3",
-                    "maxWidth": 2561
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -745,8 +745,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:022",
-                    "type": "ImageService3",
-                    "maxWidth": 2517
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -782,8 +782,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:023",
-                    "type": "ImageService3",
-                    "maxWidth": 2565
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -819,8 +819,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:024",
-                    "type": "ImageService3",
-                    "maxWidth": 2473
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -856,8 +856,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:025",
-                    "type": "ImageService3",
-                    "maxWidth": 2556
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -893,8 +893,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:026",
-                    "type": "ImageService3",
-                    "maxWidth": 2491
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -930,8 +930,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:027",
-                    "type": "ImageService3",
-                    "maxWidth": 2588
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -967,8 +967,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:028",
-                    "type": "ImageService3",
-                    "maxWidth": 2478
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -1004,8 +1004,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:029",
-                    "type": "ImageService3",
-                    "maxWidth": 2560
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -1041,8 +1041,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:030",
-                    "type": "ImageService3",
-                    "maxWidth": 2473
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -1078,8 +1078,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:031",
-                    "type": "ImageService3",
-                    "maxWidth": 2565
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -1115,8 +1115,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:032",
-                    "type": "ImageService3",
-                    "maxWidth": 2469
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -1152,8 +1152,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:033",
-                    "type": "ImageService3",
-                    "maxWidth": 2573
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -1189,8 +1189,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:034",
-                    "type": "ImageService3",
-                    "maxWidth": 2474
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -1226,8 +1226,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:035",
-                    "type": "ImageService3",
-                    "maxWidth": 2561
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -1263,8 +1263,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:036",
-                    "type": "ImageService3",
-                    "maxWidth": 2479
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -1300,8 +1300,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:037",
-                    "type": "ImageService3",
-                    "maxWidth": 2550
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -1337,8 +1337,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:038",
-                    "type": "ImageService3",
-                    "maxWidth": 2509
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -1374,8 +1374,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:039",
-                    "type": "ImageService3",
-                    "maxWidth": 2572
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -1411,8 +1411,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:040",
-                    "type": "ImageService3",
-                    "maxWidth": 2471
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -1442,8 +1442,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:041",
-                    "type": "ImageService3",
-                    "maxWidth": 2571
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -1479,8 +1479,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:042",
-                    "type": "ImageService3",
-                    "maxWidth": 2507
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -1516,8 +1516,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:043",
-                    "type": "ImageService3",
-                    "maxWidth": 2578
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -1553,8 +1553,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:044",
-                    "type": "ImageService3",
-                    "maxWidth": 2476
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -1590,8 +1590,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:045",
-                    "type": "ImageService3",
-                    "maxWidth": 2564
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -1627,8 +1627,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:046",
-                    "type": "ImageService3",
-                    "maxWidth": 2490
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -1664,8 +1664,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:047",
-                    "type": "ImageService3",
-                    "maxWidth": 2558
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -1701,8 +1701,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:048",
-                    "type": "ImageService3",
-                    "maxWidth": 2494
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -1738,8 +1738,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:049",
-                    "type": "ImageService3",
-                    "maxWidth": 2596
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -1775,8 +1775,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:050",
-                    "type": "ImageService3",
-                    "maxWidth": 2480
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -1812,8 +1812,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:051",
-                    "type": "ImageService3",
-                    "maxWidth": 2592
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -1849,8 +1849,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:052",
-                    "type": "ImageService3",
-                    "maxWidth": 2479
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -1886,8 +1886,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:053",
-                    "type": "ImageService3",
-                    "maxWidth": 2590
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -1923,8 +1923,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:054",
-                    "type": "ImageService3",
-                    "maxWidth": 2504
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -1960,8 +1960,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:055",
-                    "type": "ImageService3",
-                    "maxWidth": 2569
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -1997,8 +1997,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:056",
-                    "type": "ImageService3",
-                    "maxWidth": 2518
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -2028,8 +2028,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:057",
-                    "type": "ImageService3",
-                    "maxWidth": 2603
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -2065,8 +2065,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:058",
-                    "type": "ImageService3",
-                    "maxWidth": 2476
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -2102,8 +2102,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:059",
-                    "type": "ImageService3",
-                    "maxWidth": 2581
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -2139,8 +2139,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:060",
-                    "type": "ImageService3",
-                    "maxWidth": 2485
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -2176,8 +2176,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:061",
-                    "type": "ImageService3",
-                    "maxWidth": 2564
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -2213,8 +2213,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:062",
-                    "type": "ImageService3",
-                    "maxWidth": 2499
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -2250,8 +2250,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:063",
-                    "type": "ImageService3",
-                    "maxWidth": 2630
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -2287,8 +2287,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:064",
-                    "type": "ImageService3",
-                    "maxWidth": 2458
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -2318,8 +2318,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:065",
-                    "type": "ImageService3",
-                    "maxWidth": 2604
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -2349,8 +2349,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:066",
-                    "type": "ImageService3",
-                    "maxWidth": 2464
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -2380,8 +2380,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:067",
-                    "type": "ImageService3",
-                    "maxWidth": 2565
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -2411,8 +2411,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:068",
-                    "type": "ImageService3",
-                    "maxWidth": 2493
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -2442,8 +2442,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8073:069",
-                    "type": "ImageService3",
-                    "maxWidth": 2582
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -2473,8 +2473,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:001",
-                    "type": "ImageService3",
-                    "maxWidth": 406
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -2504,8 +2504,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:002",
-                    "type": "ImageService3",
-                    "maxWidth": 2569
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -2535,8 +2535,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:003",
-                    "type": "ImageService3",
-                    "maxWidth": 2508
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -2566,8 +2566,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:004",
-                    "type": "ImageService3",
-                    "maxWidth": 2452
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -2597,8 +2597,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:005",
-                    "type": "ImageService3",
-                    "maxWidth": 2518
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -2628,8 +2628,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:006",
-                    "type": "ImageService3",
-                    "maxWidth": 2423
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -2659,8 +2659,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:007",
-                    "type": "ImageService3",
-                    "maxWidth": 2576
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -2690,8 +2690,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:008",
-                    "type": "ImageService3",
-                    "maxWidth": 2375
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -2727,8 +2727,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:009",
-                    "type": "ImageService3",
-                    "maxWidth": 2532
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -2758,8 +2758,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:010",
-                    "type": "ImageService3",
-                    "maxWidth": 2376
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -2789,8 +2789,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:011",
-                    "type": "ImageService3",
-                    "maxWidth": 2526
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -2826,8 +2826,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:012",
-                    "type": "ImageService3",
-                    "maxWidth": 2367
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -2857,8 +2857,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:013",
-                    "type": "ImageService3",
-                    "maxWidth": 2523
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -2894,8 +2894,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:014",
-                    "type": "ImageService3",
-                    "maxWidth": 2312
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -2931,8 +2931,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:015",
-                    "type": "ImageService3",
-                    "maxWidth": 2530
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -2968,8 +2968,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:016",
-                    "type": "ImageService3",
-                    "maxWidth": 2343
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3005,8 +3005,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:017",
-                    "type": "ImageService3",
-                    "maxWidth": 2524
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3042,8 +3042,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:018",
-                    "type": "ImageService3",
-                    "maxWidth": 2373
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3079,8 +3079,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:019",
-                    "type": "ImageService3",
-                    "maxWidth": 2530
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3116,8 +3116,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:020",
-                    "type": "ImageService3",
-                    "maxWidth": 2349
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3147,8 +3147,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:021",
-                    "type": "ImageService3",
-                    "maxWidth": 2507
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3178,8 +3178,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:022",
-                    "type": "ImageService3",
-                    "maxWidth": 2355
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3209,8 +3209,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:023",
-                    "type": "ImageService3",
-                    "maxWidth": 2499
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3240,8 +3240,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:024",
-                    "type": "ImageService3",
-                    "maxWidth": 2382
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3271,8 +3271,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:025",
-                    "type": "ImageService3",
-                    "maxWidth": 2495
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3302,8 +3302,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:026",
-                    "type": "ImageService3",
-                    "maxWidth": 2373
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3333,8 +3333,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:027",
-                    "type": "ImageService3",
-                    "maxWidth": 2512
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3364,8 +3364,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:028",
-                    "type": "ImageService3",
-                    "maxWidth": 2381
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3395,8 +3395,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:029",
-                    "type": "ImageService3",
-                    "maxWidth": 2536
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3426,8 +3426,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:030",
-                    "type": "ImageService3",
-                    "maxWidth": 2374
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3457,8 +3457,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:031",
-                    "type": "ImageService3",
-                    "maxWidth": 2508
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3488,8 +3488,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:032",
-                    "type": "ImageService3",
-                    "maxWidth": 2376
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3519,8 +3519,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:033",
-                    "type": "ImageService3",
-                    "maxWidth": 2520
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3550,8 +3550,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:034",
-                    "type": "ImageService3",
-                    "maxWidth": 2375
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3581,8 +3581,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:035",
-                    "type": "ImageService3",
-                    "maxWidth": 2516
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3612,8 +3612,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:036",
-                    "type": "ImageService3",
-                    "maxWidth": 2385
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3643,8 +3643,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:037",
-                    "type": "ImageService3",
-                    "maxWidth": 2515
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3674,8 +3674,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:038",
-                    "type": "ImageService3",
-                    "maxWidth": 2406
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3705,8 +3705,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:039",
-                    "type": "ImageService3",
-                    "maxWidth": 2516
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3736,8 +3736,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:040",
-                    "type": "ImageService3",
-                    "maxWidth": 2395
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3767,8 +3767,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:041",
-                    "type": "ImageService3",
-                    "maxWidth": 2512
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3798,8 +3798,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:042",
-                    "type": "ImageService3",
-                    "maxWidth": 2406
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3829,8 +3829,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:043",
-                    "type": "ImageService3",
-                    "maxWidth": 2510
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3860,8 +3860,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:044",
-                    "type": "ImageService3",
-                    "maxWidth": 2410
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3891,8 +3891,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:045",
-                    "type": "ImageService3",
-                    "maxWidth": 2523
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3922,8 +3922,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:046",
-                    "type": "ImageService3",
-                    "maxWidth": 2414
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3953,8 +3953,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:047",
-                    "type": "ImageService3",
-                    "maxWidth": 2513
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -3984,8 +3984,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:048",
-                    "type": "ImageService3",
-                    "maxWidth": 2447
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4015,8 +4015,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:049",
-                    "type": "ImageService3",
-                    "maxWidth": 2504
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4046,8 +4046,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:050",
-                    "type": "ImageService3",
-                    "maxWidth": 2436
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4077,8 +4077,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:051",
-                    "type": "ImageService3",
-                    "maxWidth": 2501
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4108,8 +4108,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:052",
-                    "type": "ImageService3",
-                    "maxWidth": 2469
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4139,8 +4139,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:053",
-                    "type": "ImageService3",
-                    "maxWidth": 2508
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4170,8 +4170,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:054",
-                    "type": "ImageService3",
-                    "maxWidth": 2480
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4201,8 +4201,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:055",
-                    "type": "ImageService3",
-                    "maxWidth": 2499
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4232,8 +4232,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:056",
-                    "type": "ImageService3",
-                    "maxWidth": 2474
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4263,8 +4263,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:057",
-                    "type": "ImageService3",
-                    "maxWidth": 2476
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4294,8 +4294,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:058",
-                    "type": "ImageService3",
-                    "maxWidth": 4482
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4325,8 +4325,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:059",
-                    "type": "ImageService3",
-                    "maxWidth": 4541
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4356,8 +4356,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:060",
-                    "type": "ImageService3",
-                    "maxWidth": 2450
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4387,8 +4387,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:061",
-                    "type": "ImageService3",
-                    "maxWidth": 2486
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4418,8 +4418,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:062",
-                    "type": "ImageService3",
-                    "maxWidth": 2456
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4449,8 +4449,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:063",
-                    "type": "ImageService3",
-                    "maxWidth": 2486
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4480,8 +4480,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:064",
-                    "type": "ImageService3",
-                    "maxWidth": 2449
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4511,8 +4511,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:065",
-                    "type": "ImageService3",
-                    "maxWidth": 2461
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4542,8 +4542,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:066",
-                    "type": "ImageService3",
-                    "maxWidth": 2454
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4573,8 +4573,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:067",
-                    "type": "ImageService3",
-                    "maxWidth": 2473
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4604,8 +4604,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:068",
-                    "type": "ImageService3",
-                    "maxWidth": 2425
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4635,8 +4635,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:069",
-                    "type": "ImageService3",
-                    "maxWidth": 2460
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4666,8 +4666,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:070",
-                    "type": "ImageService3",
-                    "maxWidth": 2445
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4697,8 +4697,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:071",
-                    "type": "ImageService3",
-                    "maxWidth": 2493
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4728,8 +4728,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:072",
-                    "type": "ImageService3",
-                    "maxWidth": 2445
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4759,8 +4759,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:073",
-                    "type": "ImageService3",
-                    "maxWidth": 2504
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4790,8 +4790,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:074",
-                    "type": "ImageService3",
-                    "maxWidth": 2462
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4821,8 +4821,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:075",
-                    "type": "ImageService3",
-                    "maxWidth": 2501
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4852,8 +4852,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:076",
-                    "type": "ImageService3",
-                    "maxWidth": 2460
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4883,8 +4883,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:077",
-                    "type": "ImageService3",
-                    "maxWidth": 2509
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4914,8 +4914,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:078",
-                    "type": "ImageService3",
-                    "maxWidth": 2471
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4945,8 +4945,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:079",
-                    "type": "ImageService3",
-                    "maxWidth": 2494
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -4976,8 +4976,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:080",
-                    "type": "ImageService3",
-                    "maxWidth": 2479
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5007,8 +5007,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:081",
-                    "type": "ImageService3",
-                    "maxWidth": 2488
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5038,8 +5038,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:082",
-                    "type": "ImageService3",
-                    "maxWidth": 2477
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5069,8 +5069,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:083",
-                    "type": "ImageService3",
-                    "maxWidth": 2487
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5100,8 +5100,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:084",
-                    "type": "ImageService3",
-                    "maxWidth": 2484
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5131,8 +5131,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:085",
-                    "type": "ImageService3",
-                    "maxWidth": 2487
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5162,8 +5162,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:086",
-                    "type": "ImageService3",
-                    "maxWidth": 2483
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5193,8 +5193,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:087",
-                    "type": "ImageService3",
-                    "maxWidth": 2550
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5224,8 +5224,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:088",
-                    "type": "ImageService3",
-                    "maxWidth": 2482
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5255,8 +5255,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:089",
-                    "type": "ImageService3",
-                    "maxWidth": 2521
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5286,8 +5286,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:090",
-                    "type": "ImageService3",
-                    "maxWidth": 2428
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5317,8 +5317,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:091",
-                    "type": "ImageService3",
-                    "maxWidth": 2412
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5348,8 +5348,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:092",
-                    "type": "ImageService3",
-                    "maxWidth": 2314
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5379,8 +5379,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:093",
-                    "type": "ImageService3",
-                    "maxWidth": 2476
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5410,8 +5410,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:094",
-                    "type": "ImageService3",
-                    "maxWidth": 2478
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5441,8 +5441,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8074:095",
-                    "type": "ImageService3",
-                    "maxWidth": 2557
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5472,8 +5472,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:001",
-                    "type": "ImageService3",
-                    "maxWidth": 508
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5503,8 +5503,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:002",
-                    "type": "ImageService3",
-                    "maxWidth": 2611
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5534,8 +5534,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:003",
-                    "type": "ImageService3",
-                    "maxWidth": 2491
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5565,8 +5565,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:004",
-                    "type": "ImageService3",
-                    "maxWidth": 2457
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5596,8 +5596,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:005",
-                    "type": "ImageService3",
-                    "maxWidth": 2512
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5627,8 +5627,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:006",
-                    "type": "ImageService3",
-                    "maxWidth": 2336
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5658,8 +5658,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:007",
-                    "type": "ImageService3",
-                    "maxWidth": 2345
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5689,8 +5689,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:008",
-                    "type": "ImageService3",
-                    "maxWidth": 2419
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5720,8 +5720,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:009",
-                    "type": "ImageService3",
-                    "maxWidth": 2497
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5751,8 +5751,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:010",
-                    "type": "ImageService3",
-                    "maxWidth": 2515
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5782,8 +5782,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:011",
-                    "type": "ImageService3",
-                    "maxWidth": 2499
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5813,8 +5813,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:012",
-                    "type": "ImageService3",
-                    "maxWidth": 2522
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5844,8 +5844,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:013",
-                    "type": "ImageService3",
-                    "maxWidth": 2493
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5875,8 +5875,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:014",
-                    "type": "ImageService3",
-                    "maxWidth": 2521
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5906,8 +5906,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:015",
-                    "type": "ImageService3",
-                    "maxWidth": 2503
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5937,8 +5937,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:016",
-                    "type": "ImageService3",
-                    "maxWidth": 2519
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5968,8 +5968,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:017",
-                    "type": "ImageService3",
-                    "maxWidth": 2507
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -5999,8 +5999,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:018",
-                    "type": "ImageService3",
-                    "maxWidth": 2502
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6030,8 +6030,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:019",
-                    "type": "ImageService3",
-                    "maxWidth": 2514
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6061,8 +6061,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:020",
-                    "type": "ImageService3",
-                    "maxWidth": 2486
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6092,8 +6092,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:021",
-                    "type": "ImageService3",
-                    "maxWidth": 2554
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6123,8 +6123,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:022",
-                    "type": "ImageService3",
-                    "maxWidth": 2447
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6154,8 +6154,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:023",
-                    "type": "ImageService3",
-                    "maxWidth": 2535
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6185,8 +6185,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:024",
-                    "type": "ImageService3",
-                    "maxWidth": 2492
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6216,8 +6216,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:025",
-                    "type": "ImageService3",
-                    "maxWidth": 2495
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6247,8 +6247,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:026",
-                    "type": "ImageService3",
-                    "maxWidth": 2497
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6278,8 +6278,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:027",
-                    "type": "ImageService3",
-                    "maxWidth": 2523
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6309,8 +6309,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:028",
-                    "type": "ImageService3",
-                    "maxWidth": 2498
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6340,8 +6340,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:029",
-                    "type": "ImageService3",
-                    "maxWidth": 2530
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6371,8 +6371,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:030",
-                    "type": "ImageService3",
-                    "maxWidth": 2499
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6402,8 +6402,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:031",
-                    "type": "ImageService3",
-                    "maxWidth": 2524
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6433,8 +6433,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:032",
-                    "type": "ImageService3",
-                    "maxWidth": 2505
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6464,8 +6464,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:033",
-                    "type": "ImageService3",
-                    "maxWidth": 2524
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6495,8 +6495,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:034",
-                    "type": "ImageService3",
-                    "maxWidth": 2503
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6526,8 +6526,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:035",
-                    "type": "ImageService3",
-                    "maxWidth": 2531
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6557,8 +6557,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:036",
-                    "type": "ImageService3",
-                    "maxWidth": 2491
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6588,8 +6588,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:037",
-                    "type": "ImageService3",
-                    "maxWidth": 2536
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6619,8 +6619,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:038",
-                    "type": "ImageService3",
-                    "maxWidth": 2469
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6650,8 +6650,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:039",
-                    "type": "ImageService3",
-                    "maxWidth": 2530
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6681,8 +6681,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:040",
-                    "type": "ImageService3",
-                    "maxWidth": 2505
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6712,8 +6712,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:041",
-                    "type": "ImageService3",
-                    "maxWidth": 2537
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6743,8 +6743,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:042",
-                    "type": "ImageService3",
-                    "maxWidth": 2493
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6774,8 +6774,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:043",
-                    "type": "ImageService3",
-                    "maxWidth": 2550
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6805,8 +6805,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:044",
-                    "type": "ImageService3",
-                    "maxWidth": 2483
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6836,8 +6836,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:045",
-                    "type": "ImageService3",
-                    "maxWidth": 2524
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6867,8 +6867,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:046",
-                    "type": "ImageService3",
-                    "maxWidth": 2492
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6898,8 +6898,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:047",
-                    "type": "ImageService3",
-                    "maxWidth": 2538
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6929,8 +6929,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:048",
-                    "type": "ImageService3",
-                    "maxWidth": 2490
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6960,8 +6960,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:049",
-                    "type": "ImageService3",
-                    "maxWidth": 2534
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -6991,8 +6991,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:050",
-                    "type": "ImageService3",
-                    "maxWidth": 2475
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7022,8 +7022,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:051",
-                    "type": "ImageService3",
-                    "maxWidth": 2523
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7053,8 +7053,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:052",
-                    "type": "ImageService3",
-                    "maxWidth": 2504
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7084,8 +7084,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:053",
-                    "type": "ImageService3",
-                    "maxWidth": 2535
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7115,8 +7115,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:054",
-                    "type": "ImageService3",
-                    "maxWidth": 2493
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7146,8 +7146,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:055",
-                    "type": "ImageService3",
-                    "maxWidth": 2547
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7177,8 +7177,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:056",
-                    "type": "ImageService3",
-                    "maxWidth": 2479
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7208,8 +7208,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:057",
-                    "type": "ImageService3",
-                    "maxWidth": 2542
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7239,8 +7239,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:058",
-                    "type": "ImageService3",
-                    "maxWidth": 2473
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7270,8 +7270,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:059",
-                    "type": "ImageService3",
-                    "maxWidth": 2540
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7301,8 +7301,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:060",
-                    "type": "ImageService3",
-                    "maxWidth": 2470
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7332,8 +7332,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:061",
-                    "type": "ImageService3",
-                    "maxWidth": 2538
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7363,8 +7363,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:062",
-                    "type": "ImageService3",
-                    "maxWidth": 2477
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7394,8 +7394,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:063",
-                    "type": "ImageService3",
-                    "maxWidth": 2552
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7425,8 +7425,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:064",
-                    "type": "ImageService3",
-                    "maxWidth": 2473
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7456,8 +7456,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:065",
-                    "type": "ImageService3",
-                    "maxWidth": 2547
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7487,8 +7487,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:066",
-                    "type": "ImageService3",
-                    "maxWidth": 2452
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7518,8 +7518,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:067",
-                    "type": "ImageService3",
-                    "maxWidth": 2543
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7549,8 +7549,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:068",
-                    "type": "ImageService3",
-                    "maxWidth": 2472
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7580,8 +7580,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:069",
-                    "type": "ImageService3",
-                    "maxWidth": 2553
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7611,8 +7611,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:070",
-                    "type": "ImageService3",
-                    "maxWidth": 2466
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7642,8 +7642,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:071",
-                    "type": "ImageService3",
-                    "maxWidth": 2554
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7673,8 +7673,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:072",
-                    "type": "ImageService3",
-                    "maxWidth": 2466
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7704,8 +7704,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:073",
-                    "type": "ImageService3",
-                    "maxWidth": 2549
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7735,8 +7735,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:074",
-                    "type": "ImageService3",
-                    "maxWidth": 2476
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7766,8 +7766,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:075",
-                    "type": "ImageService3",
-                    "maxWidth": 2559
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7797,8 +7797,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:076",
-                    "type": "ImageService3",
-                    "maxWidth": 2471
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7828,8 +7828,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:077",
-                    "type": "ImageService3",
-                    "maxWidth": 2547
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7859,8 +7859,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:078",
-                    "type": "ImageService3",
-                    "maxWidth": 2471
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7890,8 +7890,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:079",
-                    "type": "ImageService3",
-                    "maxWidth": 2558
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7921,8 +7921,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:080",
-                    "type": "ImageService3",
-                    "maxWidth": 2463
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7952,8 +7952,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:081",
-                    "type": "ImageService3",
-                    "maxWidth": 2553
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -7983,8 +7983,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:082",
-                    "type": "ImageService3",
-                    "maxWidth": 2468
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8014,8 +8014,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:083",
-                    "type": "ImageService3",
-                    "maxWidth": 2549
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8045,8 +8045,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:084",
-                    "type": "ImageService3",
-                    "maxWidth": 2495
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8076,8 +8076,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:085",
-                    "type": "ImageService3",
-                    "maxWidth": 2550
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8107,8 +8107,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:086",
-                    "type": "ImageService3",
-                    "maxWidth": 2476
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8138,8 +8138,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:087",
-                    "type": "ImageService3",
-                    "maxWidth": 2548
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8169,8 +8169,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:088",
-                    "type": "ImageService3",
-                    "maxWidth": 2498
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8200,8 +8200,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:089",
-                    "type": "ImageService3",
-                    "maxWidth": 2555
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8231,8 +8231,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:090",
-                    "type": "ImageService3",
-                    "maxWidth": 2475
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8262,8 +8262,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:091",
-                    "type": "ImageService3",
-                    "maxWidth": 2556
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8293,8 +8293,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:092",
-                    "type": "ImageService3",
-                    "maxWidth": 2483
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8324,8 +8324,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:093",
-                    "type": "ImageService3",
-                    "maxWidth": 2558
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8355,8 +8355,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:094",
-                    "type": "ImageService3",
-                    "maxWidth": 2475
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8386,8 +8386,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:095",
-                    "type": "ImageService3",
-                    "maxWidth": 2540
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8417,8 +8417,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:096",
-                    "type": "ImageService3",
-                    "maxWidth": 2478
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8448,8 +8448,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:097",
-                    "type": "ImageService3",
-                    "maxWidth": 2548
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8479,8 +8479,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:098",
-                    "type": "ImageService3",
-                    "maxWidth": 2469
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8510,8 +8510,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:099",
-                    "type": "ImageService3",
-                    "maxWidth": 2548
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8541,8 +8541,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:100",
-                    "type": "ImageService3",
-                    "maxWidth": 2493
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8572,8 +8572,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:101",
-                    "type": "ImageService3",
-                    "maxWidth": 2540
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8603,8 +8603,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:102",
-                    "type": "ImageService3",
-                    "maxWidth": 2491
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8634,8 +8634,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:103",
-                    "type": "ImageService3",
-                    "maxWidth": 2561
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8665,8 +8665,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:104",
-                    "type": "ImageService3",
-                    "maxWidth": 2460
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8696,8 +8696,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:105",
-                    "type": "ImageService3",
-                    "maxWidth": 2536
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8727,8 +8727,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:106",
-                    "type": "ImageService3",
-                    "maxWidth": 2489
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8758,8 +8758,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:107",
-                    "type": "ImageService3",
-                    "maxWidth": 2540
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8789,8 +8789,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:108",
-                    "type": "ImageService3",
-                    "maxWidth": 2472
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8820,8 +8820,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:109",
-                    "type": "ImageService3",
-                    "maxWidth": 2537
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8851,8 +8851,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:110",
-                    "type": "ImageService3",
-                    "maxWidth": 2493
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8882,8 +8882,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:111",
-                    "type": "ImageService3",
-                    "maxWidth": 2573
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8913,8 +8913,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:112",
-                    "type": "ImageService3",
-                    "maxWidth": 2478
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8944,8 +8944,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:113",
-                    "type": "ImageService3",
-                    "maxWidth": 2594
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -8975,8 +8975,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:114",
-                    "type": "ImageService3",
-                    "maxWidth": 2406
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -9006,8 +9006,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:115",
-                    "type": "ImageService3",
-                    "maxWidth": 2513
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -9037,8 +9037,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:116",
-                    "type": "ImageService3",
-                    "maxWidth": 2479
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -9068,8 +9068,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:117",
-                    "type": "ImageService3",
-                    "maxWidth": 2567
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -9099,8 +9099,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:118",
-                    "type": "ImageService3",
-                    "maxWidth": 2471
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
@@ -9130,8 +9130,8 @@
                 "service": [
                   {
                     "id": "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t8075:119",
-                    "type": "ImageService3",
-                    "maxWidth": 2568
+                    "type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
                   }
                 ]
               },
