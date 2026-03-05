@@ -1,0 +1,205 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. F. Howard — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/48#xywh=1586,2966,442,40",
+      "id": "https://hadro.github.io/woods-directory//0048_service:rbc:lcrbmrp:t8073:048_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "T. G. Ewing — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/48#xywh=1586,2966,442,40",
+      "id": "https://hadro.github.io/woods-directory//0048_service:rbc:lcrbmrp:t8073:048_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. W. Cox — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/48#xywh=1586,2966,442,40",
+      "id": "https://hadro.github.io/woods-directory//0048_service:rbc:lcrbmrp:t8073:048_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "C. W. Gilliam — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/48#xywh=1587,3023,443,36",
+      "id": "https://hadro.github.io/woods-directory//0048_service:rbc:lcrbmrp:t8073:048_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. H. D. Robinson — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/48#xywh=1587,3023,443,36",
+      "id": "https://hadro.github.io/woods-directory//0048_service:rbc:lcrbmrp:t8073:048_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. A. Martin — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/48#xywh=1587,3023,443,36",
+      "id": "https://hadro.github.io/woods-directory//0048_service:rbc:lcrbmrp:t8073:048_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "M. E. Davis — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/48#xywh=1583,3078,514,39",
+      "id": "https://hadro.github.io/woods-directory//0048_service:rbc:lcrbmrp:t8073:048_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "G. C. Washington — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/48#xywh=1583,3078,514,39",
+      "id": "https://hadro.github.io/woods-directory//0048_service:rbc:lcrbmrp:t8073:048_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "S. D. Redmond — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/48#xywh=1583,3078,514,39",
+      "id": "https://hadro.github.io/woods-directory//0048_service:rbc:lcrbmrp:t8073:048_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. E. Mollison — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/48#xywh=1583,3132,515,40",
+      "id": "https://hadro.github.io/woods-directory//0048_service:rbc:lcrbmrp:t8073:048_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "C. A. Greene — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/48#xywh=1583,3132,515,40",
+      "id": "https://hadro.github.io/woods-directory//0048_service:rbc:lcrbmrp:t8073:048_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "C. N. Miller — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/48#xywh=1583,3132,515,40",
+      "id": "https://hadro.github.io/woods-directory//0048_service:rbc:lcrbmrp:t8073:048_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chas. Banks — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/48#xywh=1581,3188,473,40",
+      "id": "https://hadro.github.io/woods-directory//0048_service:rbc:lcrbmrp:t8073:048_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "E. W. Lampton — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/48#xywh=1581,3188,473,40",
+      "id": "https://hadro.github.io/woods-directory//0048_service:rbc:lcrbmrp:t8073:048_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "E. E. Perkins — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/48#xywh=1581,3188,473,40",
+      "id": "https://hadro.github.io/woods-directory//0048_service:rbc:lcrbmrp:t8073:048_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. W. Phillips — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/48#xywh=1581,3245,476,39",
+      "id": "https://hadro.github.io/woods-directory//0048_service:rbc:lcrbmrp:t8073:048_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. H. Bufford — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/48#xywh=1581,3245,476,39",
+      "id": "https://hadro.github.io/woods-directory//0048_service:rbc:lcrbmrp:t8073:048_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "S. P. Felder — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/48#xywh=1581,3245,476,39",
+      "id": "https://hadro.github.io/woods-directory//0048_service:rbc:lcrbmrp:t8073:048_gemini-2.0-flash_box_annotations.json/entry/17"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory//0048_service:rbc:lcrbmrp:t8073:048_gemini-2.0-flash_box_annotations.json"
+}

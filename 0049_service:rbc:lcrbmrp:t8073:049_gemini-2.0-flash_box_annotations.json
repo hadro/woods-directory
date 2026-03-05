@@ -1,0 +1,18 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bank of Mound Bayou — 1000 Perdido St., NEW ORLEANS, LA. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/49#xywh=608,2343,1756,142",
+      "id": "https://hadro.github.io/woods-directory//0049_service:rbc:lcrbmrp:t8073:049_gemini-2.0-flash_box_annotations.json/entry/0"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory//0049_service:rbc:lcrbmrp:t8073:049_gemini-2.0-flash_box_annotations.json"
+}

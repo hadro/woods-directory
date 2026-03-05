@@ -1,0 +1,40 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "ORLEANS PRINTING HOUSE — 149 Elk Place — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/36#xywh=253,470,1739,94",
+      "id": "https://hadro.github.io/woods-directory//0036_service:rbc:lcrbmrp:t8073:036_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "ARTHUR P. BEDOU — 1707 Bienville Ave. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/36#xywh=224,1408,863,87",
+      "id": "https://hadro.github.io/woods-directory//0036_service:rbc:lcrbmrp:t8073:036_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wilkins & Aldron — 1731 Dumaine St. and 427 S. Lopez St.\n1609 Urquhart St., near St. Ber-\nnard Avenue. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/36#xywh=683,2874,887,91",
+      "id": "https://hadro.github.io/woods-directory//0036_service:rbc:lcrbmrp:t8073:036_gemini-2.0-flash_box_annotations.json/entry/2"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory//0036_service:rbc:lcrbmrp:t8073:036_gemini-2.0-flash_box_annotations.json"
+}

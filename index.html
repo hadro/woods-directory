@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>woods directory 73644404 (73644404) — IIIF Viewer</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html, body, #mirador { height: 100%; }
+  </style>
+</head>
+<body>
+  <div id="mirador"></div>
+
+  <script src="https://unpkg.com/mirador@3.3.0/dist/mirador.min.js"></script>
+  <script>
+    // Decode optional IIIF Content State parameter (?iiif-content=BASE64URL).
+    // Mirador does not process this automatically — we decode it here and pass
+    // canvasId to the window config so the viewer opens at the right canvas.
+    function decodeContentState(encoded) {
+      try {
+        var b64 = encoded.replace(/-/g, "+").replace(/_/g, "/");
+        while (b64.length % 4) b64 += "=";
+        return JSON.parse(atob(b64));
+      } catch (e) {
+        console.warn("iiif-content decode failed:", e);
+        return null;
+      }
+    }
+
+    var DEFAULT_MANIFEST = "https://hadro.github.io/woods-directory/manifest.json";
+
+    var windowConfig = {
+      manifestId: DEFAULT_MANIFEST,
+      thumbnailNavigationPosition: "far-bottom",
+      view: "single"
+    };
+
+    var iiifContent = new URLSearchParams(window.location.search).get("iiif-content");
+    if (iiifContent) {
+      var state = decodeContentState(iiifContent);
+      if (state && state.target) {
+        var target = state.target;
+        // Strip any #xywh= fragment before passing to Mirador — Mirador does
+        // an exact string match against manifest canvas IDs, which never include
+        // fragments, so including the fragment prevents the canvas from being found.
+        var rawId = typeof target === "string" ? target : (target.id || "");
+        var canvasId = rawId.split("#")[0];
+        var manifestId =
+          (target.partOf && target.partOf[0] && target.partOf[0].id) ||
+          DEFAULT_MANIFEST;
+        if (canvasId) windowConfig.canvasId = canvasId;
+        windowConfig.manifestId = manifestId;
+      }
+    }
+
+    Mirador.viewer({
+      id: "mirador",
+      windows: [windowConfig],
+      workspace: { showZoomControls: true },
+      workspaceControlPanel: { enabled: false },
+      // Tell OpenSeadragon to request tiles with crossOrigin="anonymous" so
+      // that WebGL compositing (and annotation overlays) work correctly when
+      // tiles are served from a different origin.
+      osdConfig: {
+        crossOriginPolicy: "Anonymous",
+        ajaxWithCredentials: false,
+      },
+    });
+  </script>
+</body>
+</html>

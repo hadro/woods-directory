@@ -1,0 +1,161 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. Toca, Prop. — 1344 Annette St. Ph. Hemlock 2002. — New Orleans — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/26#xywh=1185,956,874,43",
+      "id": "https://hadro.github.io/woods-directory//0026_service:rbc:lcrbmrp:t8073:026_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Toca's Ice Cream Factory, — 2126 Melpomene Street. — New Orleans — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/26#xywh=341,1266,676,42",
+      "id": "https://hadro.github.io/woods-directory//0026_service:rbc:lcrbmrp:t8073:026_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "National Casualty Co. — Office; 302 Pythian Temple Bldg. Saratoga and Gravier Streets. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/26#xywh=1413,1263,426,41",
+      "id": "https://hadro.github.io/woods-directory//0026_service:rbc:lcrbmrp:t8073:026_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rene C. Metoyer — 540 St. Peter Street. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/26#xywh=452,3143,454,47",
+      "id": "https://hadro.github.io/woods-directory//0026_service:rbc:lcrbmrp:t8073:026_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wm. Hirst, Retail Junk Dealer. — 507 S. Telemachus Street. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/26#xywh=292,2830,775,39",
+      "id": "https://hadro.github.io/woods-directory//0026_service:rbc:lcrbmrp:t8073:026_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. G. Davis & Son. — 1613 Milan Street. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/26#xywh=1361,2100,529,42",
+      "id": "https://hadro.github.io/woods-directory//0026_service:rbc:lcrbmrp:t8073:026_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. D. Warburg — 1119 Dumaine Street. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/26#xywh=1423,2384,393,44",
+      "id": "https://hadro.github.io/woods-directory//0026_service:rbc:lcrbmrp:t8073:026_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ben Williams — 2119 Fourth Street. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/26#xywh=1446,2577,363,46",
+      "id": "https://hadro.github.io/woods-directory//0026_service:rbc:lcrbmrp:t8073:026_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Milton Bridgewater — 929 Julia Street. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/26#xywh=1359,2915,521,48",
+      "id": "https://hadro.github.io/woods-directory//0026_service:rbc:lcrbmrp:t8073:026_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Julius Evans — 2516 South Rampart Street. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/26#xywh=1449,3125,347,44",
+      "id": "https://hadro.github.io/woods-directory//0026_service:rbc:lcrbmrp:t8073:026_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles Curtis — 2256 Dryades Street. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/26#xywh=482,2193,386,41",
+      "id": "https://hadro.github.io/woods-directory//0026_service:rbc:lcrbmrp:t8073:026_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jos. Hilaire — No. 704 Bourbon S,reet. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/26#xywh=511,2377,323,40",
+      "id": "https://hadro.github.io/woods-directory//0026_service:rbc:lcrbmrp:t8073:026_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Perryman Bros., Jewelers, — 2250 Dryades Street. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/26#xywh=337,2561,680,44",
+      "id": "https://hadro.github.io/woods-directory//0026_service:rbc:lcrbmrp:t8073:026_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The People's Benevolent, Industrial Life Insurance Co. of Louisiana. — Home Office; Temple Bldg., Gravier and Saratoga Streets. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/26#xywh=241,1909,876,41",
+      "id": "https://hadro.github.io/woods-directory//0026_service:rbc:lcrbmrp:t8073:026_gemini-2.0-flash_box_annotations.json/entry/13"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory//0026_service:rbc:lcrbmrp:t8073:026_gemini-2.0-flash_box_annotations.json"
+}

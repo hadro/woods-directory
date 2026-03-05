@@ -1,0 +1,194 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Lettie Green — 112 N. Galvez Street. — New Orleans — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/22#xywh=1385,1267,482,47",
+      "id": "https://hadro.github.io/woods-directory//0022_service:rbc:lcrbmrp:t8073:022_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Annie Hill — 2609 Melpomene Street. — New Orleans — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/22#xywh=1412,1450,416,50",
+      "id": "https://hadro.github.io/woods-directory//0022_service:rbc:lcrbmrp:t8073:022_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. W. A. Jackson — 927 Valence St. — New Orleans — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/22#xywh=1358,1634,529,50",
+      "id": "https://hadro.github.io/woods-directory//0022_service:rbc:lcrbmrp:t8073:022_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Josephine Scott-Jones — 1621 St. Philip Street. — New Orleans — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/22#xywh=1257,1809,725,58",
+      "id": "https://hadro.github.io/woods-directory//0022_service:rbc:lcrbmrp:t8073:022_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Kate Young-Levy — 4218 Clara Street. — New Orleans — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/22#xywh=1287,2736,674,49",
+      "id": "https://hadro.github.io/woods-directory//0022_service:rbc:lcrbmrp:t8073:022_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Elizabeth Armstrong — 2118 Seventh Street. — New Orleans — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/22#xywh=1343,2924,550,52",
+      "id": "https://hadro.github.io/woods-directory//0022_service:rbc:lcrbmrp:t8073:022_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Nellie Martin — 3814 Perrier St. — New Orleans — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/22#xywh=1402,3126,445,42",
+      "id": "https://hadro.github.io/woods-directory//0022_service:rbc:lcrbmrp:t8073:022_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. A. L. Reese — 2823 Howard Street. — New Orleans — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/22#xywh=1388,3315,478,43",
+      "id": "https://hadro.github.io/woods-directory//0022_service:rbc:lcrbmrp:t8073:022_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Edward Gaudet — 4738 Magazine Street. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/22#xywh=469,1284,417,42",
+      "id": "https://hadro.github.io/woods-directory//0022_service:rbc:lcrbmrp:t8073:022_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "John V. Harris & Son — 2425 Conti St. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/22#xywh=382,1759,585,49",
+      "id": "https://hadro.github.io/woods-directory//0022_service:rbc:lcrbmrp:t8073:022_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alfred Williams — 226 Decatur St. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/22#xywh=460,1935,425,43",
+      "id": "https://hadro.github.io/woods-directory//0022_service:rbc:lcrbmrp:t8073:022_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Oliva Boutta-Gauff — 2316 Milan Street. — New Orleans — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/22#xywh=375,3310,618,49",
+      "id": "https://hadro.github.io/woods-directory//0022_service:rbc:lcrbmrp:t8073:022_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. A. V. Coleman — 2027 Sixth Street. — New Orleans — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/22#xywh=414,2396,531,41",
+      "id": "https://hadro.github.io/woods-directory//0022_service:rbc:lcrbmrp:t8073:022_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Augustine Eaves — 809 Jena Street. — New Orleans — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/22#xywh=388,2580,584,42",
+      "id": "https://hadro.github.io/woods-directory//0022_service:rbc:lcrbmrp:t8073:022_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. M. W. English — 1830 Toledano Street. — New Orleans — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/22#xywh=422,2763,517,44",
+      "id": "https://hadro.github.io/woods-directory//0022_service:rbc:lcrbmrp:t8073:022_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Lena Remy-Fernandez — 1119 Valence St. — New Orleans — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/22#xywh=323,2946,717,47",
+      "id": "https://hadro.github.io/woods-directory//0022_service:rbc:lcrbmrp:t8073:022_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mayme A. Gates — 1712 Iberville Street. — New Orleans — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/22#xywh=401,3129,565,42",
+      "id": "https://hadro.github.io/woods-directory//0022_service:rbc:lcrbmrp:t8073:022_gemini-2.0-flash_box_annotations.json/entry/16"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory//0022_service:rbc:lcrbmrp:t8073:022_gemini-2.0-flash_box_annotations.json"
+}

@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "George U. Maury — No. 1611 N. Claiborne Ave., near New Orleans St. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/45#xywh=1193,627,1088,147",
+      "id": "https://hadro.github.io/woods-directory//0045_service:rbc:lcrbmrp:t8073:045_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Penny Store — Lapeyrouse Street, Corner Prieur. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/45#xywh=532,2083,1763,157",
+      "id": "https://hadro.github.io/woods-directory//0045_service:rbc:lcrbmrp:t8073:045_gemini-2.0-flash_box_annotations.json/entry/1"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory//0045_service:rbc:lcrbmrp:t8073:045_gemini-2.0-flash_box_annotations.json"
+}

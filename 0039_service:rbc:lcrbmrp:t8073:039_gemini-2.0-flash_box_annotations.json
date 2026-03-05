@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Powell's Ball-Bearing Auto Creeper — 702 Julia St., New Orleans, La. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/39#xywh=514,1497,1759,96",
+      "id": "https://hadro.github.io/woods-directory//0039_service:rbc:lcrbmrp:t8073:039_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Screwmens Business Ass'n, Ltd. — Cor. S. Rampart and Second Sts., New Orleans — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/39#xywh=511,2359,1757,141",
+      "id": "https://hadro.github.io/woods-directory//0039_service:rbc:lcrbmrp:t8073:039_gemini-2.0-flash_box_annotations.json/entry/1"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory//0039_service:rbc:lcrbmrp:t8073:039_gemini-2.0-flash_box_annotations.json"
+}

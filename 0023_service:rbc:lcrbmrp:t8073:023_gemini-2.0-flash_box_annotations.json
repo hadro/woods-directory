@@ -1,0 +1,216 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Emma J. Rose — 2318 Toledano Street. — New Orleans — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/23#xywh=678,1288,538,42",
+      "id": "https://hadro.github.io/woods-directory//0023_service:rbc:lcrbmrp:t8073:023_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Laura Gauff-Watkins — 1119 Dufossat Street. — New Orleans — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/23#xywh=604,1480,694,51",
+      "id": "https://hadro.github.io/woods-directory//0023_service:rbc:lcrbmrp:t8073:023_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Cora Vignes-Wilson — 927 Bienville Street. — New Orleans — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/23#xywh=612,1664,682,51",
+      "id": "https://hadro.github.io/woods-directory//0023_service:rbc:lcrbmrp:t8073:023_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ethel Woods — 2420 Howard Street. — New Orleans — [Barber / Beauty]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/23#xywh=714,1853,482,43",
+      "id": "https://hadro.github.io/woods-directory//0023_service:rbc:lcrbmrp:t8073:023_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Albert Baumann — Third and Howard Streets. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/23#xywh=730,2206,445,43",
+      "id": "https://hadro.github.io/woods-directory//0023_service:rbc:lcrbmrp:t8073:023_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Burbridge & Dejoie — 1832 Dryades St. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/23#xywh=691,2542,531,43",
+      "id": "https://hadro.github.io/woods-directory//0023_service:rbc:lcrbmrp:t8073:023_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Joseph Dejoie — Corner Seventh and S. Rampart Street. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/23#xywh=764,2719,396,45",
+      "id": "https://hadro.github.io/woods-directory//0023_service:rbc:lcrbmrp:t8073:023_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "E. J. La Branche — 818-20 N. Claiborne Avenue. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/23#xywh=724,2923,460,41",
+      "id": "https://hadro.github.io/woods-directory//0023_service:rbc:lcrbmrp:t8073:023_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Nelson Drug Store — Corner Oak & Joliet — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/23#xywh=639,3147,626,43",
+      "id": "https://hadro.github.io/woods-directory//0023_service:rbc:lcrbmrp:t8073:023_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "People's Drug Store — 624 S. Rampart St. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/23#xywh=673,3324,556,44",
+      "id": "https://hadro.github.io/woods-directory//0023_service:rbc:lcrbmrp:t8073:023_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rev. A. L. Reese — 2823 Howard Street. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/23#xywh=1677,1262,438,40",
+      "id": "https://hadro.github.io/woods-directory//0023_service:rbc:lcrbmrp:t8073:023_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Theo. Evans — 131 S. Liberty Street. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/23#xywh=1720,1567,359,44",
+      "id": "https://hadro.github.io/woods-directory//0023_service:rbc:lcrbmrp:t8073:023_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "David W. McKay — 2109 Delechaise Street. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/23#xywh=1657,1750,487,47",
+      "id": "https://hadro.github.io/woods-directory//0023_service:rbc:lcrbmrp:t8073:023_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Louis Charbonnet — 2029 Lapeyrouse Street. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/23#xywh=1661,2027,484,41",
+      "id": "https://hadro.github.io/woods-directory//0023_service:rbc:lcrbmrp:t8073:023_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jos. Touchard — Stall No. 16 French Fish Market. Office, 1007 Decatur Street. Residence, 1925 St. Claude Street. — New Orleans — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/23#xywh=1703,2342,404,42",
+      "id": "https://hadro.github.io/woods-directory//0023_service:rbc:lcrbmrp:t8073:023_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. C. Cook — Stall 19, Mehle Market. — New Orleans — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/23#xywh=1710,2751,382,42",
+      "id": "https://hadro.github.io/woods-directory//0023_service:rbc:lcrbmrp:t8073:023_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "E. Fouche — Treme Market,\nResidence, 2320 St. Philip Street. — New Orleans — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/23#xywh=1753,2934,297,44",
+      "id": "https://hadro.github.io/woods-directory//0023_service:rbc:lcrbmrp:t8073:023_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "F. Morgan — Stalls, 45-46, Treme Market. — New Orleans — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/23#xywh=1748,3138,297,43",
+      "id": "https://hadro.github.io/woods-directory//0023_service:rbc:lcrbmrp:t8073:023_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. Raymond — Stalls 114-116 Second Street Market. — New Orleans — [Restaurants / Bars]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/23#xywh=1720,3322,353,43",
+      "id": "https://hadro.github.io/woods-directory//0023_service:rbc:lcrbmrp:t8073:023_gemini-2.0-flash_box_annotations.json/entry/18"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory//0023_service:rbc:lcrbmrp:t8073:023_gemini-2.0-flash_box_annotations.json"
+}

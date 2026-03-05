@@ -1,0 +1,40 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "CENTRAL FURNITURE TRANSFER CO. — 2400 S. Rampart St. Cor. First. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/41#xywh=550,384,1742,93",
+      "id": "https://hadro.github.io/woods-directory//0041_service:rbc:lcrbmrp:t8073:041_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Frank Perryman. — 4831-33 Coliseum St., cor. Lyon. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/41#xywh=552,2001,455,41",
+      "id": "https://hadro.github.io/woods-directory//0041_service:rbc:lcrbmrp:t8073:041_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Perryman Bros. — 2250 Dryades St. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/41#xywh=944,2109,958,83",
+      "id": "https://hadro.github.io/woods-directory//0041_service:rbc:lcrbmrp:t8073:041_gemini-2.0-flash_box_annotations.json/entry/2"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory//0041_service:rbc:lcrbmrp:t8073:041_gemini-2.0-flash_box_annotations.json"
+}

@@ -1,0 +1,51 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Thos. A. Carr, Pres. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/46#xywh=1419,432,560,41",
+      "id": "https://hadro.github.io/woods-directory//0046_service:rbc:lcrbmrp:t8073:046_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "DENTIST TAILOR — 2250-52 Dryades St., near Philip St. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/46#xywh=1414,1343,308,51",
+      "id": "https://hadro.github.io/woods-directory//0046_service:rbc:lcrbmrp:t8073:046_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "2236 DRYADES ST., NEW ORLEANS — 2236 DRYADES ST., NEW ORLEANS — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/46#xywh=1138,1661,880,45",
+      "id": "https://hadro.github.io/woods-directory//0046_service:rbc:lcrbmrp:t8073:046_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alfred Williams, Garden District Saloon — Cor. S. Rampart St. and Fourth. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/46#xywh=1137,1993,893,86",
+      "id": "https://hadro.github.io/woods-directory//0046_service:rbc:lcrbmrp:t8073:046_gemini-2.0-flash_box_annotations.json/entry/3"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory//0046_service:rbc:lcrbmrp:t8073:046_gemini-2.0-flash_box_annotations.json"
+}

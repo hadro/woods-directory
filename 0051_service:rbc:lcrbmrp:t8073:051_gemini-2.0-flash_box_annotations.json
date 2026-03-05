@@ -1,0 +1,18 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "DAVID W. McKAY — Shop: 702 Julia Street. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/51#xywh=528,447,1751,126",
+      "id": "https://hadro.github.io/woods-directory//0051_service:rbc:lcrbmrp:t8073:051_gemini-2.0-flash_box_annotations.json/entry/0"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory//0051_service:rbc:lcrbmrp:t8073:051_gemini-2.0-flash_box_annotations.json"
+}

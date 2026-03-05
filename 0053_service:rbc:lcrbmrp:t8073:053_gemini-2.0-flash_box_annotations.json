@@ -1,0 +1,62 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. P. BEDOU — 1707 Bienville Street, New Orleans. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/53#xywh=907,587,923,97",
+      "id": "https://hadro.github.io/woods-directory//0053_service:rbc:lcrbmrp:t8073:053_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The BLANDIN-LeBLANC CO., Ltd. — 1137 Hospital St., : New Orleans, La. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/53#xywh=501,1345,1755,103",
+      "id": "https://hadro.github.io/woods-directory//0053_service:rbc:lcrbmrp:t8073:053_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LOUIS MASPERO — No. 1611 Claiborne Avenue. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/53#xywh=1411,1985,898,91",
+      "id": "https://hadro.github.io/woods-directory//0053_service:rbc:lcrbmrp:t8073:053_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Welch's Frame Shop. — 336 Bourbon St. : New Orleans. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/53#xywh=1411,1985,898,91",
+      "id": "https://hadro.github.io/woods-directory//0053_service:rbc:lcrbmrp:t8073:053_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "ROBERT C. CALDWELL — 2013-2015 Dryades St. :: New Orleans, La. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/53#xywh=1174,2897,1085,87",
+      "id": "https://hadro.github.io/woods-directory//0053_service:rbc:lcrbmrp:t8073:053_gemini-2.0-flash_box_annotations.json/entry/4"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory//0053_service:rbc:lcrbmrp:t8073:053_gemini-2.0-flash_box_annotations.json"
+}

@@ -1,0 +1,403 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bethlehem Chapel — Dryades corner Washington Avenue — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=325,664,1424,44",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Paul's Church — 1625 Annette Street — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=327,724,988,45",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "First Street Church — First and Dryades Streets — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=325,859,1196,45",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Haven Chapel — Joliet and Plum Streets — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=322,920,1016,44",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mallieu Chapel — 820 Sixth Street — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=325,978,836,49",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mt. Zion Church — 2515 Jackson Avenue — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=327,1043,1011,44",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pleasant Plain Chapel — 2042 Perdido Street — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=327,1103,1089,45",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Scott Chinn Chapel — 1827 Laharp Street — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=327,1165,1013,44",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Simpson Memorial Church — Valence near Chesnut — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=327,1226,1280,44",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Union Chapel — 1512 Bienville Street — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=327,1283,910,49",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wesley Chapel — 521 S. Liberty Street — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=329,1347,955,43",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Williams Chapel — Cherokee and Pearl Streets — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=292,1407,1194,45",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Morris Brown Church — 1813 Urquhart Street — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=325,1540,1112,45",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mt. Calvary Church — Dryades and Amelia Streets — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=325,1602,1260,44",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. James Church — 218 N. Roman Street — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=325,1662,1029,45",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. John's Church — 318 Opelousas Street — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=325,1723,1025,45",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Peters Church — Cadiz Street corner Coliseum — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=325,1786,1240,45",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Union Bethel Church — 1211 Howard Street — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=327,1848,1073,44",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Berean Church — 2132 Third Street — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=327,1982,859,43",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Allegro Club — 1608 Dumaine Street — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=275,2153,912,47",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Daysman Club — 2119 Governer Nichols Street — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=278,2216,1167,43",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Iroquois Club — 1401 Canal Street — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=275,2276,848,45",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Oleander Club — Washington Avenue near S. Rampart Street — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=275,2338,1535,44",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Orleans Club — 1939 Orleans Street — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=275,2399,874,45",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "San Jacinto Club — 811 Marais Street — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=281,2461,911,43",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Francis Amis — 1820 N. Robertson Street — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=278,2633,1029,45",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Friends of Hope — 922 N. Liberty Street — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=278,2694,1005,44",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Globes Hall — St. Peter and St. Claude Streets — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=280,2754,1158,45",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies' Providence Hall — S. Liberty and Philip Streets — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=280,2817,1391,43",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Longshoreman's Hall — Jackson and S. Franklin Streets — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=284,2876,1402,45",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Masonic and Odd Fellows Hall — 1116 Perido Street — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=281,2938,1279,43",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pythian Temple — Gravier and Saratoga Streets — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=275,2999,1197,45",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Elizabeth Hall — Camp Street near Valence — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=278,3061,1167,44",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Dominic's Hall — Cambronne and Burthe Streets — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=280,3122,1297,45",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Katherine Hall — Howard near Tulane Avenue — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=278,3183,1249,43",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Winan Chapel Hall — S. Rampart near Fourth Street — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/14#xywh=280,3245,1305,45",
+      "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json/entry/35"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory//0014_service:rbc:lcrbmrp:t8073:014_gemini-2.0-flash_box_annotations.json"
+}

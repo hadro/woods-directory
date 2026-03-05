@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "ALBERT MONNOT — 725 St. Louis St., between Royal and Bourbon — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/38#xywh=451,485,1432,115",
+      "id": "https://hadro.github.io/woods-directory//0038_service:rbc:lcrbmrp:t8073:038_gemini-2.0-flash_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "EMILE LABAT — 1120 St. Claude Street, New Orleans. — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/38#xywh=415,2048,1524,111",
+      "id": "https://hadro.github.io/woods-directory//0038_service:rbc:lcrbmrp:t8073:038_gemini-2.0-flash_box_annotations.json/entry/1"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory//0038_service:rbc:lcrbmrp:t8073:038_gemini-2.0-flash_box_annotations.json"
+}

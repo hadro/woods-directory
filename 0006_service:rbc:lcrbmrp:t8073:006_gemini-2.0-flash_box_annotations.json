@@ -1,0 +1,18 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Allen T. Woods, Publisher — New Orleans — [Other]",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/6#xywh=360,3184,1161,59",
+      "id": "https://hadro.github.io/woods-directory//0006_service:rbc:lcrbmrp:t8073:006_gemini-2.0-flash_box_annotations.json/entry/0"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory//0006_service:rbc:lcrbmrp:t8073:006_gemini-2.0-flash_box_annotations.json"
+}
