@@ -101,8 +101,10 @@ input[type=text]:focus, select:focus { border-color: #4e79a7; }
 
 <div id="sidebar">
   <div id="sidebar-header">
-    <h1>woods directory 73644404 (73644404)</h1>
+    <h1>Woods' Directory</h1>
     <p id="subtitle">Loading…</p>
+    <p style="margin-top:4px;font-size:11px;"><a href="https://www.loc.gov/item/73644404/" target="_blank" rel="noopener" style="color:#1a6ebd;">Item page (Library of Congress) ↗</a></p>
+    <p style="margin-top:2px;font-size:11px;"><a href="https://hadro.github.io/woods-directory/explorer.html" target="_blank" rel="noopener" style="color:#1a6ebd;">Data Explorer ↗</a></p>
   </div>
 
   <div id="sidebar-body">
@@ -155,6 +157,33 @@ let clusterGroup = L.markerClusterGroup({ chunkedLoading: true, maxClusterRadius
 map.addLayer(clusterGroup);
 let visibleLatLngs = [];
 
+// ── URL state ────────────────────────────────────────────────────────────────
+const markerByIdx = new Map();  // ALL_ENTRIES index → Leaflet marker
+let _openEntryIdx = null;       // index of currently-open popup, or null
+let _suppressFitBounds = false; // true while restoring a hash-encoded view
+
+function stateToHash() {
+  const c = map.getCenter();
+  const z = map.getZoom();
+  const base = `${c.lat.toFixed(4)},${c.lng.toFixed(4)},${z}`;
+  return _openEntryIdx != null ? `#${base},${_openEntryIdx}` : `#${base}`;
+}
+
+function hashToState() {
+  const h = location.hash.slice(1);
+  if (!h) return null;
+  const [latS, lonS, zS, idxS] = h.split(',');
+  const lat = parseFloat(latS), lon = parseFloat(lonS), zoom = parseInt(zS);
+  if (isNaN(lat) || isNaN(lon) || isNaN(zoom)) return null;
+  return { lat, lon, zoom, idx: idxS != null ? parseInt(idxS) : null };
+}
+
+function updateHash() {
+  try { history.replaceState(null, '', stateToHash()); } catch(e) {}
+}
+
+map.on('moveend zoomend', updateHash);
+
 document.getElementById('subtitle').textContent =
   YEAR_LABEL + ' · ' + TOTAL_ENTRIES.toLocaleString() + ' entries';
 
@@ -199,9 +228,17 @@ function updateMap() {
 
   clusterGroup.clearLayers();
   visibleLatLngs = [];
+  markerByIdx.clear();
 
+  // Louisiana bounding box — excludes geocoding errors placed outside the state
+  const LA_BOUNDS = { minLat: 28.9, maxLat: 33.05, minLon: -94.05, maxLon: -88.75 };
+
+  let ei = 0;
   for (const e of ALL_ENTRIES) {
+    const _ei = ei++;
     if (state && e.state !== state) continue;
+    if (e.lat < LA_BOUNDS.minLat || e.lat > LA_BOUNDS.maxLat ||
+        e.lon < LA_BOUNDS.minLon || e.lon > LA_BOUNDS.maxLon) continue;
     if (!activeCats.has(e.category)) continue;
     if (q) {
       const hay = (e.name + ' ' + e.address + ' ' + e.city).toLowerCase();
@@ -227,6 +264,10 @@ function updateMap() {
       { maxWidth: 300 }
     );
 
+    marker.on('popupopen',  () => { _openEntryIdx = _ei; updateHash(); });
+    marker.on('popupclose', () => { if (_openEntryIdx === _ei) { _openEntryIdx = null; updateHash(); } });
+    markerByIdx.set(_ei, marker);
+
     clusterGroup.addLayer(marker);
     visibleLatLngs.push([e.lat, e.lon]);
   }
@@ -234,6 +275,11 @@ function updateMap() {
   const n = visibleLatLngs.length;
   document.getElementById('result-count').textContent =
     n.toLocaleString() + ' of ' + TOTAL_ENTRIES.toLocaleString() + ' entries shown';
+
+  if (!_suppressFitBounds && n > 0) {
+    if (n === 1) map.setView(visibleLatLngs[0], 16);
+    else map.fitBounds(L.latLngBounds(visibleLatLngs), { padding: [30, 30] });
+  }
 }
 
 document.getElementById('fit-btn').addEventListener('click', () => {
@@ -265,7 +311,18 @@ document.querySelectorAll('.cat-cb').forEach(cb =>
   })
 );
 
+const _initState = hashToState();
+if (_initState) {
+  map.setView([_initState.lat, _initState.lon], _initState.zoom);
+  _suppressFitBounds = true;
+}
 updateMap();
+_suppressFitBounds = false;
+
+if (_initState && _initState.idx != null) {
+  const m = markerByIdx.get(_initState.idx);
+  if (m) clusterGroup.zoomToShowLayer(m, () => m.openPopup());
+}
 </script>
 </body>
 </html>
