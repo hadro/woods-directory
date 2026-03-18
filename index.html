@@ -1,72 +1,181 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>woods directory 73644404 (73644404) — IIIF Viewer</title>
   <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    html, body, #mirador { height: 100%; }
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      background: #1a1a1a;
+      color: #f0f0f0;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    header {
+      background: #111;
+      border-bottom: 1px solid #333;
+      padding: 10px 16px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-shrink: 0;
+      flex-wrap: wrap;
+    }
+    header h1 { font-size: 15px; font-weight: 700; color: #f0c040; }
+    #viewer-wrap { flex: 1; position: relative; overflow: hidden; }
+    clover-viewer { display: block; position: absolute; inset: 0; }
   </style>
 </head>
 <body>
-  <div id="mirador"></div>
 
-  <script src="https://unpkg.com/mirador@3.3.0/dist/mirador.min.js"></script>
-  <script>
-    // Decode optional IIIF Content State parameter (?iiif-content=BASE64URL).
-    // Mirador does not process this automatically — we decode it here and pass
-    // canvasId to the window config so the viewer opens at the right canvas.
-    function decodeContentState(encoded) {
-      try {
-        var b64 = encoded.replace(/-/g, "+").replace(/_/g, "/");
-        while (b64.length % 4) b64 += "=";
-        return JSON.parse(atob(b64));
-      } catch (e) {
-        console.warn("iiif-content decode failed:", e);
-        return null;
+<header>
+  <h1>woods directory 73644404 (73644404)</h1>
+</header>
+
+<div id="viewer-wrap"></div>
+
+<script>
+const DEFAULT_MANIFEST = "https://hadro.github.io/woods-directory/manifest.json";
+
+// ── IIIF Content State helpers ───────────────────────────────────────────────
+function decodeContentState() {
+  const raw = new URLSearchParams(window.location.search).get("iiif-content");
+  if (!raw) return null;
+  try {
+    const b64 = raw.replace(/-/g, "+").replace(/_/g, "/");
+    const padded = b64 + "=".repeat((4 - b64.length % 4) % 4);
+    const json = decodeURIComponent(escape(atob(padded)));
+    return JSON.parse(json);
+  } catch (e) { return null; }
+}
+
+// ── Canvas ID translation (NYPL image URL → real canvas ID) ─────────────────
+function serviceId(service) {
+  if (!service) return "";
+  const s = Array.isArray(service) ? service[0] : service;
+  return (s && (s.id || s["@id"])) || "";
+}
+
+function buildCanvasIndex(manifest) {
+  const index = {};
+  for (const canvas of (manifest.items || [])) {
+    try {
+      const body = canvas.items[0].items[0].body;
+      const svc = serviceId(body.service);
+      if (svc) index[svc] = canvas.id;
+    } catch (e) {}
+  }
+  return index;
+}
+
+function oldCanvasToServiceBase(url) {
+  return url.replace(/\/full\/.*$/, "");
+}
+
+// ── Clover content state (SpecificResource format + blob URL workaround) ─────
+function contentStateToBlobId(stateObj) {
+  const blob = new Blob([JSON.stringify(stateObj)], { type: "application/json" });
+  return URL.createObjectURL(blob);
+}
+
+function buildCloverState(manifestId, canvasId, fragment) {
+  const csTarget = {
+    type: "SpecificResource",
+    source: {
+      id: canvasId,
+      type: "Canvas",
+      partOf: [{ id: manifestId, type: "Manifest" }],
+    },
+  };
+  if (fragment) {
+    csTarget.selector = { type: "FragmentSelector", value: fragment };
+  }
+  return {
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    id: canvasId + (fragment ? "#" + fragment : "") + "/content-state",
+    type: "Annotation",
+    motivation: ["contentState"],
+    target: csTarget,
+  };
+}
+
+// ── Close info panel once Clover has zoomed to the content-state target ───────
+function closeInfoPanelAfterZoom(el, fallbackMs) {
+  let done = false;
+  function close() {
+    if (done) return;
+    done = true;
+    obs.disconnect();
+    clearTimeout(timer);
+    const btn = el.querySelector('[data-value="manifest-back"]');
+    if (btn) btn.click();
+  }
+  const obs = new MutationObserver(mutations => {
+    for (const m of mutations) {
+      if (m.type === "attributes" && m.attributeName === "class" &&
+          m.target.className === "clover-iiif-content-state") {
+        close();
+        return;
       }
     }
+  });
+  obs.observe(el, { subtree: true, attributes: true, attributeFilter: ["class"] });
+  const timer = setTimeout(close, fallbackMs);
+}
 
-    var DEFAULT_MANIFEST = "https://hadro.github.io/woods-directory/manifest.json";
+// ── Viewer lifecycle ─────────────────────────────────────────────────────────
+function launchClover(manifestId, rawCanvasId) {
+  const wrap = document.getElementById("viewer-wrap");
+  const old = wrap.querySelector("clover-viewer");
+  if (old) old.remove();
 
-    var windowConfig = {
-      manifestId: DEFAULT_MANIFEST,
-      thumbnailNavigationPosition: "far-bottom",
-      view: "single"
-    };
+  const el = document.createElement("clover-viewer");
 
-    var iiifContent = new URLSearchParams(window.location.search).get("iiif-content");
-    if (iiifContent) {
-      var state = decodeContentState(iiifContent);
-      if (state && state.target) {
-        var target = state.target;
-        // Strip any #xywh= fragment before passing to Mirador — Mirador does
-        // an exact string match against manifest canvas IDs, which never include
-        // fragments, so including the fragment prevents the canvas from being found.
-        var rawId = typeof target === "string" ? target : (target.id || "");
-        var canvasId = rawId.split("#")[0];
-        var manifestId =
-          (target.partOf && target.partOf[0] && target.partOf[0].id) ||
-          DEFAULT_MANIFEST;
-        if (canvasId) windowConfig.canvasId = canvasId;
-        windowConfig.manifestId = manifestId;
-      }
-    }
+  if (!rawCanvasId) {
+    el.setAttribute("id", manifestId);
+    wrap.appendChild(el);
+    closeInfoPanelAfterZoom(el, 1500);
+    return;
+  }
 
-    Mirador.viewer({
-      id: "mirador",
-      windows: [windowConfig],
-      workspace: { showZoomControls: true },
-      workspaceControlPanel: { enabled: false },
-      // Tell OpenSeadragon to request tiles with crossOrigin="anonymous" so
-      // that WebGL compositing (and annotation overlays) work correctly when
-      // tiles are served from a different origin.
-      osdConfig: {
-        crossOriginPolicy: "Anonymous",
-        ajaxWithCredentials: false,
-      },
+  const fragment = rawCanvasId.includes("#") ? rawCanvasId.split("#")[1] : "";
+  const oldBase  = rawCanvasId.includes("#") ? rawCanvasId.split("#")[0] : rawCanvasId;
+
+  fetch(manifestId)
+    .then(r => r.json())
+    .then(manifest => {
+      const index = buildCanvasIndex(manifest);
+      const svcBase = oldCanvasToServiceBase(oldBase);
+      const newCanvasId = index[svcBase] || index[oldBase] || oldBase;
+      el.setAttribute("id", contentStateToBlobId(buildCloverState(manifestId, newCanvasId, fragment)));
+      wrap.appendChild(el);
+      closeInfoPanelAfterZoom(el, 5000);
+    })
+    .catch(() => {
+      el.setAttribute("id", manifestId);
+      wrap.appendChild(el);
+      closeInfoPanelAfterZoom(el, 1500);
     });
-  </script>
+}
+
+// ── Initialise ───────────────────────────────────────────────────────────────
+const contentState = decodeContentState();
+let startCanvasId = null;
+
+if (contentState) {
+  const target = contentState.target || {};
+  const source = (target.type === "SpecificResource" && target.source) ? target.source : target;
+  startCanvasId = (typeof source === "string" ? source : (source.id || "")).split("#")[0];
+  if (source.id && source.id.includes("#")) startCanvasId += "#" + source.id.split("#")[1];
+}
+
+launchClover(DEFAULT_MANIFEST, startCanvasId);
+</script>
+
+<script src="clover.umd.patched.js"></script>
 </body>
 </html>

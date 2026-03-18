@@ -7,7 +7,7 @@
       "motivation": "commenting",
       "body": {
         "type": "TextualBody",
-        "value": "Gustave Morales & Son — Shop, 1423 St. Claude St. - Residence, 1716 Columbus St. — New Orleans — [Other]",
+        "value": "New Orleans — [Other]",
         "format": "text/plain"
       },
       "target": "https://www.loc.gov/item/73644404/canvas/52#xywh=324,618,1749,148",
@@ -18,7 +18,7 @@
       "motivation": "commenting",
       "body": {
         "type": "TextualBody",
-        "value": "Emile G. Reiss — 1522 Mandeville Street — New Orleans — [Other]",
+        "value": "New Orleans — [Other]",
         "format": "text/plain"
       },
       "target": "https://www.loc.gov/item/73644404/canvas/52#xywh=628,2310,1136,146",

@@ -7,7 +7,7 @@
       "motivation": "commenting",
       "body": {
         "type": "TextualBody",
-        "value": "George U. Maury — No. 1611 N. Claiborne Ave., near New Orleans St. — New Orleans — [Other]",
+        "value": "New Orleans — [Other]",
         "format": "text/plain"
       },
       "target": "https://www.loc.gov/item/73644404/canvas/45#xywh=1193,627,1088,147",
@@ -18,7 +18,7 @@
       "motivation": "commenting",
       "body": {
         "type": "TextualBody",
-        "value": "The Penny Store — Lapeyrouse Street, Corner Prieur. — New Orleans — [Other]",
+        "value": "New Orleans — [Other]",
         "format": "text/plain"
       },
       "target": "https://www.loc.gov/item/73644404/canvas/45#xywh=532,2083,1763,157",

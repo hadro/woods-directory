@@ -7,7 +7,7 @@
       "motivation": "commenting",
       "body": {
         "type": "TextualBody",
-        "value": "CENTRAL FURNITURE TRANSFER CO. — 2400 S. Rampart St. Cor. First. — New Orleans — [Other]",
+        "value": "New Orleans — [Other]",
         "format": "text/plain"
       },
       "target": "https://www.loc.gov/item/73644404/canvas/41#xywh=550,384,1742,93",
@@ -18,7 +18,7 @@
       "motivation": "commenting",
       "body": {
         "type": "TextualBody",
-        "value": "Frank Perryman. — 4831-33 Coliseum St., cor. Lyon. — New Orleans — [Other]",
+        "value": "New Orleans — [Other]",
         "format": "text/plain"
       },
       "target": "https://www.loc.gov/item/73644404/canvas/41#xywh=552,2001,455,41",
@@ -29,7 +29,7 @@
       "motivation": "commenting",
       "body": {
         "type": "TextualBody",
-        "value": "Perryman Bros. — 2250 Dryades St. — New Orleans — [Other]",
+        "value": "New Orleans — [Other]",
         "format": "text/plain"
       },
       "target": "https://www.loc.gov/item/73644404/canvas/41#xywh=944,2109,958,83",

@@ -7,7 +7,7 @@
       "motivation": "commenting",
       "body": {
         "type": "TextualBody",
-        "value": "James A. Sample — 301 Pythian Temple, Gravier and Saratoga Sts., New Orleans. — New Orleans — [Other]",
+        "value": "New Orleans — [Other]",
         "format": "text/plain"
       },
       "target": "https://www.loc.gov/item/73644404/canvas/44#xywh=727,514,848,97",
@@ -18,7 +18,7 @@
       "motivation": "commenting",
       "body": {
         "type": "TextualBody",
-        "value": "THE PHOENIX PRINTERY — 309 Dryades St., near Gravier. New Orleans. — New Orleans — [Other]",
+        "value": "New Orleans — [Other]",
         "format": "text/plain"
       },
       "target": "https://www.loc.gov/item/73644404/canvas/44#xywh=507,1379,1271,77",
@@ -29,7 +29,7 @@
       "motivation": "commenting",
       "body": {
         "type": "TextualBody",
-        "value": "Hollow Concrete Block Mfg. Co. — Office: 3730 Willow Street. — New Orleans — [Other]",
+        "value": "New Orleans — [Other]",
         "format": "text/plain"
       },
       "target": "https://www.loc.gov/item/73644404/canvas/44#xywh=339,2060,1618,109",
@@ -40,7 +40,7 @@
       "motivation": "commenting",
       "body": {
         "type": "TextualBody",
-        "value": "John V. Harris & Son — Residence: 2425 Conti Street. Stand: Carondelet and Poydras Sts. — New Orleans — [Other]",
+        "value": "New Orleans — [Other]",
         "format": "text/plain"
       },
       "target": "https://www.loc.gov/item/73644404/canvas/44#xywh=509,2736,1278,92",

@@ -7,7 +7,7 @@
       "motivation": "commenting",
       "body": {
         "type": "TextualBody",
-        "value": "THE ASTORIA — 235-37 S. Rampart St. — New Orleans — [Hotels / Motels]",
+        "value": "New Orleans — [Hotels / Motels]",
         "format": "text/plain"
       },
       "target": "https://www.loc.gov/item/73644404/canvas/63#xywh=625,557,1654,161",
@@ -18,7 +18,7 @@
       "motivation": "commenting",
       "body": {
         "type": "TextualBody",
-        "value": "French Benzil- Dry Cleaning Co. — 5010 Prytania Street. — New Orleans — [Other]",
+        "value": "New Orleans — [Other]",
         "format": "text/plain"
       },
       "target": "https://www.loc.gov/item/73644404/canvas/63#xywh=661,2478,1576,173",

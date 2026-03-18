@@ -7,7 +7,7 @@
       "motivation": "commenting",
       "body": {
         "type": "TextualBody",
-        "value": "F. C. BARRINGTON — 2126 Melpomene St., corner So. Franklin. — New Orleans — [Restaurants / Bars]",
+        "value": "New Orleans — [Restaurants / Bars]",
         "format": "text/plain"
       },
       "target": "https://www.loc.gov/item/73644404/canvas/50#xywh=397,695,1545,70",
@@ -18,7 +18,7 @@
       "motivation": "commenting",
       "body": {
         "type": "TextualBody",
-        "value": "Joseph Narcisse — 2815 South Rampart Street. — New Orleans — [Other]",
+        "value": "New Orleans — [Other]",
         "format": "text/plain"
       },
       "target": "https://www.loc.gov/item/73644404/canvas/50#xywh=299,1187,796,85",
@@ -29,7 +29,7 @@
       "motivation": "commenting",
       "body": {
         "type": "TextualBody",
-        "value": "D. W. DOOLEY — 930 Kerlerec St., New Olreans. — New Orleans — [Other]",
+        "value": "New Orleans — [Other]",
         "format": "text/plain"
       },
       "target": "https://www.loc.gov/item/73644404/canvas/50#xywh=1194,1641,878,45",
@@ -40,7 +40,7 @@
       "motivation": "commenting",
       "body": {
         "type": "TextualBody",
-        "value": "The Nelson Drug Store — Corner Oak and Joliet Streets. :: New Orleans, La. — New Orleans — [Other]",
+        "value": "New Orleans — [Other]",
         "format": "text/plain"
       },
       "target": "https://www.loc.gov/item/73644404/canvas/50#xywh=285,1996,1754,157",

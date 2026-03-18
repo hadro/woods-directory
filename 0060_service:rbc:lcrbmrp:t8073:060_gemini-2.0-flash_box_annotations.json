@@ -7,7 +7,7 @@
       "motivation": "commenting",
       "body": {
         "type": "TextualBody",
-        "value": "L. C. ANTOINE — 515-519 S. Prieur Street. — New Orleans — [Other]",
+        "value": "New Orleans — [Other]",
         "format": "text/plain"
       },
       "target": "https://www.loc.gov/item/73644404/canvas/60#xywh=608,428,1213,85",
@@ -18,7 +18,7 @@
       "motivation": "commenting",
       "body": {
         "type": "TextualBody",
-        "value": "William Hirst — 509 S. Telemachus St. — New Orleans — [Other]",
+        "value": "New Orleans — [Other]",
         "format": "text/plain"
       },
       "target": "https://www.loc.gov/item/73644404/canvas/60#xywh=764,1246,900,114",
@@ -29,7 +29,7 @@
       "motivation": "commenting",
       "body": {
         "type": "TextualBody",
-        "value": "McCARTY'S — 2503 Carondelet St., near Second. — New Orleans — [Barber / Beauty]",
+        "value": "New Orleans — [Barber / Beauty]",
         "format": "text/plain"
       },
       "target": "https://www.loc.gov/item/73644404/canvas/60#xywh=1423,2715,453,59",
