@@ -1,0 +1,161 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Louis Maspero — 1611 Claiborne Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/96#xywh=829,335,372,45",
+      "id": "https://hadro.github.io/woods-directory/0096_service:rbc:lcrbmrp:t8074:027_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Nathan Johnson — 411 N. Broad Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/96#xywh=819,500,393,52",
+      "id": "https://hadro.github.io/woods-directory/0096_service:rbc:lcrbmrp:t8074:027_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ovide Maurice — 1116 St. Claude Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/96#xywh=837,774,365,48",
+      "id": "https://hadro.github.io/woods-directory/0096_service:rbc:lcrbmrp:t8074:027_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "O. T. Bocage & Son — 530 Powder St., Algiers, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/96#xywh=764,1044,517,51",
+      "id": "https://hadro.github.io/woods-directory/0096_service:rbc:lcrbmrp:t8074:027_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. C. Fenderson — 3430 S. Franklin Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/96#xywh=819,1353,412,44",
+      "id": "https://hadro.github.io/woods-directory/0096_service:rbc:lcrbmrp:t8074:027_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. B. Fleury — 1642 N. Derbigny Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/96#xywh=873,1523,302,42",
+      "id": "https://hadro.github.io/woods-directory/0096_service:rbc:lcrbmrp:t8074:027_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Floyd Studio — 2125 Dryades St. (near Jackson Ave.)",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/96#xywh=752,2317,733,186",
+      "id": "https://hadro.github.io/woods-directory/0096_service:rbc:lcrbmrp:t8074:027_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Felix Gaspard — 1803 Annette Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/96#xywh=1766,312,350,39",
+      "id": "https://hadro.github.io/woods-directory/0096_service:rbc:lcrbmrp:t8074:027_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Manuel Gaspard — 1306 Frenchmen Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/96#xywh=1748,527,389,40",
+      "id": "https://hadro.github.io/woods-directory/0096_service:rbc:lcrbmrp:t8074:027_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jackson & Soniat — 2225 Eighth Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/96#xywh=1728,698,423,37",
+      "id": "https://hadro.github.io/woods-directory/0096_service:rbc:lcrbmrp:t8074:027_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "C. P. Spotts — 2013-2015 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/96#xywh=1796,915,301,37",
+      "id": "https://hadro.github.io/woods-directory/0096_service:rbc:lcrbmrp:t8074:027_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Leon B. Vignes — 2526 Cleveland Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/96#xywh=1758,1086,375,36",
+      "id": "https://hadro.github.io/woods-directory/0096_service:rbc:lcrbmrp:t8074:027_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "John Ferrouillet — Stalls 102 & 104 Treme Market; Residence 921 N. Galvez",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/96#xywh=1752,1335,393,39",
+      "id": "https://hadro.github.io/woods-directory/0096_service:rbc:lcrbmrp:t8074:027_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jos. M. Sarpy Tonsorial Parlor — 109 Elk Place",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/96#xywh=1743,1862,379,44",
+      "id": "https://hadro.github.io/woods-directory/0096_service:rbc:lcrbmrp:t8074:027_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0096_service:rbc:lcrbmrp:t8074:027_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Henry Amand — 1514 N. Roman St. (Yard and Residence); Corner Annette and Urquhart Sts.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/152#xywh=418,1889,1654,165",
+      "id": "https://hadro.github.io/woods-directory/0152_service:rbc:lcrbmrp:t8074:083_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Henry Amand — Corner Annette and Urquhart Sts.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/152#xywh=685,1588,1298,56",
+      "id": "https://hadro.github.io/woods-directory/0152_service:rbc:lcrbmrp:t8074:083_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0152_service:rbc:lcrbmrp:t8074:083_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

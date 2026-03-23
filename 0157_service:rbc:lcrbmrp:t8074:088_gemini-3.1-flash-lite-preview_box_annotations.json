@@ -1,0 +1,18 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Woods Directory — 1823 Seventh Street, New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/157#xywh=531,741,1454,266",
+      "id": "https://hadro.github.io/woods-directory/0157_service:rbc:lcrbmrp:t8074:088_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0157_service:rbc:lcrbmrp:t8074:088_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

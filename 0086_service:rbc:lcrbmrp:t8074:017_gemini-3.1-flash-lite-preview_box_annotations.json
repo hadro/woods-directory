@@ -1,0 +1,469 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Juvenile Friends of Hope",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=492,255,1438,52",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies of Louisiana",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=500,313,1679,52",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies Progressive Friends",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=495,371,1783,52",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies of Prosperity",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=492,425,1710,57",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies of Hope",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=492,481,1416,59",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies and Young Ladies Sincerity",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=493,533,1743,64",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies Unity Charity",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=495,593,1758,60",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies and Young Ladies Veterans",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=493,652,1383,52",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Morning Glory",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=492,705,1761,61",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Ladies St. Michael",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=492,761,1682,60",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Francis D'Assisse",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=491,817,1417,64",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Young Friends of Hope",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=489,874,1657,65",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Young Men Sincerity",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=489,930,1764,67",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Young Men St. Michael",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=489,986,1764,66",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Crescent Tabernacle No. 129 — 716 Adams Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=489,1234,1865,65",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pride of Carrollton No. 2 — 716 Adams Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=484,1290,1684,65",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pride of Louisiana — 716 Adams Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=482,1344,1340,68",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pythian Love No. 50 — 716 Adams Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=482,1400,1714,71",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sons and Daughters of Orleans — 716 Adams Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=487,1456,1683,67",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Arts and Trade — 1607 St. Philip Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=482,1704,1409,65",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dieu Nous Protege — 1607 St. Philip Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=482,1759,1773,72",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Enfant St. Coeur — 1607 St. Philip Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=482,1813,1416,72",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Inseparable Friends — 1607 St. Philip Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=811,1548,1221,63",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Morale Cretien — 1607 St. Philip Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=479,1926,1387,72",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies Protective — 1607 St. Philip Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=477,1982,1448,73",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies Security — 1607 St. Philip Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=476,2040,1386,69",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Ann — 1607 St. Philip Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=478,2097,1417,70",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Barbe — 1607 St. Philip Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=476,2151,1437,73",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Clotilde — 1607 St. Philip Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=477,2207,1389,74",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Children of St. Catherine — 219 North Derbigny Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=476,2451,1371,75",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "First Daughter of Zion — 219 North Derbigny Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=474,2508,1439,76",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "G. A. R. Post No. 14 — 219 North Derbigny Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=476,2565,1384,74",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Juvenile Sons of Louisiana — 219 North Derbigny Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=473,2618,1372,82",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies Friendship of Louisiana — 219 North Derbigny Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=478,2678,1759,79",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies of Independence — 219 North Derbigny Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=473,2733,1422,78",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Daughters of Zion — 219 North Derbigny Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=471,2790,1386,78",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vidalia Junior — 219 North Derbigny Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=473,2847,1385,76",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Young Men's Vidalia — 219 North Derbigny Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=473,2905,1768,76",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Demoselle Sincere — 1479 North Robertson Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=471,3140,1416,75",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies Prosperity — 1479 North Robertson Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=471,3195,1438,78",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies Sincerity — 1479 North Robertson Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=1025,3072,764,57",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "L'Avnir — 1479 North Robertson Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/86#xywh=467,3308,1776,85",
+      "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json/entry/41"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0086_service:rbc:lcrbmrp:t8074:017_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

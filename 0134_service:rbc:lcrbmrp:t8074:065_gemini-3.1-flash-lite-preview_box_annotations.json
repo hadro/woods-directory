@@ -1,0 +1,183 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Orleans Printing House — 149 Elk Place",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/134#xywh=540,293,1624,243",
+      "id": "https://hadro.github.io/woods-directory/0134_service:rbc:lcrbmrp:t8074:065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Paragon Printshop — 2850 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/134#xywh=536,2403,717,48",
+      "id": "https://hadro.github.io/woods-directory/0134_service:rbc:lcrbmrp:t8074:065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Phœnix Printery — 309 Dryades St., near Gravier",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/134#xywh=912,2690,1347,85",
+      "id": "https://hadro.github.io/woods-directory/0134_service:rbc:lcrbmrp:t8074:065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Gustave Nelson — 1423 St. Ann St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/134#xywh=2421,474,38,48",
+      "id": "https://hadro.github.io/woods-directory/0134_service:rbc:lcrbmrp:t8074:065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Harry Johnson — 210 S. Rampart St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/134#xywh=2407,1188,52,40",
+      "id": "https://hadro.github.io/woods-directory/0134_service:rbc:lcrbmrp:t8074:065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Blandin Funeral Home — First Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/134#xywh=2395,1536,64,41",
+      "id": "https://hadro.github.io/woods-directory/0134_service:rbc:lcrbmrp:t8074:065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Boyer, Louis J. — St. Philip St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/134#xywh=2399,1713,55,41",
+      "id": "https://hadro.github.io/woods-directory/0134_service:rbc:lcrbmrp:t8074:065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "D. G. Bartholomew — S. Rampart St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/134#xywh=2397,1882,62,45",
+      "id": "https://hadro.github.io/woods-directory/0134_service:rbc:lcrbmrp:t8074:065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Daniel D. Daley — Jackson Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/134#xywh=2415,2233,44,40",
+      "id": "https://hadro.github.io/woods-directory/0134_service:rbc:lcrbmrp:t8074:065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Funeral Home — 324 Dryades St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/134#xywh=2407,2325,52,39",
+      "id": "https://hadro.github.io/woods-directory/0134_service:rbc:lcrbmrp:t8074:065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Funeral Home — N. Rampart St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/134#xywh=2405,2593,54,42",
+      "id": "https://hadro.github.io/woods-directory/0134_service:rbc:lcrbmrp:t8074:065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "G. Spears — Touro St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/134#xywh=2407,2807,49,44",
+      "id": "https://hadro.github.io/woods-directory/0134_service:rbc:lcrbmrp:t8074:065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Optic Printing House — 1940 Philip Street, corner South Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/134#xywh=1386,2315,873,48",
+      "id": "https://hadro.github.io/woods-directory/0134_service:rbc:lcrbmrp:t8074:065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Slater & Ramsey — Park Place, Cor. S. Claiborne",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/134#xywh=2399,970,60,43",
+      "id": "https://hadro.github.io/woods-directory/0134_service:rbc:lcrbmrp:t8074:065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Reeves, J. H.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/134#xywh=932,3141,1326,49",
+      "id": "https://hadro.github.io/woods-directory/0134_service:rbc:lcrbmrp:t8074:065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Funeral Home — 1426-28 S. Rampart St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/134#xywh=2413,394,46,46",
+      "id": "https://hadro.github.io/woods-directory/0134_service:rbc:lcrbmrp:t8074:065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0134_service:rbc:lcrbmrp:t8074:065_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

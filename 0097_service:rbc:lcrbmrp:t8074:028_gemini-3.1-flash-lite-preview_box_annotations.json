@@ -1,0 +1,315 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "M. Jackson — Stalls 3-5, Mehle Market",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/97#xywh=512,359,293,35",
+      "id": "https://hadro.github.io/woods-directory/0097_service:rbc:lcrbmrp:t8074:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mountray Johnson — Stalls 19-20, Second Street Market",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/97#xywh=438,529,444,37",
+      "id": "https://hadro.github.io/woods-directory/0097_service:rbc:lcrbmrp:t8074:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "M. P. Nicholson's — 5416 Saratoga Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/97#xywh=443,697,439,40",
+      "id": "https://hadro.github.io/woods-directory/0097_service:rbc:lcrbmrp:t8074:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Geo. Colin Nicolas — Stalls 105-107 Treme Market, Residence 1618 Ursulines Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/97#xywh=429,959,466,41",
+      "id": "https://hadro.github.io/woods-directory/0097_service:rbc:lcrbmrp:t8074:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "R. Van Cresson — Stalls 13-15 St. Bernard Market",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/97#xywh=473,1177,378,35",
+      "id": "https://hadro.github.io/woods-directory/0097_service:rbc:lcrbmrp:t8074:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. P. Bedou — 1707 Bienville Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/97#xywh=512,1484,305,35",
+      "id": "https://hadro.github.io/woods-directory/0097_service:rbc:lcrbmrp:t8074:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Laura M. Brown — 2823 Dryades St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/97#xywh=401,1742,540,42",
+      "id": "https://hadro.github.io/woods-directory/0097_service:rbc:lcrbmrp:t8074:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Hortance Fernandez — 1920 Eighth Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/97#xywh=363,2005,618,37",
+      "id": "https://hadro.github.io/woods-directory/0097_service:rbc:lcrbmrp:t8074:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wm. Jackson's Cold Kitchen — 2248 Dryades St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/97#xywh=331,2175,678,34",
+      "id": "https://hadro.github.io/woods-directory/0097_service:rbc:lcrbmrp:t8074:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. E. Hobbs & M. McRobinson — 120 S. Robertson Street; 620 S. Dupre Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/97#xywh=305,2391,734,37",
+      "id": "https://hadro.github.io/woods-directory/0097_service:rbc:lcrbmrp:t8074:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Lottie McDonald — 2107 Delechaise Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/97#xywh=406,2697,533,37",
+      "id": "https://hadro.github.io/woods-directory/0097_service:rbc:lcrbmrp:t8074:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Nellie A. Murray — 1828 Delechaise Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/97#xywh=416,2913,508,35",
+      "id": "https://hadro.github.io/woods-directory/0097_service:rbc:lcrbmrp:t8074:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Patrick Prescott — 3814 Perrier St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/97#xywh=470,3128,401,37",
+      "id": "https://hadro.github.io/woods-directory/0097_service:rbc:lcrbmrp:t8074:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Sadie Kenan — 1815 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/97#xywh=1366,358,446,37",
+      "id": "https://hadro.github.io/woods-directory/0097_service:rbc:lcrbmrp:t8074:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Cora Quiney — 1923 Fourth Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/97#xywh=1379,654,422,37",
+      "id": "https://hadro.github.io/woods-directory/0097_service:rbc:lcrbmrp:t8074:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. R. E. Williams — 2512 Third Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/97#xywh=1346,823,489,35",
+      "id": "https://hadro.github.io/woods-directory/0097_service:rbc:lcrbmrp:t8074:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. B. Alexander — 1018 Pine St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/97#xywh=1399,1119,390,35",
+      "id": "https://hadro.github.io/woods-directory/0097_service:rbc:lcrbmrp:t8074:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Albert Boucree — 718 Bordeaux St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/97#xywh=1408,1287,370,35",
+      "id": "https://hadro.github.io/woods-directory/0097_service:rbc:lcrbmrp:t8074:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Julius P. Brown — 1122 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/97#xywh=1394,1504,401,37",
+      "id": "https://hadro.github.io/woods-directory/0097_service:rbc:lcrbmrp:t8074:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "S. J. Brown — 3714 Willow Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/97#xywh=1442,1673,309,35",
+      "id": "https://hadro.github.io/woods-directory/0097_service:rbc:lcrbmrp:t8074:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "F. H. Collins — 2424 Philip Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/97#xywh=1433,1888,325,38",
+      "id": "https://hadro.github.io/woods-directory/0097_service:rbc:lcrbmrp:t8074:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. P. Fleury — 1717 Allen Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/97#xywh=1440,2058,313,37",
+      "id": "https://hadro.github.io/woods-directory/0097_service:rbc:lcrbmrp:t8074:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alfred Foster — 1932 Sixth Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/97#xywh=1428,2227,344,37",
+      "id": "https://hadro.github.io/woods-directory/0097_service:rbc:lcrbmrp:t8074:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. Fournet — 827 Slidell Avenue, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/97#xywh=1456,2398,283,35",
+      "id": "https://hadro.github.io/woods-directory/0097_service:rbc:lcrbmrp:t8074:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "S. Fournet & Bro. — 2827 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/97#xywh=1379,2568,447,37",
+      "id": "https://hadro.github.io/woods-directory/0097_service:rbc:lcrbmrp:t8074:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. L. Powell — 702 Julia Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/97#xywh=1440,2736,319,37",
+      "id": "https://hadro.github.io/woods-directory/0097_service:rbc:lcrbmrp:t8074:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "C. Maury — 1611 N. Claiborne Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/97#xywh=1478,2905,241,38",
+      "id": "https://hadro.github.io/woods-directory/0097_service:rbc:lcrbmrp:t8074:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "John R. Rhodes — 4315 Annunciation Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/97#xywh=1394,3120,412,37",
+      "id": "https://hadro.github.io/woods-directory/0097_service:rbc:lcrbmrp:t8074:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0097_service:rbc:lcrbmrp:t8074:028_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

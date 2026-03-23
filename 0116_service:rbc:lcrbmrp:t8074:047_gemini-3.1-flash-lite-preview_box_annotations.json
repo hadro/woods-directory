@@ -1,0 +1,62 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Velvet Ice Cream Parlor — 2126 Washington Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/116#xywh=2446,2267,65,42",
+      "id": "https://hadro.github.io/woods-directory/0116_service:rbc:lcrbmrp:t8074:047_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Orleans Ice Cream Parlor",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/116#xywh=2463,2800,48,37",
+      "id": "https://hadro.github.io/woods-directory/0116_service:rbc:lcrbmrp:t8074:047_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Crescent Hairdressing College — 2013-2015 DRYADES STREET, NEW ORLEANS, LA.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/116#xywh=513,330,1786,157",
+      "id": "https://hadro.github.io/woods-directory/0116_service:rbc:lcrbmrp:t8074:047_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Economy Cash Grocery — 1611 Dryades St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/116#xywh=2431,1873,80,49",
+      "id": "https://hadro.github.io/woods-directory/0116_service:rbc:lcrbmrp:t8074:047_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Success Confectionery and Ice Cream Parlor — 2218 S. Rampart St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/116#xywh=2475,1176,36,35",
+      "id": "https://hadro.github.io/woods-directory/0116_service:rbc:lcrbmrp:t8074:047_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0116_service:rbc:lcrbmrp:t8074:047_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

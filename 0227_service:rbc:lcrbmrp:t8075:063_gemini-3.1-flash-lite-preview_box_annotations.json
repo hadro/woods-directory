@@ -1,0 +1,51 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "ORLEANS PRINTING HOUSE — 149 ELK PLACE, New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/227#xywh=611,430,1505,123",
+      "id": "https://hadro.github.io/woods-directory/0227_service:rbc:lcrbmrp:t8075:063_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Blandin-LeBlanc Co., Limited — 1137 Hospital St., New Orleans",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/227#xywh=1014,1081,727,46",
+      "id": "https://hadro.github.io/woods-directory/0227_service:rbc:lcrbmrp:t8075:063_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Emanuel Shaving Parlor — 4738 Magazine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/227#xywh=444,1951,1850,142",
+      "id": "https://hadro.github.io/woods-directory/0227_service:rbc:lcrbmrp:t8075:063_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "D. W. DOOLEY — 2815 South Rampart St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/227#xywh=608,2803,581,47",
+      "id": "https://hadro.github.io/woods-directory/0227_service:rbc:lcrbmrp:t8075:063_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0227_service:rbc:lcrbmrp:t8075:063_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

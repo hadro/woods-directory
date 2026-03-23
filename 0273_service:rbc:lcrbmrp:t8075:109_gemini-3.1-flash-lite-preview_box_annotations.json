@@ -1,0 +1,51 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Dryades Pocket Billiard Hall — 2850 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/273#xywh=482,431,1724,86",
+      "id": "https://hadro.github.io/woods-directory/0273_service:rbc:lcrbmrp:t8075:109_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chas. J. Sylvester — 2623 Banks Street, New Orleans",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/273#xywh=439,1072,899,57",
+      "id": "https://hadro.github.io/woods-directory/0273_service:rbc:lcrbmrp:t8075:109_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Harry Steel & Sons — 1919 First Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/273#xywh=1509,1593,619,46",
+      "id": "https://hadro.github.io/woods-directory/0273_service:rbc:lcrbmrp:t8075:109_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "William Hirst — 507 S. Telemachus St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/273#xywh=590,1851,1537,173",
+      "id": "https://hadro.github.io/woods-directory/0273_service:rbc:lcrbmrp:t8075:109_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0273_service:rbc:lcrbmrp:t8075:109_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

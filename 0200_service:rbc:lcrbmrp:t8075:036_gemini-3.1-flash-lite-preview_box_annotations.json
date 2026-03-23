@@ -1,0 +1,293 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Endeavor Lodge, Knights and Ladies of Honor — 331 Carondelet street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/200#xywh=550,200,1307,43",
+      "id": "https://hadro.github.io/woods-directory/0200_service:rbc:lcrbmrp:t8075:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Supreme Council of Grand Inspectors Generals of the Thirty-Third Degree, Ancient Accepted Scottish Rite Freemasons",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/200#xywh=297,725,828,39",
+      "id": "https://hadro.github.io/woods-directory/0200_service:rbc:lcrbmrp:t8075:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fusion Lodge No. 23 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/200#xywh=248,1175,881,39",
+      "id": "https://hadro.github.io/woods-directory/0200_service:rbc:lcrbmrp:t8075:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Siloam Lodge No. 41 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/200#xywh=248,1587,875,34",
+      "id": "https://hadro.github.io/woods-directory/0200_service:rbc:lcrbmrp:t8075:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wisdom Lodge No. 28 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/200#xywh=251,1993,872,34",
+      "id": "https://hadro.github.io/woods-directory/0200_service:rbc:lcrbmrp:t8075:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wisdom Masonic Relief Club — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/200#xywh=247,2353,873,34",
+      "id": "https://hadro.github.io/woods-directory/0200_service:rbc:lcrbmrp:t8075:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Joseph Tabernacle No. 7, G. G. K. of K. S. of the World — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/200#xywh=289,2759,831,37",
+      "id": "https://hadro.github.io/woods-directory/0200_service:rbc:lcrbmrp:t8075:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Crescent Tabernacle — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/200#xywh=238,3207,879,39",
+      "id": "https://hadro.github.io/woods-directory/0200_service:rbc:lcrbmrp:t8075:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Crescent Tabernacle No. 129 — 716 Adams street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/200#xywh=1249,321,878,39",
+      "id": "https://hadro.github.io/woods-directory/0200_service:rbc:lcrbmrp:t8075:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Daughters of Israel Tabernacle — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/200#xywh=1297,1533,830,40",
+      "id": "https://hadro.github.io/woods-directory/0200_service:rbc:lcrbmrp:t8075:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Evening Star Tabernacle — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/200#xywh=1249,613,881,44",
+      "id": "https://hadro.github.io/woods-directory/0200_service:rbc:lcrbmrp:t8075:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Geneva Tabernacle — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/200#xywh=1224,760,906,44",
+      "id": "https://hadro.github.io/woods-directory/0200_service:rbc:lcrbmrp:t8075:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Morning Star Juvenile Tabernacle — 2418 Louisiana avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/200#xywh=1292,998,658,47",
+      "id": "https://hadro.github.io/woods-directory/0200_service:rbc:lcrbmrp:t8075:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mt. Olive Tabernacle — 2418 Louisiana avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/200#xywh=1250,1056,877,39",
+      "id": "https://hadro.github.io/woods-directory/0200_service:rbc:lcrbmrp:t8075:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ophelia Tabernacle — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/200#xywh=1250,1200,880,43",
+      "id": "https://hadro.github.io/woods-directory/0200_service:rbc:lcrbmrp:t8075:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pilgrim Tabernacle — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/200#xywh=1250,1348,880,43",
+      "id": "https://hadro.github.io/woods-directory/0200_service:rbc:lcrbmrp:t8075:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mozekiel Tabernacle No. 2 — 527 S. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/200#xywh=1250,1488,877,39",
+      "id": "https://hadro.github.io/woods-directory/0200_service:rbc:lcrbmrp:t8075:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pilgrim Tabernacle No. 4 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/200#xywh=1250,1623,875,39",
+      "id": "https://hadro.github.io/woods-directory/0200_service:rbc:lcrbmrp:t8075:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pilgrim Progress Tabernacle — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/200#xywh=1243,2123,878,35",
+      "id": "https://hadro.github.io/woods-directory/0200_service:rbc:lcrbmrp:t8075:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Queen Esther — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/200#xywh=1244,2258,881,40",
+      "id": "https://hadro.github.io/woods-directory/0200_service:rbc:lcrbmrp:t8075:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Queen of Knight No. 1020 — Homer and Verret streets, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/200#xywh=1243,2438,876,40",
+      "id": "https://hadro.github.io/woods-directory/0200_service:rbc:lcrbmrp:t8075:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Queen of the South Juvenile — 2418 Louisiana avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/200#xywh=1243,2667,876,36",
+      "id": "https://hadro.github.io/woods-directory/0200_service:rbc:lcrbmrp:t8075:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rising Star Tabernacle — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/200#xywh=1241,2802,880,35",
+      "id": "https://hadro.github.io/woods-directory/0200_service:rbc:lcrbmrp:t8075:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. James Tabernacle No. 3 — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/200#xywh=1243,2937,873,37",
+      "id": "https://hadro.github.io/woods-directory/0200_service:rbc:lcrbmrp:t8075:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. John the Baptist Tabernacle — 527 S. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/200#xywh=1293,1579,638,36",
+      "id": "https://hadro.github.io/woods-directory/0200_service:rbc:lcrbmrp:t8075:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. John Tabernacle — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/200#xywh=1241,3210,875,35",
+      "id": "https://hadro.github.io/woods-directory/0200_service:rbc:lcrbmrp:t8075:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0200_service:rbc:lcrbmrp:t8075:036_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

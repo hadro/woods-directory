@@ -1,0 +1,40 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/179#xywh=379,191,1779,39",
+      "id": "https://hadro.github.io/woods-directory/0179_service:rbc:lcrbmrp:t8075:015_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Orleans University — 5318 St. Charles Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/179#xywh=455,1824,590,37",
+      "id": "https://hadro.github.io/woods-directory/0179_service:rbc:lcrbmrp:t8075:015_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Southwestern Christian Advocate — 631 Baronne Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/179#xywh=473,2116,1573,77",
+      "id": "https://hadro.github.io/woods-directory/0179_service:rbc:lcrbmrp:t8075:015_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0179_service:rbc:lcrbmrp:t8075:015_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

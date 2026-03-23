@@ -1,0 +1,161 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tabernacle Journal Printing Office — 535 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/129#xywh=225,341,824,47",
+      "id": "https://hadro.github.io/woods-directory/0129_service:rbc:lcrbmrp:t8074:060_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dow L. Taylor — 2204 S. Franklin Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/129#xywh=452,517,355,38",
+      "id": "https://hadro.github.io/woods-directory/0129_service:rbc:lcrbmrp:t8074:060_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. B. Alexander — 1018 Pine St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/129#xywh=441,800,382,42",
+      "id": "https://hadro.github.io/woods-directory/0129_service:rbc:lcrbmrp:t8074:060_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "E. W. Brooks — 922 Gravier Street, Pear and Eagle Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/129#xywh=463,974,353,41",
+      "id": "https://hadro.github.io/woods-directory/0129_service:rbc:lcrbmrp:t8074:060_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "D. W. Dooley — 2815 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/129#xywh=469,1191,329,38",
+      "id": "https://hadro.github.io/woods-directory/0129_service:rbc:lcrbmrp:t8074:060_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. J. Lionel Lucas — General Ogden and Heaton Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/129#xywh=400,1360,478,41",
+      "id": "https://hadro.github.io/woods-directory/0129_service:rbc:lcrbmrp:t8074:060_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "James A. Sample — 301 Temple Building, Gravier and Saratoga Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/129#xywh=1341,348,426,36",
+      "id": "https://hadro.github.io/woods-directory/0129_service:rbc:lcrbmrp:t8074:060_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. Sewell — Tabernacle Bldg., 535 S. Rampart St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/129#xywh=1440,562,237,36",
+      "id": "https://hadro.github.io/woods-directory/0129_service:rbc:lcrbmrp:t8074:060_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "M. J. Steele — 1919 First Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/129#xywh=1413,733,304,39",
+      "id": "https://hadro.github.io/woods-directory/0129_service:rbc:lcrbmrp:t8074:060_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "United Realty & Investment Co. — Temple Bldg., Gravier & Saratoga Sts.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/129#xywh=1174,902,775,38",
+      "id": "https://hadro.github.io/woods-directory/0129_service:rbc:lcrbmrp:t8074:060_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. T. M. Grant, Sr. — 331 Carondelet Street, Third Floor",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/129#xywh=1316,1165,490,36",
+      "id": "https://hadro.github.io/woods-directory/0129_service:rbc:lcrbmrp:t8074:060_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Canal Pressing Club — 1429 Canal Street, New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/129#xywh=849,1803,1087,68",
+      "id": "https://hadro.github.io/woods-directory/0129_service:rbc:lcrbmrp:t8074:060_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sigur Pressing Club — 2110 Third Street, New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/129#xywh=309,2545,1063,74",
+      "id": "https://hadro.github.io/woods-directory/0129_service:rbc:lcrbmrp:t8074:060_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/129#xywh=244,3310,1760,68",
+      "id": "https://hadro.github.io/woods-directory/0129_service:rbc:lcrbmrp:t8074:060_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0129_service:rbc:lcrbmrp:t8074:060_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

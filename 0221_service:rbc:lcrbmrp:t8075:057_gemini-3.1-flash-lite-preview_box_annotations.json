@@ -1,0 +1,84 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. B. DEWBERRY TONSORIAL PARLOR — 1317 Gasquet Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/221#xywh=541,395,672,45",
+      "id": "https://hadro.github.io/woods-directory/0221_service:rbc:lcrbmrp:t8075:057_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "JOS. M. SARPY TONSORIAL PARLOR — 109 Elk Place",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/221#xywh=1622,405,381,44",
+      "id": "https://hadro.github.io/woods-directory/0221_service:rbc:lcrbmrp:t8075:057_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Unnamed Grocery — St. Claude and Angela Sts. Stock Landing, Parish of St. Bernard. ARABI P. O., LA.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/221#xywh=1245,2205,1004,55",
+      "id": "https://hadro.github.io/woods-directory/0221_service:rbc:lcrbmrp:t8075:057_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "SELECT RESTAURANT — 2632 S. Rampart Street, Corner Fourth Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/221#xywh=2162,873,27,118",
+      "id": "https://hadro.github.io/woods-directory/0221_service:rbc:lcrbmrp:t8075:057_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. BANKS — 4831-33 Coliseum St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/221#xywh=1863,2599,382,103",
+      "id": "https://hadro.github.io/woods-directory/0221_service:rbc:lcrbmrp:t8075:057_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "TEMPLE SHAVING PARLOR — Pythian Temple, Cor. Saratoga and Gravier Sts., New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/221#xywh=463,1017,829,52",
+      "id": "https://hadro.github.io/woods-directory/0221_service:rbc:lcrbmrp:t8075:057_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alcide Charles",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/221#xywh=771,1865,1133,105",
+      "id": "https://hadro.github.io/woods-directory/0221_service:rbc:lcrbmrp:t8075:057_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0221_service:rbc:lcrbmrp:t8075:057_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

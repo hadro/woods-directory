@@ -1,0 +1,392 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Colored Industrial Home and School — Gentilly Road near Northeastern Railroad Crossing",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=505,484,1849,66",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Liners Harvest Home — 2538 Delechaise Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=505,600,1199,63",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. John Berchman's Convent — 723 Orleans Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=508,658,1261,63",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Thomy Lafon Home — 2402 Governor Nichols Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=501,710,1337,66",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Thomy Lafon's Old Folks Home — Delechaise and S. Robertson Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=504,765,1855,66",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Waifs' Home — City Park Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=508,829,852,58",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "City Hall — St. Charles and Lafayette Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=508,1010,1161,55",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Custom House — Canal, Decatur and North Peters Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=508,1060,1480,60",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Post Office — Canal and Decatur Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=508,1120,1010,57",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pythian Temple Building — Gravier and Saratoga Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=506,1176,1472,56",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Young Men's Christian Association Building — Dryades near Jackson Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=508,1229,1852,61",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Adarns Street Church — 917 Adams Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=586,1495,1060,48",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Austerlitz Street Church — 810 Austerlitz Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=588,1550,1206,52",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bethany Church — Howard and Amelia Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=590,1609,1188,47",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Broadway and Mission Church — Broadway and Ferdinand Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=593,1662,1684,52",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Broadway Mission Church — Broadway and Ferdinand Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=593,1718,1629,51",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fifth African Church — 2132 Sixth Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=590,1776,1032,54",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "First African Church — 2314 Third Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=590,1832,1031,55",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mt. Pilgrim Church — 425 Newton Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=586,1889,1268,49",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Second African Church — 2525 Melpomene Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=586,1948,1248,47",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Progressive Church — 1214 South Robertson Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=585,2002,1308,51",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sixth Baptist Church — 924 Felicity Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=585,2059,1078,51",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Mark's Church — South Rampart and Toledano Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=584,2113,1488,52",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Matthew's Church — 2719 Second Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=584,2171,1109,51",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tulane Avenue Baptist Church — Tulane near Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=584,2220,1641,62",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Zion Travelers' Church — 402 Adams Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=584,2285,1098,49",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Dominic — Cambronne and Burthe Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=581,2442,1157,47",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Katherine — Tulane Avenue near Howard Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=584,2499,1342,47",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Beecher Memorial — North Miro near Allen Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=581,2655,1277,46",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Central Church — South Liberty and Gasquet Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=584,2711,1337,47",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Luke's Church — Fourth near Carondelet Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=584,2867,1301,46",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bethlehem Chapel — Dryades corner Washington Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=580,3024,1506,47",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Paul's Church — 1625 Annette Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=584,3082,1041,45",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "First Street Church — First and Dryades Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=584,3238,1265,47",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Haven Chapel — Joliet and Plum Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/82#xywh=581,3295,1053,48",
+      "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json/entry/34"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0082_service:rbc:lcrbmrp:t8074:013_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

@@ -1,0 +1,260 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "S. Jackson — 1713 N. Roman Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/136#xywh=780,359,265,36",
+      "id": "https://hadro.github.io/woods-directory/0136_service:rbc:lcrbmrp:t8074:067_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cato McGhee — 2822 Josephine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/136#xywh=753,528,320,36",
+      "id": "https://hadro.github.io/woods-directory/0136_service:rbc:lcrbmrp:t8074:067_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chas. Miller — Stand: Camp nad Common Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/136#xywh=766,696,301,38",
+      "id": "https://hadro.github.io/woods-directory/0136_service:rbc:lcrbmrp:t8074:067_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Thos. Muggah — 2538 Berlin Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/136#xywh=741,865,342,38",
+      "id": "https://hadro.github.io/woods-directory/0136_service:rbc:lcrbmrp:t8074:067_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "John Peterson — 1910 Constantinople Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/136#xywh=737,1034,351,36",
+      "id": "https://hadro.github.io/woods-directory/0136_service:rbc:lcrbmrp:t8074:067_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. Ramie — 2111 Lafayette Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/136#xywh=801,1202,223,36",
+      "id": "https://hadro.github.io/woods-directory/0136_service:rbc:lcrbmrp:t8074:067_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Thos. Shorty — 221 Pine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/136#xywh=753,1372,312,36",
+      "id": "https://hadro.github.io/woods-directory/0136_service:rbc:lcrbmrp:t8074:067_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Smith & Bradley — 128 N. Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/136#xywh=712,1540,405,36",
+      "id": "https://hadro.github.io/woods-directory/0136_service:rbc:lcrbmrp:t8074:067_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jas. Smith — 2826 S. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/136#xywh=779,1710,272,36",
+      "id": "https://hadro.github.io/woods-directory/0136_service:rbc:lcrbmrp:t8074:067_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "O. Theadore — 4006 Laurel St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/136#xywh=762,1879,309,37",
+      "id": "https://hadro.github.io/woods-directory/0136_service:rbc:lcrbmrp:t8074:067_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "H. Train — 1433 Dauphine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/136#xywh=797,2093,225,36",
+      "id": "https://hadro.github.io/woods-directory/0136_service:rbc:lcrbmrp:t8074:067_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wm. W. Warner — 2707 S. Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/136#xywh=1636,348,404,36",
+      "id": "https://hadro.github.io/woods-directory/0136_service:rbc:lcrbmrp:t8074:067_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fred White — 1830 Felicity Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/136#xywh=1692,563,290,36",
+      "id": "https://hadro.github.io/woods-directory/0136_service:rbc:lcrbmrp:t8074:067_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "L. Williams — 2215 Adams Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/136#xywh=1683,732,303,36",
+      "id": "https://hadro.github.io/woods-directory/0136_service:rbc:lcrbmrp:t8074:067_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. D. Wilson — 2233 First Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/136#xywh=1683,902,318,39",
+      "id": "https://hadro.github.io/woods-directory/0136_service:rbc:lcrbmrp:t8074:067_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Henry Amand — 1514 N. Roman St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/136#xywh=1663,1198,352,36",
+      "id": "https://hadro.github.io/woods-directory/0136_service:rbc:lcrbmrp:t8074:067_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "L. C. Antoine — 515-519 S. Prieur Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/136#xywh=1677,1416,324,36",
+      "id": "https://hadro.github.io/woods-directory/0136_service:rbc:lcrbmrp:t8074:067_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "H. Bernard — 2617 Conti Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/136#xywh=1689,1583,297,37",
+      "id": "https://hadro.github.io/woods-directory/0136_service:rbc:lcrbmrp:t8074:067_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "G. Chapital — 1027 N. Tonti Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/136#xywh=1700,1755,286,36",
+      "id": "https://hadro.github.io/woods-directory/0136_service:rbc:lcrbmrp:t8074:067_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Winnie Damico — 732 Elmira Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/136#xywh=1593,1925,498,39",
+      "id": "https://hadro.github.io/woods-directory/0136_service:rbc:lcrbmrp:t8074:067_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wm. Duplessis — 2217 Upperline Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/136#xywh=1662,2092,362,43",
+      "id": "https://hadro.github.io/woods-directory/0136_service:rbc:lcrbmrp:t8074:067_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Andrew Easley — 2418 Louisiana Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/136#xywh=1658,2266,372,38",
+      "id": "https://hadro.github.io/woods-directory/0136_service:rbc:lcrbmrp:t8074:067_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Southwestern Christian Advocate — 631 Baronne Street, New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/136#xywh=488,2554,1791,63",
+      "id": "https://hadro.github.io/woods-directory/0136_service:rbc:lcrbmrp:t8074:067_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0136_service:rbc:lcrbmrp:t8074:067_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

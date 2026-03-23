@@ -1,0 +1,238 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/214#xywh=240,225,1779,51",
+      "id": "https://hadro.github.io/woods-directory/0214_service:rbc:lcrbmrp:t8075:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Joseph Wilkins — 121 N. Derbigny Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/214#xywh=482,430,353,37",
+      "id": "https://hadro.github.io/woods-directory/0214_service:rbc:lcrbmrp:t8075:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "John J. Winston — 103 Pythian Building, Saratoga and Gravier Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/214#xywh=315,693,687,36",
+      "id": "https://hadro.github.io/woods-directory/0214_service:rbc:lcrbmrp:t8075:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Excelsior Dairy — 2623 Carrollton Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/214#xywh=470,1053,377,36",
+      "id": "https://hadro.github.io/woods-directory/0214_service:rbc:lcrbmrp:t8075:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pecan Grove Dairy Farm — Left Bank, Jefferson Parish, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/214#xywh=354,1222,598,39",
+      "id": "https://hadro.github.io/woods-directory/0214_service:rbc:lcrbmrp:t8075:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. J. S. Carter — 2236 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/214#xywh=474,1628,355,35",
+      "id": "https://hadro.github.io/woods-directory/0214_service:rbc:lcrbmrp:t8075:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. J. E. Milanes — 1428 Joliet Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/214#xywh=457,1797,393,35",
+      "id": "https://hadro.github.io/woods-directory/0214_service:rbc:lcrbmrp:t8075:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. R. O. Sanders — 2611 Josephine Street, near Magnolia",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/214#xywh=447,1968,404,35",
+      "id": "https://hadro.github.io/woods-directory/0214_service:rbc:lcrbmrp:t8075:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. Edw. Vincent — 1706 Bienville Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/214#xywh=447,2184,398,36",
+      "id": "https://hadro.github.io/woods-directory/0214_service:rbc:lcrbmrp:t8075:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. Jos. E. Willis — 1815 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/214#xywh=451,2397,396,36",
+      "id": "https://hadro.github.io/woods-directory/0214_service:rbc:lcrbmrp:t8075:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. J. A. Barnes — Residence 617 Peniston Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/214#xywh=447,2724,398,35",
+      "id": "https://hadro.github.io/woods-directory/0214_service:rbc:lcrbmrp:t8075:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. L. T. Burbridge — 1832 Dryades St.; Residence: 1724 St. Andrew Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/214#xywh=404,3030,482,36",
+      "id": "https://hadro.github.io/woods-directory/0214_service:rbc:lcrbmrp:t8075:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. Raleigh J. Coker — Residence: 1414 Dumaine Street; Office: LaBranche's Drug Store, 818-20 N. Claiborne Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/214#xywh=1343,435,499,36",
+      "id": "https://hadro.github.io/woods-directory/0214_service:rbc:lcrbmrp:t8075:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. P. H. V. DeJoie — Residence 1131 Dufossat Street; Office DeJoie's Drug Store, 1832 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/214#xywh=1347,870,491,46",
+      "id": "https://hadro.github.io/woods-directory/0214_service:rbc:lcrbmrp:t8075:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. R. Frederick — Residence 4305 S. Claiborne; Offices: Bauman's Drug Store, 2533 Howard St.; LaBranche's Drug Store, 818 N. Claiborne St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/214#xywh=1391,1270,393,34",
+      "id": "https://hadro.github.io/woods-directory/0214_service:rbc:lcrbmrp:t8075:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "S. C. Green, M. D. — 1227 Teche St., West New Orleans",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/214#xywh=1374,1664,429,44",
+      "id": "https://hadro.github.io/woods-directory/0214_service:rbc:lcrbmrp:t8075:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. Arthur Hardin, M. D. — 1912 Bienville Street near Roman",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/214#xywh=1309,1924,559,45",
+      "id": "https://hadro.github.io/woods-directory/0214_service:rbc:lcrbmrp:t8075:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. F. Jase, M. D. — 8501 Oak Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/214#xywh=1380,2140,406,43",
+      "id": "https://hadro.github.io/woods-directory/0214_service:rbc:lcrbmrp:t8075:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "I. J. Kane, M. D. — Residence, 1635 New Orleans Street; Offices: 1635 New Orleans Street and 642 S. Rampart St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/214#xywh=1381,2357,409,41",
+      "id": "https://hadro.github.io/woods-directory/0214_service:rbc:lcrbmrp:t8075:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. L. B. Landry — 509 Homer Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/214#xywh=1356,2743,458,36",
+      "id": "https://hadro.github.io/woods-directory/0214_service:rbc:lcrbmrp:t8075:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. O. Willard Landry — 2201 Magnolia Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/214#xywh=1323,3077,520,39",
+      "id": "https://hadro.github.io/woods-directory/0214_service:rbc:lcrbmrp:t8075:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0214_service:rbc:lcrbmrp:t8075:050_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

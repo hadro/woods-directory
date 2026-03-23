@@ -1,0 +1,326 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/206#xywh=330,186,1782,44",
+      "id": "https://hadro.github.io/woods-directory/0206_service:rbc:lcrbmrp:t8075:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Little Shaving Parlor — 1581 N. Claiborne Avenue, corner Lapeyrouse Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/206#xywh=495,393,506,37",
+      "id": "https://hadro.github.io/woods-directory/0206_service:rbc:lcrbmrp:t8075:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Live Oak Shaving Parlor — Corner Sixth and S. Rampart Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/206#xywh=463,607,579,39",
+      "id": "https://hadro.github.io/woods-directory/0206_service:rbc:lcrbmrp:t8075:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Joseph E. Meanes Shaving Parlor — 743 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/206#xywh=415,1275,688,39",
+      "id": "https://hadro.github.io/woods-directory/0206_service:rbc:lcrbmrp:t8075:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Howard McGinnis — 419 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/206#xywh=545,1104,417,37",
+      "id": "https://hadro.github.io/woods-directory/0206_service:rbc:lcrbmrp:t8075:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Orleans Shaving Parlor — 1114 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/206#xywh=521,1366,474,34",
+      "id": "https://hadro.github.io/woods-directory/0206_service:rbc:lcrbmrp:t8075:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Old Reliable Barber Shop — 630 N. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/206#xywh=467,1444,584,39",
+      "id": "https://hadro.github.io/woods-directory/0206_service:rbc:lcrbmrp:t8075:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Orleans Shaving Parlor — 1939 Orleans, cor. Prieur Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/206#xywh=488,1615,542,39",
+      "id": "https://hadro.github.io/woods-directory/0206_service:rbc:lcrbmrp:t8075:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Henry Pajaud — Cor. Sixth and Dryades Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/206#xywh=594,1832,334,37",
+      "id": "https://hadro.github.io/woods-directory/0206_service:rbc:lcrbmrp:t8075:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Thomas Poree — 126 N. Derbigny Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/206#xywh=589,2000,346,36",
+      "id": "https://hadro.github.io/woods-directory/0206_service:rbc:lcrbmrp:t8075:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jos. M. Sarpy — 109 Elk Place",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/206#xywh=598,2171,322,39",
+      "id": "https://hadro.github.io/woods-directory/0206_service:rbc:lcrbmrp:t8075:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Smart Set Shaving Parlor — 3001 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/206#xywh=454,2341,607,39",
+      "id": "https://hadro.github.io/woods-directory/0206_service:rbc:lcrbmrp:t8075:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Stag Shaving Parlor — 2919 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/206#xywh=519,2557,488,36",
+      "id": "https://hadro.github.io/woods-directory/0206_service:rbc:lcrbmrp:t8075:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sam P. Thompson — 1107 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/206#xywh=551,2726,425,39",
+      "id": "https://hadro.github.io/woods-directory/0206_service:rbc:lcrbmrp:t8075:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "True Friends Shaving Parlor — 2500 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/206#xywh=421,2895,690,40",
+      "id": "https://hadro.github.io/woods-directory/0206_service:rbc:lcrbmrp:t8075:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Union Shaving Parlor — 828 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/206#xywh=510,3065,508,37",
+      "id": "https://hadro.github.io/woods-directory/0206_service:rbc:lcrbmrp:t8075:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wm. C. Watkins — 4847 Coliseum Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/206#xywh=1500,391,379,35",
+      "id": "https://hadro.github.io/woods-directory/0206_service:rbc:lcrbmrp:t8075:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Workingmen Shaving Saloon — 406 Burgundy Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/206#xywh=1360,560,659,43",
+      "id": "https://hadro.github.io/woods-directory/0206_service:rbc:lcrbmrp:t8075:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hose Zaragosa — 120 N. Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/206#xywh=1514,733,348,36",
+      "id": "https://hadro.github.io/woods-directory/0206_service:rbc:lcrbmrp:t8075:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jeff Craig — 1129 Teche Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/206#xywh=1574,1004,239,37",
+      "id": "https://hadro.github.io/woods-directory/0206_service:rbc:lcrbmrp:t8075:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dupre Bros. — 2009 Valence Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/206#xywh=1545,1204,293,39",
+      "id": "https://hadro.github.io/woods-directory/0206_service:rbc:lcrbmrp:t8075:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Louis Maspero — 1611 Claiborne Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/206#xywh=1516,1586,351,39",
+      "id": "https://hadro.github.io/woods-directory/0206_service:rbc:lcrbmrp:t8075:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ovide Maurice — 1116 St. Claude Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/206#xywh=1524,1866,346,34",
+      "id": "https://hadro.github.io/woods-directory/0206_service:rbc:lcrbmrp:t8075:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "O. T. Bocage & Son — Shop and Office, 530 Powder Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/206#xywh=1450,2140,490,37",
+      "id": "https://hadro.github.io/woods-directory/0206_service:rbc:lcrbmrp:t8075:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Joseph DeLandro — 4616 Camp Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/206#xywh=1491,2468,407,36",
+      "id": "https://hadro.github.io/woods-directory/0206_service:rbc:lcrbmrp:t8075:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. C. Fenderson — 3430 S. Franklin Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/206#xywh=1495,2636,399,35",
+      "id": "https://hadro.github.io/woods-directory/0206_service:rbc:lcrbmrp:t8075:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. B. Fleury — 1642 N. Derbigny Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/206#xywh=1550,2807,292,37",
+      "id": "https://hadro.github.io/woods-directory/0206_service:rbc:lcrbmrp:t8075:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. Carter — 727 Lyon Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/206#xywh=1591,2978,215,34",
+      "id": "https://hadro.github.io/woods-directory/0206_service:rbc:lcrbmrp:t8075:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Felix Gaspard — 1803 Annette Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/206#xywh=1533,3147,323,37",
+      "id": "https://hadro.github.io/woods-directory/0206_service:rbc:lcrbmrp:t8075:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/28"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0206_service:rbc:lcrbmrp:t8075:042_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

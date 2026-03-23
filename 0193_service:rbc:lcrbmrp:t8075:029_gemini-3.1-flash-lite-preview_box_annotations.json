@@ -1,0 +1,18 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "JOHNSON'S Cut-Rate Pharmacy — Cor. Magnolia Street and Jackson Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/193#xywh=389,2295,1870,200",
+      "id": "https://hadro.github.io/woods-directory/0193_service:rbc:lcrbmrp:t8075:029_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0193_service:rbc:lcrbmrp:t8075:029_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

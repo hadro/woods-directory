@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mound Bayou Oil Mill and Manufacturing Company — Mound Bayou, Miss.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/48#xywh=356,1811,1746,148",
+      "id": "https://hadro.github.io/woods-directory/0048_service:rbc:lcrbmrp:t8073:048_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "F. A. Mix — 1000 Perdido St., New Orleans",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/48#xywh=357,3400,1740,63",
+      "id": "https://hadro.github.io/woods-directory/0048_service:rbc:lcrbmrp:t8073:048_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0048_service:rbc:lcrbmrp:t8073:048_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

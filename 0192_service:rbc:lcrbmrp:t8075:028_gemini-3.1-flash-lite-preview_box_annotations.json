@@ -1,0 +1,216 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "EUREKA STATE GRAND LODGE No. 27, I. O. OF G. S. AND D. S. — 3419 S. Robertson street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/192#xywh=210,1087,880,44",
+      "id": "https://hadro.github.io/woods-directory/0192_service:rbc:lcrbmrp:t8075:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "EUREKA LODGE No. 1, I. O. OF G. S. AND D. OF S. — 527 S. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/192#xywh=257,1589,836,36",
+      "id": "https://hadro.github.io/woods-directory/0192_service:rbc:lcrbmrp:t8075:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "ST. MATTHEW LODGE No. 3 — 527 S. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/192#xywh=212,1498,876,36",
+      "id": "https://hadro.github.io/woods-directory/0192_service:rbc:lcrbmrp:t8075:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "PRIDE OF CARROLLTON No. 2 — 716 Adams street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/192#xywh=212,1905,880,34",
+      "id": "https://hadro.github.io/woods-directory/0192_service:rbc:lcrbmrp:t8075:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "PRIDE OF LOUISIANA — 716 Adams street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/192#xywh=212,2041,878,34",
+      "id": "https://hadro.github.io/woods-directory/0192_service:rbc:lcrbmrp:t8075:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "IVY VINE GOOD SAMARITANS B. A. — 2418 Louisiana avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/192#xywh=212,2131,878,34",
+      "id": "https://hadro.github.io/woods-directory/0192_service:rbc:lcrbmrp:t8075:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "INDEPENDENT ORDER OF GOOD SAMARITANS — 527 S. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/192#xywh=210,2311,878,35",
+      "id": "https://hadro.github.io/woods-directory/0192_service:rbc:lcrbmrp:t8075:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "EQUAL JUSTICE LODGE No. 677, K. OF H. — 527 S. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/192#xywh=212,2560,878,37",
+      "id": "https://hadro.github.io/woods-directory/0192_service:rbc:lcrbmrp:t8075:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "MARY ISABELLE, K. OF H. — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/192#xywh=212,2966,878,39",
+      "id": "https://hadro.github.io/woods-directory/0192_service:rbc:lcrbmrp:t8075:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "GRAND LODGE, KNIGHTS OF PYTHIAS, STATE OF LOUISIANA — 226 S. Robertson street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/192#xywh=210,3215,883,37",
+      "id": "https://hadro.github.io/woods-directory/0192_service:rbc:lcrbmrp:t8075:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "DAMON LODGE No. 1 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/192#xywh=1211,1103,881,34",
+      "id": "https://hadro.github.io/woods-directory/0192_service:rbc:lcrbmrp:t8075:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "PRIDE OF LOUISIANA LODGE No. 3 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/192#xywh=1211,1610,878,34",
+      "id": "https://hadro.github.io/woods-directory/0192_service:rbc:lcrbmrp:t8075:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "MYRTLE WREATH LODGE No. 29 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/192#xywh=1212,1799,877,38",
+      "id": "https://hadro.github.io/woods-directory/0192_service:rbc:lcrbmrp:t8075:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "GARDEN DISTRICT LODGE No. 41 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/192#xywh=1210,2349,882,45",
+      "id": "https://hadro.github.io/woods-directory/0192_service:rbc:lcrbmrp:t8075:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "CROWN LODGE No. 77 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/192#xywh=1215,2532,879,43",
+      "id": "https://hadro.github.io/woods-directory/0192_service:rbc:lcrbmrp:t8075:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "CRESCENT CITY LODGE No. 135 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/192#xywh=1217,2713,875,39",
+      "id": "https://hadro.github.io/woods-directory/0192_service:rbc:lcrbmrp:t8075:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "BANNER LODGE No. 172 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/192#xywh=1215,2894,877,41",
+      "id": "https://hadro.github.io/woods-directory/0192_service:rbc:lcrbmrp:t8075:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "ZENITH LODGE No. 175 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/192#xywh=1212,3165,880,41",
+      "id": "https://hadro.github.io/woods-directory/0192_service:rbc:lcrbmrp:t8075:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/192#xywh=357,3155,594,41",
+      "id": "https://hadro.github.io/woods-directory/0192_service:rbc:lcrbmrp:t8075:028_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0192_service:rbc:lcrbmrp:t8075:028_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

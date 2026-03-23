@@ -1,0 +1,40 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. W. A. Jackson — 927 Valence Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/191#xywh=628,1697,1449,150",
+      "id": "https://hadro.github.io/woods-directory/0191_service:rbc:lcrbmrp:t8075:027_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fisk University",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/191#xywh=770,2551,1168,160",
+      "id": "https://hadro.github.io/woods-directory/0191_service:rbc:lcrbmrp:t8075:027_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "HORTICULTURAL BENEVOLENT ASS’N. — 1815 St. Anthony St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/191#xywh=1278,3413,147,33",
+      "id": "https://hadro.github.io/woods-directory/0191_service:rbc:lcrbmrp:t8075:027_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0191_service:rbc:lcrbmrp:t8075:027_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

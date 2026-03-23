@@ -1,0 +1,18 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Unity Industrial Life Insurance and Sick Benefit Association — 2017 Dryades Street; 1016 North Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/140#xywh=493,1929,1803,72",
+      "id": "https://hadro.github.io/woods-directory/0140_service:rbc:lcrbmrp:t8074:071_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0140_service:rbc:lcrbmrp:t8074:071_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

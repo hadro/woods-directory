@@ -1,0 +1,51 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Joseph Wilkins — 121 N. Derbigny Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/142#xywh=775,245,1145,143",
+      "id": "https://hadro.github.io/woods-directory/0142_service:rbc:lcrbmrp:t8074:073_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "John J. Winston — Office: 103 Pythian Building, Gravier and Saratoga Streets; Residence: 2331 Second St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/142#xywh=756,1005,1166,137",
+      "id": "https://hadro.github.io/woods-directory/0142_service:rbc:lcrbmrp:t8074:073_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "James A. Sample — 301 Pythian Temple, Gravier and Saratoga Streets; Residence: 7618 Cohn Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/142#xywh=685,1938,1318,143",
+      "id": "https://hadro.github.io/woods-directory/0142_service:rbc:lcrbmrp:t8074:073_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Unknown (Carpenter and General Contractor) — 1819 General Taylor St.; Shop: 2108 Jackson Av.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/142#xywh=1103,426,489,78",
+      "id": "https://hadro.github.io/woods-directory/0142_service:rbc:lcrbmrp:t8074:073_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0142_service:rbc:lcrbmrp:t8074:073_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

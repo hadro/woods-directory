@@ -1,0 +1,40 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brazier & Duncan Cut-Rate Drug Store — Corner Perdido and S. Liberty Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/233#xywh=565,474,1618,153",
+      "id": "https://hadro.github.io/woods-directory/0233_service:rbc:lcrbmrp:t8075:069_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Little Frisco Restaurant — 832 Bienville St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/233#xywh=571,1177,1630,88",
+      "id": "https://hadro.github.io/woods-directory/0233_service:rbc:lcrbmrp:t8075:069_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chalmette City Price Store — Arabi P. O., La. St. Bernard Parish",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/233#xywh=1265,2197,1052,233",
+      "id": "https://hadro.github.io/woods-directory/0233_service:rbc:lcrbmrp:t8075:069_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0233_service:rbc:lcrbmrp:t8075:069_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

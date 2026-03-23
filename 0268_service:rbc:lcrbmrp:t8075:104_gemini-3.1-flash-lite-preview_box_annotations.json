@@ -1,0 +1,117 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/268#xywh=306,195,1783,42",
+      "id": "https://hadro.github.io/woods-directory/0268_service:rbc:lcrbmrp:t8075:104_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "F. P. Ricard — 3001 Magnolia Street; 1941 Annette Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/268#xywh=569,400,305,32",
+      "id": "https://hadro.github.io/woods-directory/0268_service:rbc:lcrbmrp:t8075:104_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. Smith — 128 N. Liberty Street; 2304 First Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/268#xywh=609,566,232,39",
+      "id": "https://hadro.github.io/woods-directory/0268_service:rbc:lcrbmrp:t8075:104_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "T. P. Thompson — 1013 Elmira Avenue, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/268#xywh=483,759,426,40",
+      "id": "https://hadro.github.io/woods-directory/0268_service:rbc:lcrbmrp:t8075:104_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. D. Wilson — 8970 Green Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/268#xywh=1498,954,318,36",
+      "id": "https://hadro.github.io/woods-directory/0268_service:rbc:lcrbmrp:t8075:104_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Albert Toca — Corner Annette and Urquhart Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/268#xywh=579,1081,289,33",
+      "id": "https://hadro.github.io/woods-directory/0268_service:rbc:lcrbmrp:t8075:104_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "L. C. ANTOINE — 519 S. Prieur Street, New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/268#xywh=280,1427,1839,164",
+      "id": "https://hadro.github.io/woods-directory/0268_service:rbc:lcrbmrp:t8075:104_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. G. Williams — 2233 First Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/268#xywh=1465,398,390,32",
+      "id": "https://hadro.github.io/woods-directory/0268_service:rbc:lcrbmrp:t8075:104_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Thos. Williams",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/268#xywh=1481,613,351,33",
+      "id": "https://hadro.github.io/woods-directory/0268_service:rbc:lcrbmrp:t8075:104_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Floyd Wyche",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/268#xywh=621,1921,1144,173",
+      "id": "https://hadro.github.io/woods-directory/0268_service:rbc:lcrbmrp:t8075:104_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0268_service:rbc:lcrbmrp:t8075:104_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

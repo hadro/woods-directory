@@ -1,0 +1,73 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Union Station Exchange — 836 S. Rampart Street, The Corner from the I. C. Depot.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/269#xywh=399,297,1856,118",
+      "id": "https://hadro.github.io/woods-directory/0269_service:rbc:lcrbmrp:t8075:105_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Great Southern Hotel — 1012 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/269#xywh=1326,1066,891,51",
+      "id": "https://hadro.github.io/woods-directory/0269_service:rbc:lcrbmrp:t8075:105_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. Hopes — 3106 Carondelet Street, New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/269#xywh=1571,1968,457,58",
+      "id": "https://hadro.github.io/woods-directory/0269_service:rbc:lcrbmrp:t8075:105_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Elite Tailors — 131 Burgundy Street, New Orleans",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/269#xywh=1412,2622,790,58",
+      "id": "https://hadro.github.io/woods-directory/0269_service:rbc:lcrbmrp:t8075:105_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Union Station Cleaning & Dye Works — 1107 South Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/269#xywh=502,2485,734,51",
+      "id": "https://hadro.github.io/woods-directory/0269_service:rbc:lcrbmrp:t8075:105_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Twine The Tailor — 523 S. Rampart Street, New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/269#xywh=712,3093,306,44",
+      "id": "https://hadro.github.io/woods-directory/0269_service:rbc:lcrbmrp:t8075:105_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0269_service:rbc:lcrbmrp:t8075:105_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

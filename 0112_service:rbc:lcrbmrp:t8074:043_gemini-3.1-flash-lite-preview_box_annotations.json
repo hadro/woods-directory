@@ -1,0 +1,183 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sylvester Andrews — 1037 Austerlitz Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/112#xywh=726,326,462,58",
+      "id": "https://hadro.github.io/woods-directory/0112_service:rbc:lcrbmrp:t8074:043_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. Mitchell — 2011 Leonidas Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/112#xywh=811,498,294,54",
+      "id": "https://hadro.github.io/woods-directory/0112_service:rbc:lcrbmrp:t8074:043_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Richard Johnson — 3940 S. Claiborne Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/112#xywh=759,668,405,50",
+      "id": "https://hadro.github.io/woods-directory/0112_service:rbc:lcrbmrp:t8074:043_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. Warren Wright — 2516 S. Franklin Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/112#xywh=730,835,464,56",
+      "id": "https://hadro.github.io/woods-directory/0112_service:rbc:lcrbmrp:t8074:043_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. Barrois — 1512 St. Philip Street, near Villere",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/112#xywh=837,1131,261,48",
+      "id": "https://hadro.github.io/woods-directory/0112_service:rbc:lcrbmrp:t8074:043_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Louis Benard — 1724 N. Roman Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/112#xywh=802,1405,334,45",
+      "id": "https://hadro.github.io/woods-directory/0112_service:rbc:lcrbmrp:t8074:043_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alcide Charles — Angela and St. Claude Sts.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/112#xywh=792,1569,364,54",
+      "id": "https://hadro.github.io/woods-directory/0112_service:rbc:lcrbmrp:t8074:043_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. R. O. Sanders — 2611 JOSEPHINE ST., NEAR MAGNOLIA. NEW ORLEANS, LA.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/112#xywh=522,1774,1794,221",
+      "id": "https://hadro.github.io/woods-directory/0112_service:rbc:lcrbmrp:t8074:043_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Winnie Damico — 732 Elmira Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/112#xywh=1625,304,504,39",
+      "id": "https://hadro.github.io/woods-directory/0112_service:rbc:lcrbmrp:t8074:043_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "M. Lewis — 2038 Washington Ave., cor. Saratoga",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/112#xywh=1767,473,229,37",
+      "id": "https://hadro.github.io/woods-directory/0112_service:rbc:lcrbmrp:t8074:043_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jos. Mitchell — 1557 Gasquet Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/112#xywh=1727,645,314,36",
+      "id": "https://hadro.github.io/woods-directory/0112_service:rbc:lcrbmrp:t8074:043_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Henry J. Pearl — 2139 Delachaise Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/112#xywh=1708,815,358,37",
+      "id": "https://hadro.github.io/woods-directory/0112_service:rbc:lcrbmrp:t8074:043_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Henry Sindos — 1838 Conti Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/112#xywh=1721,985,337,37",
+      "id": "https://hadro.github.io/woods-directory/0112_service:rbc:lcrbmrp:t8074:043_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "George Spland — 421 Lamarque Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/112#xywh=1717,1167,351,37",
+      "id": "https://hadro.github.io/woods-directory/0112_service:rbc:lcrbmrp:t8074:043_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Enterprise Mdse. Co., Ltd. — 924 Brooklyn Avenue, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/112#xywh=1526,1357,723,44",
+      "id": "https://hadro.github.io/woods-directory/0112_service:rbc:lcrbmrp:t8074:043_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Turner Bros. — Third & Saratoga Sts.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/112#xywh=1739,1552,327,39",
+      "id": "https://hadro.github.io/woods-directory/0112_service:rbc:lcrbmrp:t8074:043_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0112_service:rbc:lcrbmrp:t8074:043_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

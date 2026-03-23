@@ -1,0 +1,227 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. J. Lebeaud — St. Bernard Market",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/111#xywh=461,352,402,38",
+      "id": "https://hadro.github.io/woods-directory/0111_service:rbc:lcrbmrp:t8074:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "M. P. Nicholson's Western Meat Market — 5416 Saratoga Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/111#xywh=404,567,518,38",
+      "id": "https://hadro.github.io/woods-directory/0111_service:rbc:lcrbmrp:t8074:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jos. Touchard — Stall No. 16 French Fish Market; Office, 1007 Decatur Street; Residence, 1925 St. Claude Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/111#xywh=485,784,381,37",
+      "id": "https://hadro.github.io/woods-directory/0111_service:rbc:lcrbmrp:t8074:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Samuel McNeal — 5132 Chestnut Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/111#xywh=475,1180,377,39",
+      "id": "https://hadro.github.io/woods-directory/0111_service:rbc:lcrbmrp:t8074:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jas. Charlot — Poydras Market",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/111#xywh=509,1476,306,38",
+      "id": "https://hadro.github.io/woods-directory/0111_service:rbc:lcrbmrp:t8074:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. C. Cook — Stall 19, Mehle Market",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/111#xywh=492,1645,335,37",
+      "id": "https://hadro.github.io/woods-directory/0111_service:rbc:lcrbmrp:t8074:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "E. Fouche — Treme Market; Residence, 2320 St. Philip Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/111#xywh=529,1815,257,35",
+      "id": "https://hadro.github.io/woods-directory/0111_service:rbc:lcrbmrp:t8074:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. J. Lebeaud — St. Bernard Market",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/111#xywh=421,442,479,34",
+      "id": "https://hadro.github.io/woods-directory/0111_service:rbc:lcrbmrp:t8074:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "F. Morgan — Stalls, 45-46, Treme Market",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/111#xywh=522,2199,270,41",
+      "id": "https://hadro.github.io/woods-directory/0111_service:rbc:lcrbmrp:t8074:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. Raymond — Stalls 114-116 Second Street Market",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/111#xywh=506,2371,298,37",
+      "id": "https://hadro.github.io/woods-directory/0111_service:rbc:lcrbmrp:t8074:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Smith & Bradley — 128 N. Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/111#xywh=1392,351,412,41",
+      "id": "https://hadro.github.io/woods-directory/0111_service:rbc:lcrbmrp:t8074:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "John Smith — 2105 Iberville Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/111#xywh=1447,519,302,44",
+      "id": "https://hadro.github.io/woods-directory/0111_service:rbc:lcrbmrp:t8074:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. Thompson — 1411 Orleans Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/111#xywh=1426,691,344,42",
+      "id": "https://hadro.github.io/woods-directory/0111_service:rbc:lcrbmrp:t8074:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. Collins — 4639 Magazine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/111#xywh=1519,954,249,34",
+      "id": "https://hadro.github.io/woods-directory/0111_service:rbc:lcrbmrp:t8074:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "N. J. Dennis — 2515 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/111#xywh=1431,1215,325,39",
+      "id": "https://hadro.github.io/woods-directory/0111_service:rbc:lcrbmrp:t8074:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "S. M. Edinburgh — 1146 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/111#xywh=1397,1383,399,42",
+      "id": "https://hadro.github.io/woods-directory/0111_service:rbc:lcrbmrp:t8074:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wm. Hirst — 507 S. Telemachus Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/111#xywh=1461,1602,273,36",
+      "id": "https://hadro.github.io/woods-directory/0111_service:rbc:lcrbmrp:t8074:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. Hopes and G. K. Johnson — 3106 Carondelet Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/111#xywh=1250,1864,694,38",
+      "id": "https://hadro.github.io/woods-directory/0111_service:rbc:lcrbmrp:t8074:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. K. Hopes — 2400 S. Rampart St.; 909 Howard Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/111#xywh=1432,2076,327,42",
+      "id": "https://hadro.github.io/woods-directory/0111_service:rbc:lcrbmrp:t8074:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. Joseph E. Willis — 1815 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/111#xywh=1559,2815,457,39",
+      "id": "https://hadro.github.io/woods-directory/0111_service:rbc:lcrbmrp:t8074:042_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0111_service:rbc:lcrbmrp:t8074:042_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

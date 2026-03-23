@@ -1,0 +1,491 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Presto Face Cream",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=564,210,1361,35",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. E. Johnson — 98",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1336,526,715,38",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Albert Monnot — 98",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1332,563,818,32",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Simeon's Signs — 61",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1334,592,723,44",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. M. Jones, representing Davis Piano Co — 24",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1336,675,636,38",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dryades Pocket Billiard Hall — 96",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1331,786,706,39",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Arthur P. Bedou — 76",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1330,870,722,29",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Floyd Studio — 54",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1330,902,727,38",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Welch's Frame Shop — 65",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1328,981,726,37",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Orleans Printing House — 96",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1330,1063,725,33",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Paragon Printing Office — 54",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1332,1098,737,33",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Phoenix Printery — 56",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1328,1129,727,38",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tabernacle Journal Press — 46",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1330,1163,721,34",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Drs. Surle & Milanes — 46",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1153,1167,53,26",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Capt. W. T. M. Grant, Sr. — 14",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1328,1269,723,33",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pine Grove Realty Co. — 56",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1330,1298,721,42",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "James A. Sample — 56",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1328,1335,721,37",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. E. Floding — 56",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1330,1405,719,34",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dorsey's Restaurant — 56",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1321,1472,728,37",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Little Frisco Restaurant — 56",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1328,1505,723,40",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Select Restaurant — 56",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1328,1541,723,36",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Success Restaurant — 56",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1324,1577,816,33",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Astoria Cafe — 52",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1328,1642,723,40",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Porters Exchange — 12",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1321,1675,724,38",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Union Station Exchange — 100",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1328,1714,721,32",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Penny Store — 62",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1324,1782,722,34",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Agricultural & Mechanical College — 82",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1328,1887,715,31",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Crescent Hairdressing College — 22",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1324,1954,608,34",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Crescent Hairdressing College (Branch) — 22",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1151,1682,50,26",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fisk University — 94",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1325,2021,721,38",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Guillaume College — 94",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1328,2059,716,30",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Orleans University — 94",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1328,2088,717,39",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Straight University — 94",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1328,2122,717,42",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tuskegee Institute — 94",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1321,2159,722,36",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "L. Galle — 92",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1321,2228,722,34",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Joe Narcisse — 98",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1323,2259,720,40",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Hub Shoe Store — 60",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1321,2331,722,33",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hayward L. Oubre — 62",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1321,2437,723,30",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "French Benzil Tailoring Co — 50",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1321,2536,722,36",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Porters' Tailoring Co — 50",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1321,2567,722,43",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Master Tailors — 50",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1321,2604,722,35",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Twine the Tailor — 50",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1324,2637,721,37",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Susie A. Carter — 64",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1319,2810,721,34",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Colored Y. M. C. A. — 101",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/175#xywh=1312,3323,817,34",
+      "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json/entry/43"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0175_service:rbc:lcrbmrp:t8075:011_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

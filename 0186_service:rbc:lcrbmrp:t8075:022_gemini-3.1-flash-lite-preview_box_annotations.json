@@ -1,0 +1,436 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES OF INDULGENCE B. A. — 1422 Ursuline street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=183,716,883,35",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES OF JERUSALEM M. A. B. A. — 527 S. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=185,863,883,35",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES OF LABOR B. A. — 527 S. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=183,1055,885,34",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES OF LOUISIANA B. A. — 1422 Ursuline street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=185,1156,881,34",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES OF LOUISIANA B. A. — 922 N. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=235,3018,629,38",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES OF MERCY B. A. — Coliseum near Valence",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=188,1450,880,36",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES OF MORALITY B. A. — 1422 Ursuline street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=180,1595,886,36",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES OF PEACE B. A. — 1422 Ursuline street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=188,1787,884,34",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES OF PROMPT SECOUR B. A. — 1460 N. Derbigny street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=189,1933,880,35",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES OF ST. CATHERINE B. A. — Howard and Tulane avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=191,2070,877,35",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES LA CONDEUR B. A. — 1422 Ursuline street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=189,2201,882,42",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES MORALITY B. A. — 1424 Ursuline street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=189,2340,882,35",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES PERSEVERANCE B. A. — 2711 S. Rampart street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=189,2475,882,35",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES PRIDE OF LOUISIANA B. A. — 527 S. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=189,2656,883,35",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES PROGRESS B. A. — Howard and Tulane avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=191,2791,878,34",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES OF PROSPERITY B. A. — 922 N. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=191,2927,881,36",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES OF PROVIDENCE B. A. — 1460 N. Derbigny street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=191,3061,880,38",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES PROVIDENCE B. A. — Howard and Tulane avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=191,3199,875,35",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES PROSPERITY B. A. — 1479 N. Robertson street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=1186,298,881,38",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES PROGRESSIVE FRIENDS B. A. — 922 N. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=1186,431,879,35",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES PROTECTIVE B. A. — 1607 St. Philip street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=1186,569,879,36",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES OF SILENCE B. A. — 1460 N. Derbigny street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=1186,705,879,35",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES SECURITY B. A. — 1607 St. Philip street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=1186,838,879,36",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES SINCERITY B. A. — 1479 N. Robertson street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=1176,976,891,36",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES ST. FRANCIS B. A. — 2241 S. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=1190,1113,877,36",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES ST. JOSEPH B. A. — Howard and Tulane avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=1188,1248,879,34",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES UNITY CHARITY B. A. — 922 N. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=1188,1383,879,42",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES VETERANS B. A. — Howard and Tulane avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=1190,1520,877,38",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES UNITY HOPE B. A. — 2711 S. Rampart street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=1190,1654,879,42",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES VENUS STAR B. A. — 1422 Ursuline street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=1190,1793,877,36",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES VIDALIA B. A. — Howard and Tulane avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=1190,1929,879,36",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADY MUTUAL B. A. — 2711 S. Rampart street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=1188,2065,879,36",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES PROVIDENCE B. A. — 2241 S. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=1237,2292,512,36",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADY PRIDE OF LOUISIANA — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=1190,2338,877,34",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LA FIDELITY B. A. — 1422 Ursuline street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=1190,2474,879,35",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LA MORALE CHRETIEN B. A. — 1607 St. Philip street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=1188,2608,879,34",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "L'ATHENA B. A. — 1479 N. Robertson street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=1188,2743,885,38",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LATHERS UNION — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=1195,2834,878,38",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "L'EQUITE B. A. — 1479 N. Robertson street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/186#xywh=1192,2968,879,38",
+      "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json/entry/38"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0186_service:rbc:lcrbmrp:t8075:022_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

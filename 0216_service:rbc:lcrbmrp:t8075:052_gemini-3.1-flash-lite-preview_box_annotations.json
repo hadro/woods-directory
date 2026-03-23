@@ -1,0 +1,271 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/216#xywh=229,207,1782,56",
+      "id": "https://hadro.github.io/woods-directory/0216_service:rbc:lcrbmrp:t8075:052_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. E. Charles Thornhill",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/216#xywh=350,415,589,34",
+      "id": "https://hadro.github.io/woods-directory/0216_service:rbc:lcrbmrp:t8075:052_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chas. W. Vance, M. D.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/216#xywh=384,765,523,40",
+      "id": "https://hadro.github.io/woods-directory/0216_service:rbc:lcrbmrp:t8075:052_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "R. J. Vining, M. D.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/216#xywh=402,1186,478,37",
+      "id": "https://hadro.github.io/woods-directory/0216_service:rbc:lcrbmrp:t8075:052_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "P. O. Wailes, M. D.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/216#xywh=396,1480,494,36",
+      "id": "https://hadro.github.io/woods-directory/0216_service:rbc:lcrbmrp:t8075:052_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "L. P. Dupre — 1936 Valence Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/216#xywh=488,1954,292,37",
+      "id": "https://hadro.github.io/woods-directory/0216_service:rbc:lcrbmrp:t8075:052_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jos. P. Dugue — 645 S. Johnson Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/216#xywh=421,2300,374,44",
+      "id": "https://hadro.github.io/woods-directory/0216_service:rbc:lcrbmrp:t8075:052_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "John V. Harris, Jr. — 2232 St. Louis Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/216#xywh=391,2518,476,36",
+      "id": "https://hadro.github.io/woods-directory/0216_service:rbc:lcrbmrp:t8075:052_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Adam Miles — 1962 N. Prieur Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/216#xywh=485,2732,286,35",
+      "id": "https://hadro.github.io/woods-directory/0216_service:rbc:lcrbmrp:t8075:052_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "7. P. Thompson — 1013 Elmira Avenue, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/216#xywh=433,3070,380,39",
+      "id": "https://hadro.github.io/woods-directory/0216_service:rbc:lcrbmrp:t8075:052_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alfred Williams, Jr. — 226 Decatur Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/216#xywh=1340,416,484,45",
+      "id": "https://hadro.github.io/woods-directory/0216_service:rbc:lcrbmrp:t8075:052_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Elizabeth Armstrong — 2118 Seventh Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/216#xywh=1275,767,612,44",
+      "id": "https://hadro.github.io/woods-directory/0216_service:rbc:lcrbmrp:t8075:052_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. M. Bailey — 4620 Chestnut Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/216#xywh=1404,962,344,37",
+      "id": "https://hadro.github.io/woods-directory/0216_service:rbc:lcrbmrp:t8075:052_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Lizzie Banks — 7415 Ann Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/216#xywh=1347,1182,455,38",
+      "id": "https://hadro.github.io/woods-directory/0216_service:rbc:lcrbmrp:t8075:052_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Francis Beoh — 1127 Dufossat Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/216#xywh=1347,1483,455,38",
+      "id": "https://hadro.github.io/woods-directory/0216_service:rbc:lcrbmrp:t8075:052_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Elliott Bell — 1827 Seventh Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/216#xywh=1372,1654,398,36",
+      "id": "https://hadro.github.io/woods-directory/0216_service:rbc:lcrbmrp:t8075:052_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. N. B. Bell — 1712 Iberville Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/216#xywh=1399,1822,346,39",
+      "id": "https://hadro.github.io/woods-directory/0216_service:rbc:lcrbmrp:t8075:052_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Annie M. Blackburn — 2032 Third Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/216#xywh=1270,2038,595,36",
+      "id": "https://hadro.github.io/woods-directory/0216_service:rbc:lcrbmrp:t8075:052_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Albertine Blanchard — 4815 Laurel Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/216#xywh=1262,2208,609,36",
+      "id": "https://hadro.github.io/woods-directory/0216_service:rbc:lcrbmrp:t8075:052_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Bernadette E. Boucree — 4830 Perrier Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/216#xywh=1241,2377,650,39",
+      "id": "https://hadro.github.io/woods-directory/0216_service:rbc:lcrbmrp:t8075:052_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Marceline G. Bucksell — 2332 St. Louis Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/216#xywh=1245,2547,645,35",
+      "id": "https://hadro.github.io/woods-directory/0216_service:rbc:lcrbmrp:t8075:052_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss C. Boyer — Third and Carondelet Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/216#xywh=1389,2851,342,37",
+      "id": "https://hadro.github.io/woods-directory/0216_service:rbc:lcrbmrp:t8075:052_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Lizzie Bush — 1919 Third Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/216#xywh=1360,3020,398,34",
+      "id": "https://hadro.github.io/woods-directory/0216_service:rbc:lcrbmrp:t8075:052_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Mary M. Bryant — 338 Audubon Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/216#xywh=1306,3190,502,37",
+      "id": "https://hadro.github.io/woods-directory/0216_service:rbc:lcrbmrp:t8075:052_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0216_service:rbc:lcrbmrp:t8075:052_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

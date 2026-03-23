@@ -1,0 +1,249 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Maudwina M. Mason — 4826 Perrier Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/115#xywh=388,348,503,37",
+      "id": "https://hadro.github.io/woods-directory/0115_service:rbc:lcrbmrp:t8074:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Mildred Mason — 2536 Tulane Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/115#xywh=388,566,495,35",
+      "id": "https://hadro.github.io/woods-directory/0115_service:rbc:lcrbmrp:t8074:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Ella Mitchell — 2714 S. Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/115#xywh=403,779,472,41",
+      "id": "https://hadro.github.io/woods-directory/0115_service:rbc:lcrbmrp:t8074:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Lou Emma Moore — 2831 Howard Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/115#xywh=371,1000,540,37",
+      "id": "https://hadro.github.io/woods-directory/0115_service:rbc:lcrbmrp:t8074:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Cora Quiney — 1923 Fourth Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/115#xywh=416,1217,442,38",
+      "id": "https://hadro.github.io/woods-directory/0115_service:rbc:lcrbmrp:t8074:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Louise Robertson — 328 N. Rocheblave Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/115#xywh=431,1389,412,37",
+      "id": "https://hadro.github.io/woods-directory/0115_service:rbc:lcrbmrp:t8074:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss M. Louise Seeberry — 2834 Howard St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/115#xywh=336,1604,601,38",
+      "id": "https://hadro.github.io/woods-directory/0115_service:rbc:lcrbmrp:t8074:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Florence Smith-Moore — 4114 Willow St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/115#xywh=322,1819,637,38",
+      "id": "https://hadro.github.io/woods-directory/0115_service:rbc:lcrbmrp:t8074:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rebecca R. Teems — 4922 Annunciation Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/115#xywh=414,1990,456,38",
+      "id": "https://hadro.github.io/woods-directory/0115_service:rbc:lcrbmrp:t8074:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Louise T. Thornhill — 2216 Second Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/115#xywh=337,2208,604,35",
+      "id": "https://hadro.github.io/woods-directory/0115_service:rbc:lcrbmrp:t8074:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jas. R. Grant — 1833 Foucher Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/115#xywh=292,2598,708,63",
+      "id": "https://hadro.github.io/woods-directory/0115_service:rbc:lcrbmrp:t8074:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Martha Thompson — 2005 Grant Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/115#xywh=1284,349,555,45",
+      "id": "https://hadro.github.io/woods-directory/0115_service:rbc:lcrbmrp:t8074:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Regina Walsh — 2214 Valence Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/115#xywh=1333,523,461,38",
+      "id": "https://hadro.github.io/woods-directory/0115_service:rbc:lcrbmrp:t8074:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Lottie Wilson — 2130 Josephine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/115#xywh=1337,738,455,38",
+      "id": "https://hadro.github.io/woods-directory/0115_service:rbc:lcrbmrp:t8074:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mary L. Williams — 4216 Magnolia St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/115#xywh=1302,954,526,39",
+      "id": "https://hadro.github.io/woods-directory/0115_service:rbc:lcrbmrp:t8074:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. R. Williams — 2917½ Saratoga Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/115#xywh=1358,1123,416,38",
+      "id": "https://hadro.github.io/woods-directory/0115_service:rbc:lcrbmrp:t8074:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. R. E. Williams — 2512 Third St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/115#xywh=1323,1340,485,35",
+      "id": "https://hadro.github.io/woods-directory/0115_service:rbc:lcrbmrp:t8074:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Emma Woodson — 539 Verret Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/115#xywh=1313,1509,509,35",
+      "id": "https://hadro.github.io/woods-directory/0115_service:rbc:lcrbmrp:t8074:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Normie Young — 1830 Washington Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/115#xywh=1335,1725,465,37",
+      "id": "https://hadro.github.io/woods-directory/0115_service:rbc:lcrbmrp:t8074:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "R. Caldwell — 2013-2015 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/115#xywh=1419,1998,295,34",
+      "id": "https://hadro.github.io/woods-directory/0115_service:rbc:lcrbmrp:t8074:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mme. M. C. Turner — 1433 Canal Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/115#xywh=1330,2168,486,35",
+      "id": "https://hadro.github.io/woods-directory/0115_service:rbc:lcrbmrp:t8074:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Patrick Prescott — 3814 Perrier Street, New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/115#xywh=1135,2753,877,63",
+      "id": "https://hadro.github.io/woods-directory/0115_service:rbc:lcrbmrp:t8074:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0115_service:rbc:lcrbmrp:t8074:046_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

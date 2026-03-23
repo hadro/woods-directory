@@ -1,0 +1,326 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/228#xywh=293,194,1780,46",
+      "id": "https://hadro.github.io/woods-directory/0228_service:rbc:lcrbmrp:t8075:064_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. W. M. Duplessis — 2217 Upperline Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/228#xywh=456,400,512,35",
+      "id": "https://hadro.github.io/woods-directory/0228_service:rbc:lcrbmrp:t8075:064_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Lillie Fortier — 2830 Coliseum Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/228#xywh=490,616,447,34",
+      "id": "https://hadro.github.io/woods-directory/0228_service:rbc:lcrbmrp:t8075:064_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Albertine D. Francis — 4911 Coliseum Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/228#xywh=415,827,605,40",
+      "id": "https://hadro.github.io/woods-directory/0228_service:rbc:lcrbmrp:t8075:064_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Eva Gorham — 825 Nunez Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/228#xywh=506,1043,421,38",
+      "id": "https://hadro.github.io/woods-directory/0228_service:rbc:lcrbmrp:t8075:064_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Gertrude Gates — 531 First Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/228#xywh=475,1258,481,39",
+      "id": "https://hadro.github.io/woods-directory/0228_service:rbc:lcrbmrp:t8075:064_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Sedolia Graves — 5525 Coliseum Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/228#xywh=479,1472,480,39",
+      "id": "https://hadro.github.io/woods-directory/0228_service:rbc:lcrbmrp:t8075:064_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Olivia Green — 2032 Eighth Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/228#xywh=506,1687,424,39",
+      "id": "https://hadro.github.io/woods-directory/0228_service:rbc:lcrbmrp:t8075:064_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Louise Green — 2111 Fourth Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/228#xywh=505,1917,430,35",
+      "id": "https://hadro.github.io/woods-directory/0228_service:rbc:lcrbmrp:t8075:064_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Marie V. Harris — 2214 Second Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/228#xywh=473,2094,501,39",
+      "id": "https://hadro.github.io/woods-directory/0228_service:rbc:lcrbmrp:t8075:064_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Margaret Hatchan — 2321 Seventh Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/228#xywh=506,2310,442,41",
+      "id": "https://hadro.github.io/woods-directory/0228_service:rbc:lcrbmrp:t8075:064_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss B. M. Hamilton — 2066 St. Andrew Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/228#xywh=479,2523,498,39",
+      "id": "https://hadro.github.io/woods-directory/0228_service:rbc:lcrbmrp:t8075:064_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. R. B. Hickey — 2325 Second Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/228#xywh=499,2740,471,36",
+      "id": "https://hadro.github.io/woods-directory/0228_service:rbc:lcrbmrp:t8075:064_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Bertha Hobbs — 2121 Palmyra St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/228#xywh=499,2911,463,35",
+      "id": "https://hadro.github.io/woods-directory/0228_service:rbc:lcrbmrp:t8075:064_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Emeline Hughes — 1114 Cadiz St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/228#xywh=476,3136,502,37",
+      "id": "https://hadro.github.io/woods-directory/0228_service:rbc:lcrbmrp:t8075:064_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Evangeline Jenkins — 2628 Soniat Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/228#xywh=1362,397,569,35",
+      "id": "https://hadro.github.io/woods-directory/0228_service:rbc:lcrbmrp:t8075:064_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Ella Johnson — 435 S. Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/228#xywh=1419,610,454,39",
+      "id": "https://hadro.github.io/woods-directory/0228_service:rbc:lcrbmrp:t8075:064_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Angie Lefeb — 2912 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/228#xywh=1436,783,432,38",
+      "id": "https://hadro.github.io/woods-directory/0228_service:rbc:lcrbmrp:t8075:064_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Retta B. Lewis — 7625 Burthe Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/228#xywh=1404,998,487,33",
+      "id": "https://hadro.github.io/woods-directory/0228_service:rbc:lcrbmrp:t8075:064_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Robert Lewis — 2010 Delachaise Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/228#xywh=1430,1167,445,33",
+      "id": "https://hadro.github.io/woods-directory/0228_service:rbc:lcrbmrp:t8075:064_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Susie Livers — 1241 Saratoga Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/228#xywh=1438,1325,429,34",
+      "id": "https://hadro.github.io/woods-directory/0228_service:rbc:lcrbmrp:t8075:064_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Olga Lucas — 537 S. Dorgenois St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/228#xywh=1454,1496,398,35",
+      "id": "https://hadro.github.io/woods-directory/0228_service:rbc:lcrbmrp:t8075:064_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Louise McGaffey — 340 S. Broad Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/228#xywh=1404,1801,512,38",
+      "id": "https://hadro.github.io/woods-directory/0228_service:rbc:lcrbmrp:t8075:064_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. E. McKee — 2113 Iberville St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/228#xywh=1482,1971,356,34",
+      "id": "https://hadro.github.io/woods-directory/0228_service:rbc:lcrbmrp:t8075:064_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Antonia Manade — 2320 Dumaine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/228#xywh=1404,2183,510,40",
+      "id": "https://hadro.github.io/woods-directory/0228_service:rbc:lcrbmrp:t8075:064_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Geo. Marsh — 217 S. Derbigny Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/228#xywh=1456,2436,400,34",
+      "id": "https://hadro.github.io/woods-directory/0228_service:rbc:lcrbmrp:t8075:064_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Maudwina M. Mason — 4826 Perrier Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/228#xywh=1418,2700,484,34",
+      "id": "https://hadro.github.io/woods-directory/0228_service:rbc:lcrbmrp:t8075:064_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Mildred Mason — 2536 Tulane Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/228#xywh=1421,2914,478,38",
+      "id": "https://hadro.github.io/woods-directory/0228_service:rbc:lcrbmrp:t8075:064_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Daisy Meyers — 1205 S. Franklin Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/228#xywh=1442,3133,443,38",
+      "id": "https://hadro.github.io/woods-directory/0228_service:rbc:lcrbmrp:t8075:064_gemini-3.1-flash-lite-preview_box_annotations.json/entry/28"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0228_service:rbc:lcrbmrp:t8075:064_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

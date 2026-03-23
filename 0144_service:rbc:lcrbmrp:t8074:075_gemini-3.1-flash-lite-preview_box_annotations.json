@@ -1,0 +1,40 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Emile Labat — Corner N. Rampart and Barracks Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/144#xywh=617,257,1424,166",
+      "id": "https://hadro.github.io/woods-directory/0144_service:rbc:lcrbmrp:t8074:075_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Blandin-LeBlanc Co., Limited — 1137 Hospital St., New Orleans",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/144#xywh=978,1682,715,50",
+      "id": "https://hadro.github.io/woods-directory/0144_service:rbc:lcrbmrp:t8074:075_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Oscar L. Muh — Office and Stable: 1016 Touro St., near N. Rampart; Residence: 1933 N. Rampart, near Touro",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/144#xywh=563,2537,1542,128",
+      "id": "https://hadro.github.io/woods-directory/0144_service:rbc:lcrbmrp:t8074:075_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0144_service:rbc:lcrbmrp:t8074:075_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

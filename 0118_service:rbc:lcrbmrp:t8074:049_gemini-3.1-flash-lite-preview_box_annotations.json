@@ -1,0 +1,227 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Frank B. Smith — 305-306 Pythian Temple, Gravier and Saratoga Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/118#xywh=738,341,393,37",
+      "id": "https://hadro.github.io/woods-directory/0118_service:rbc:lcrbmrp:t8074:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. Madison Vance — 206 Saratoga Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/118#xywh=727,649,422,37",
+      "id": "https://hadro.github.io/woods-directory/0118_service:rbc:lcrbmrp:t8074:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. G. Davis & Son — 2514 Delachaise Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/118#xywh=698,951,522,44",
+      "id": "https://hadro.github.io/woods-directory/0118_service:rbc:lcrbmrp:t8074:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. D. Warburg — 1119 Dumaine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/118#xywh=763,1217,348,35",
+      "id": "https://hadro.github.io/woods-directory/0118_service:rbc:lcrbmrp:t8074:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ben Williams — 2119 Fourth St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/118#xywh=770,1383,334,40",
+      "id": "https://hadro.github.io/woods-directory/0118_service:rbc:lcrbmrp:t8074:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "S. E. Davis — 408 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/118#xywh=796,1681,313,37",
+      "id": "https://hadro.github.io/woods-directory/0118_service:rbc:lcrbmrp:t8074:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. G. Davis & Son — 2514 Delachaise Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/118#xywh=670,1041,537,44",
+      "id": "https://hadro.github.io/woods-directory/0118_service:rbc:lcrbmrp:t8074:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Julius Evans — 2516 South Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/118#xywh=784,2019,323,40",
+      "id": "https://hadro.github.io/woods-directory/0118_service:rbc:lcrbmrp:t8074:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ferguson & Chapman — 1816 Delachaise Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/118#xywh=1604,385,514,37",
+      "id": "https://hadro.github.io/woods-directory/0118_service:rbc:lcrbmrp:t8074:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Graham & Adams — Cor. Louisiana Ave. and S. Liberty St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/118#xywh=1633,555,458,36",
+      "id": "https://hadro.github.io/woods-directory/0118_service:rbc:lcrbmrp:t8074:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. Hopes & G. K. Johnson — 3106 Carondelet Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/118#xywh=1558,721,610,44",
+      "id": "https://hadro.github.io/woods-directory/0118_service:rbc:lcrbmrp:t8074:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "S. C. Humphrey — 2538 Tulane Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/118#xywh=1664,895,401,39",
+      "id": "https://hadro.github.io/woods-directory/0118_service:rbc:lcrbmrp:t8074:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "L. Martin — 1602 Ursuline Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/118#xywh=1735,1064,262,39",
+      "id": "https://hadro.github.io/woods-directory/0118_service:rbc:lcrbmrp:t8074:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Horace G. Shelby — Melpomene and Carondelet Sts.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/118#xywh=1654,1236,420,37",
+      "id": "https://hadro.github.io/woods-directory/0118_service:rbc:lcrbmrp:t8074:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "S. W. Watson — 3433 Baronne Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/118#xywh=1698,1406,338,36",
+      "id": "https://hadro.github.io/woods-directory/0118_service:rbc:lcrbmrp:t8074:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Florence Adams — 1312 Joliet Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/118#xywh=1613,1668,511,35",
+      "id": "https://hadro.github.io/woods-directory/0118_service:rbc:lcrbmrp:t8074:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lucy Badger — Office: Stumpf's Drug Store",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/118#xywh=1710,1840,317,37",
+      "id": "https://hadro.github.io/woods-directory/0118_service:rbc:lcrbmrp:t8074:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Carrie Baker — 1758 St. Claude Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/118#xywh=1648,2055,449,37",
+      "id": "https://hadro.github.io/woods-directory/0118_service:rbc:lcrbmrp:t8074:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Eliza J. Benton — 1712 N. Derbigny Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/118#xywh=1614,2273,512,37",
+      "id": "https://hadro.github.io/woods-directory/0118_service:rbc:lcrbmrp:t8074:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Branch Crescent Hairdressing College — 2206 Tulane Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/118#xywh=1608,3133,551,43",
+      "id": "https://hadro.github.io/woods-directory/0118_service:rbc:lcrbmrp:t8074:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0118_service:rbc:lcrbmrp:t8074:049_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

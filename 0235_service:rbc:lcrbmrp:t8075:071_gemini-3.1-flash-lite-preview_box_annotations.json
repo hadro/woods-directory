@@ -1,0 +1,40 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cobette & Poche — Junction of Peters and Decatur Streets, between Conti and St. Louis",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/235#xywh=448,536,1847,159",
+      "id": "https://hadro.github.io/woods-directory/0235_service:rbc:lcrbmrp:t8075:071_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rasch Bros.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/235#xywh=1215,1553,851,51",
+      "id": "https://hadro.github.io/woods-directory/0235_service:rbc:lcrbmrp:t8075:071_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. E. Johnson — Office: 112 Pythian Temple. Shop: 2620 Banks Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/235#xywh=456,2982,984,42",
+      "id": "https://hadro.github.io/woods-directory/0235_service:rbc:lcrbmrp:t8075:071_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0235_service:rbc:lcrbmrp:t8075:071_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

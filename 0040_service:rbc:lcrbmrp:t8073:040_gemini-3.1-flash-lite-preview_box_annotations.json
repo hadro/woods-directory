@@ -1,0 +1,18 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Albert Baumann — Third and Howard Sts., New Orleans",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/40#xywh=512,402,1292,96",
+      "id": "https://hadro.github.io/woods-directory/0040_service:rbc:lcrbmrp:t8073:040_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0040_service:rbc:lcrbmrp:t8073:040_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

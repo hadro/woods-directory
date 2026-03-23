@@ -1,0 +1,51 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Atlanta Baptist College — Atlanta, Ga.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/138#xywh=579,253,1610,116",
+      "id": "https://hadro.github.io/woods-directory/0138_service:rbc:lcrbmrp:t8074:069_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Straight University Night School — 2420 Canal Street, New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/138#xywh=486,998,1794,104",
+      "id": "https://hadro.github.io/woods-directory/0138_service:rbc:lcrbmrp:t8074:069_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Afro-American Correspondence School — 2808 St. Ann Street, New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/138#xywh=651,2415,1473,47",
+      "id": "https://hadro.github.io/woods-directory/0138_service:rbc:lcrbmrp:t8074:069_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "App Roofing and Metal Co. — 807 Howard Avenue, New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/138#xywh=682,2661,1404,56",
+      "id": "https://hadro.github.io/woods-directory/0138_service:rbc:lcrbmrp:t8074:069_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0138_service:rbc:lcrbmrp:t8074:069_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

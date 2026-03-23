@@ -1,0 +1,51 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alfred Williams, Jr. — 226 Decatur Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/265#xywh=418,299,925,87",
+      "id": "https://hadro.github.io/woods-directory/0265_service:rbc:lcrbmrp:t8075:101_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Louis Maspero — 1611 Claiborne Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/265#xywh=477,803,845,48",
+      "id": "https://hadro.github.io/woods-directory/0265_service:rbc:lcrbmrp:t8075:101_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Geo. Colin Nicolas — Stalls 105-107 Treme Market; Residence 1618 Ursulines Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/265#xywh=671,1054,1322,146",
+      "id": "https://hadro.github.io/woods-directory/0265_service:rbc:lcrbmrp:t8075:101_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Penny Store — Lapeyrouse Street, Corner Prieur",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/265#xywh=616,1928,1461,235",
+      "id": "https://hadro.github.io/woods-directory/0265_service:rbc:lcrbmrp:t8075:101_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0265_service:rbc:lcrbmrp:t8075:101_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

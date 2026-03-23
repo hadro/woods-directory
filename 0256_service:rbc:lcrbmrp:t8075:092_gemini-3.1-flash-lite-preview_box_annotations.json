@@ -1,0 +1,293 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/256#xywh=291,188,1776,46",
+      "id": "https://hadro.github.io/woods-directory/0256_service:rbc:lcrbmrp:t8075:092_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Panama Restaurant — 411 Dauphine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/256#xywh=417,393,580,37",
+      "id": "https://hadro.github.io/woods-directory/0256_service:rbc:lcrbmrp:t8075:092_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Porters Exchange Restaurant and Saloon — 1000 Perdido St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/256#xywh=318,612,782,37",
+      "id": "https://hadro.github.io/woods-directory/0256_service:rbc:lcrbmrp:t8075:092_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Famous Peoples Restaurant — Thalia and Howard Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/256#xywh=324,828,774,39",
+      "id": "https://hadro.github.io/woods-directory/0256_service:rbc:lcrbmrp:t8075:092_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Select Restaurant — 2632 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/256#xywh=504,998,416,34",
+      "id": "https://hadro.github.io/woods-directory/0256_service:rbc:lcrbmrp:t8075:092_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Success Confectionery and Restaurant — 1428 Canal St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/256#xywh=346,1212,735,39",
+      "id": "https://hadro.github.io/woods-directory/0256_service:rbc:lcrbmrp:t8075:092_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Teamsters' Saloon and Restaurant — 1931 Josephine, cor. Rampart",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/256#xywh=326,1472,787,34",
+      "id": "https://hadro.github.io/woods-directory/0256_service:rbc:lcrbmrp:t8075:092_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Union Station Exchange Restaurant and Bar — 836 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/256#xywh=302,1645,832,35",
+      "id": "https://hadro.github.io/woods-directory/0256_service:rbc:lcrbmrp:t8075:092_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. Wright's Restaurant — 1129 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/256#xywh=452,1917,535,39",
+      "id": "https://hadro.github.io/woods-directory/0256_service:rbc:lcrbmrp:t8075:092_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. Silvau, Sr. — 807 Howard Av. (Residence: 2714 Second Street)",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/256#xywh=560,2154,313,36",
+      "id": "https://hadro.github.io/woods-directory/0256_service:rbc:lcrbmrp:t8075:092_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Anna S. Franklin — 2334 Iberville Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/256#xywh=461,2581,515,35",
+      "id": "https://hadro.github.io/woods-directory/0256_service:rbc:lcrbmrp:t8075:092_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Annie McGuire — 2108 Jackson Av.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/256#xywh=486,2752,467,35",
+      "id": "https://hadro.github.io/woods-directory/0256_service:rbc:lcrbmrp:t8075:092_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. F. J. Luins — 715 to 719 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/256#xywh=523,2923,394,35",
+      "id": "https://hadro.github.io/woods-directory/0256_service:rbc:lcrbmrp:t8075:092_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Joseph E. Meanes — 743 S. Rampart St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/256#xywh=1433,393,418,40",
+      "id": "https://hadro.github.io/woods-directory/0256_service:rbc:lcrbmrp:t8075:092_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Original Panama House — 328 S. Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/256#xywh=1360,563,570,40",
+      "id": "https://hadro.github.io/woods-directory/0256_service:rbc:lcrbmrp:t8075:092_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. R. Rodgers — 603 D'Armas Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/256#xywh=1460,777,373,40",
+      "id": "https://hadro.github.io/woods-directory/0256_service:rbc:lcrbmrp:t8075:092_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Providence Sanitarium — 122 Howard St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/256#xywh=1383,1068,523,38",
+      "id": "https://hadro.github.io/woods-directory/0256_service:rbc:lcrbmrp:t8075:092_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alcide Charles — Angela and St. Claude Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/256#xywh=1477,1452,346,39",
+      "id": "https://hadro.github.io/woods-directory/0256_service:rbc:lcrbmrp:t8075:092_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pink Allen — 830 S. Rampart St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/256#xywh=1516,1626,267,35",
+      "id": "https://hadro.github.io/woods-directory/0256_service:rbc:lcrbmrp:t8075:092_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Astoria Cafe — 235-237 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/256#xywh=1500,1794,299,36",
+      "id": "https://hadro.github.io/woods-directory/0256_service:rbc:lcrbmrp:t8075:092_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alcide Charles — Angela and St. Claude Streets, Stock Landing Arabi P. O., La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/256#xywh=1216,2147,878,40",
+      "id": "https://hadro.github.io/woods-directory/0256_service:rbc:lcrbmrp:t8075:092_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Glad U Kum\" Saloon — 836 Brooklyn Avenue, Corner Homer Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/256#xywh=1397,2227,513,34",
+      "id": "https://hadro.github.io/woods-directory/0256_service:rbc:lcrbmrp:t8075:092_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Green & Williams — D'Armas and Elmira Streets, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/256#xywh=1442,2578,421,35",
+      "id": "https://hadro.github.io/woods-directory/0256_service:rbc:lcrbmrp:t8075:092_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "M. Lewis — 2038 Washington Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/256#xywh=1543,2747,223,34",
+      "id": "https://hadro.github.io/woods-directory/0256_service:rbc:lcrbmrp:t8075:092_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Liberty Liquor House — 1332 Perdido St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/256#xywh=1398,2964,509,36",
+      "id": "https://hadro.github.io/woods-directory/0256_service:rbc:lcrbmrp:t8075:092_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Henry Morton — 2500 S. Robertson Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/256#xywh=1488,3132,338,38",
+      "id": "https://hadro.github.io/woods-directory/0256_service:rbc:lcrbmrp:t8075:092_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0256_service:rbc:lcrbmrp:t8075:092_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

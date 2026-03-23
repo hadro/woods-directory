@@ -1,0 +1,304 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "ELECTA CHAPTER, O. E. S. — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/198#xywh=255,346,879,39",
+      "id": "https://hadro.github.io/woods-directory/0198_service:rbc:lcrbmrp:t8075:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "DEBORAH CHAPTER No. 27, O. E. S. — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/198#xywh=255,491,879,37",
+      "id": "https://hadro.github.io/woods-directory/0198_service:rbc:lcrbmrp:t8075:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "ESTHER CHAPTER, O. E. S. — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/198#xywh=258,909,876,37",
+      "id": "https://hadro.github.io/woods-directory/0198_service:rbc:lcrbmrp:t8075:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "MARTHA CHAPTER, O. E. S. — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/198#xywh=258,1098,874,42",
+      "id": "https://hadro.github.io/woods-directory/0198_service:rbc:lcrbmrp:t8075:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "QUEEN ESTHER — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/198#xywh=255,1291,877,39",
+      "id": "https://hadro.github.io/woods-directory/0198_service:rbc:lcrbmrp:t8075:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "COUNCIL OF DELIBERATION OF SOVEREIGN GRAND INSPECTOR GENERALS OF THE THIRTY-THIRD DEGREE, ANCIENT ACCEPTED SCOTTISH RITE OF FREE MASONRY — 331 Carondelet street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/198#xywh=304,2275,833,35",
+      "id": "https://hadro.github.io/woods-directory/0198_service:rbc:lcrbmrp:t8075:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "ORLEANS GRAND CONSISTORY THIRTY-SECOND DEGREE — 331 Carondelet street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/198#xywh=260,1901,877,34",
+      "id": "https://hadro.github.io/woods-directory/0198_service:rbc:lcrbmrp:t8075:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. T. GRANT COUNCIL KNIGHTS OF KADOSH No. 1 — 331 Carondelet street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/198#xywh=260,2182,871,37",
+      "id": "https://hadro.github.io/woods-directory/0198_service:rbc:lcrbmrp:t8075:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "RAMSEY ROSE CROIX CHAPTER No. 1 — 331 Carondelet street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/198#xywh=263,2375,871,34",
+      "id": "https://hadro.github.io/woods-directory/0198_service:rbc:lcrbmrp:t8075:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "CRESCENT TEMPLE ANCIENT ARABIC ORDER NOBLES OF THE MYSTIC SHRINE — 331 Carondelet street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/198#xywh=528,219,1313,65",
+      "id": "https://hadro.github.io/woods-directory/0198_service:rbc:lcrbmrp:t8075:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "ST. JOHN GRAND COMMANDERY OF KNIGHTS TEMPLARS — 331 Carondelet street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/198#xywh=260,2782,874,36",
+      "id": "https://hadro.github.io/woods-directory/0198_service:rbc:lcrbmrp:t8075:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "WHITNEY G. S. GRANT COMMANDERY OF KNIGHTS TEMPLARS No. 1 — 331 Carondelet street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/198#xywh=304,3006,830,35",
+      "id": "https://hadro.github.io/woods-directory/0198_service:rbc:lcrbmrp:t8075:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "JOHN G. JONES ROYAL ARCH CHAPTER No. 1 — 331 Carondelet street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/198#xywh=258,3184,876,42",
+      "id": "https://hadro.github.io/woods-directory/0198_service:rbc:lcrbmrp:t8075:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "M. W. ST. ANDREW GRAND LODGE, ANCIENT FREE AND ACCEPTED MASONS",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/198#xywh=1259,352,875,45",
+      "id": "https://hadro.github.io/woods-directory/0198_service:rbc:lcrbmrp:t8075:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "TEMAN OF MT. PARAN LODGE No. 1 — 331 Carondelet street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/198#xywh=1259,814,877,44",
+      "id": "https://hadro.github.io/woods-directory/0198_service:rbc:lcrbmrp:t8075:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. T. GRANT LODGE No. 2 — 331 Carondelet street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/198#xywh=1305,999,826,40",
+      "id": "https://hadro.github.io/woods-directory/0198_service:rbc:lcrbmrp:t8075:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "KING RAMUS LODGE No. 3 — 331 Carondelet street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/198#xywh=1261,1189,870,41",
+      "id": "https://hadro.github.io/woods-directory/0198_service:rbc:lcrbmrp:t8075:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "PRINCE OF PEACE LODGE No. 4 — 331 Carondelet street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/198#xywh=1259,1337,874,34",
+      "id": "https://hadro.github.io/woods-directory/0198_service:rbc:lcrbmrp:t8075:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "JOHN G. JONES LODGE No. 5 — 331 Carondelet street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/198#xywh=1258,1485,875,36",
+      "id": "https://hadro.github.io/woods-directory/0198_service:rbc:lcrbmrp:t8075:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "ST. JOHN LODGE No. 6 — 331 Carondelet street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/198#xywh=1259,1628,879,42",
+      "id": "https://hadro.github.io/woods-directory/0198_service:rbc:lcrbmrp:t8075:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "ABRAHAM LINCOLN LODGE No. 9 — 331 Carondelet street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/198#xywh=1259,1779,876,36",
+      "id": "https://hadro.github.io/woods-directory/0198_service:rbc:lcrbmrp:t8075:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "ELECTA GRAND CHAPTER, ORDER OF EASTERN STAR — 331 Carondelet street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/198#xywh=1258,1925,877,37",
+      "id": "https://hadro.github.io/woods-directory/0198_service:rbc:lcrbmrp:t8075:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "ALPHA CHAPTER No. 1 — 331 Carondelet street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/198#xywh=1259,2253,881,34",
+      "id": "https://hadro.github.io/woods-directory/0198_service:rbc:lcrbmrp:t8075:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "QUEEN OF SHEBA CHAPTER No. 2 — 331 Carondelet street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/198#xywh=1259,2400,872,36",
+      "id": "https://hadro.github.io/woods-directory/0198_service:rbc:lcrbmrp:t8075:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "GRAND COURT, ANCIENT ARABIC ORDER, DAUGHTERS OF SPHINX — 331 Carondelet street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/198#xywh=1259,2593,876,35",
+      "id": "https://hadro.github.io/woods-directory/0198_service:rbc:lcrbmrp:t8075:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "JOHN G. JONES COURT No. 1 — 331 Carondelet street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/198#xywh=1258,3007,873,35",
+      "id": "https://hadro.github.io/woods-directory/0198_service:rbc:lcrbmrp:t8075:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. T. GRANT COURT No. 2 — 331 Carondelet street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/198#xywh=1264,3190,867,35",
+      "id": "https://hadro.github.io/woods-directory/0198_service:rbc:lcrbmrp:t8075:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0198_service:rbc:lcrbmrp:t8075:034_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

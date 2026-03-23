@@ -1,0 +1,304 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/246#xywh=293,207,1782,46",
+      "id": "https://hadro.github.io/woods-directory/0246_service:rbc:lcrbmrp:t8075:082_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "H. Matthews — 717 Newton Street, Algeirs",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/246#xywh=554,413,305,34",
+      "id": "https://hadro.github.io/woods-directory/0246_service:rbc:lcrbmrp:t8075:082_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Margaret M. Maurice — 1419 Burdette Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/246#xywh=406,674,610,36",
+      "id": "https://hadro.github.io/woods-directory/0246_service:rbc:lcrbmrp:t8075:082_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Eva Muggah — 1121 Bordeaux Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/246#xywh=504,975,414,36",
+      "id": "https://hadro.github.io/woods-directory/0246_service:rbc:lcrbmrp:t8075:082_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. W. T. Nesbitt — 315 S. Roman Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/246#xywh=495,1143,431,34",
+      "id": "https://hadro.github.io/woods-directory/0246_service:rbc:lcrbmrp:t8075:082_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. J. Nickerson — 120 N. Galvez St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/246#xywh=522,1312,376,37",
+      "id": "https://hadro.github.io/woods-directory/0246_service:rbc:lcrbmrp:t8075:082_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Florence Rhodes — 1011 Valence Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/246#xywh=456,1484,508,32",
+      "id": "https://hadro.github.io/woods-directory/0246_service:rbc:lcrbmrp:t8075:082_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Louise M. Scott — 1621 St. Philip Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/246#xywh=458,1698,500,34",
+      "id": "https://hadro.github.io/woods-directory/0246_service:rbc:lcrbmrp:t8075:082_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Ophelia A. Smith — 1917 First Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/246#xywh=449,1868,523,36",
+      "id": "https://hadro.github.io/woods-directory/0246_service:rbc:lcrbmrp:t8075:082_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Beatrice Stewart — Studio: 117 Pine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/246#xywh=456,2078,510,34",
+      "id": "https://hadro.github.io/woods-directory/0246_service:rbc:lcrbmrp:t8075:082_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dow L. Taylor — 2204 S. Franklin Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/246#xywh=522,2378,372,36",
+      "id": "https://hadro.github.io/woods-directory/0246_service:rbc:lcrbmrp:t8075:082_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Camilla Todd — 1916 Seventh Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/246#xywh=487,2545,445,35",
+      "id": "https://hadro.github.io/woods-directory/0246_service:rbc:lcrbmrp:t8075:082_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Mary C. Thropay — 2230 St. Bernard Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/246#xywh=454,2718,516,35",
+      "id": "https://hadro.github.io/woods-directory/0246_service:rbc:lcrbmrp:t8075:082_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss A. K. Verrett — 2535 Gravier Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/246#xywh=489,2878,443,41",
+      "id": "https://hadro.github.io/woods-directory/0246_service:rbc:lcrbmrp:t8075:082_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Naomi J. Verrett — 2334 Iberville Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/246#xywh=1386,445,516,33",
+      "id": "https://hadro.github.io/woods-directory/0246_service:rbc:lcrbmrp:t8075:082_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Viola Willoughby — 1429 Joseph Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/246#xywh=1383,769,519,35",
+      "id": "https://hadro.github.io/woods-directory/0246_service:rbc:lcrbmrp:t8075:082_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Baptist Advocate Printing Office — 2235 S. Franklin Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/246#xywh=1271,1091,746,44",
+      "id": "https://hadro.github.io/woods-directory/0246_service:rbc:lcrbmrp:t8075:082_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Daily Spokesman — Temple Bldg., Gravier & Saratoga Sts.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/246#xywh=1441,1265,403,35",
+      "id": "https://hadro.github.io/woods-directory/0246_service:rbc:lcrbmrp:t8075:082_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Southwestern Christian Advocate — 631 Baronne Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/246#xywh=1258,1740,771,35",
+      "id": "https://hadro.github.io/woods-directory/0246_service:rbc:lcrbmrp:t8075:082_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Southwestern Christian Advocate — 631 Baronne Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/246#xywh=1418,1615,453,35",
+      "id": "https://hadro.github.io/woods-directory/0246_service:rbc:lcrbmrp:t8075:082_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charles D. Levy — 4218 Clara Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/246#xywh=1450,1867,393,35",
+      "id": "https://hadro.github.io/woods-directory/0246_service:rbc:lcrbmrp:t8075:082_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Louisiana-African Methodist — 1209 Cadiz Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/246#xywh=1320,2032,650,40",
+      "id": "https://hadro.github.io/woods-directory/0246_service:rbc:lcrbmrp:t8075:082_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Crisis Magazine — 5132 Chestnut Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/246#xywh=1253,2338,787,44",
+      "id": "https://hadro.github.io/woods-directory/0246_service:rbc:lcrbmrp:t8075:082_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Crisis Magazine — 3001 Magnolia Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/246#xywh=1394,2709,499,39",
+      "id": "https://hadro.github.io/woods-directory/0246_service:rbc:lcrbmrp:t8075:082_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Southwestern Christian Advocate — 631 Baronne Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/246#xywh=1206,1016,879,40",
+      "id": "https://hadro.github.io/woods-directory/0246_service:rbc:lcrbmrp:t8075:082_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Cincinnati Pythian Monitor — 2623 Banks Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/246#xywh=1256,3049,770,36",
+      "id": "https://hadro.github.io/woods-directory/0246_service:rbc:lcrbmrp:t8075:082_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Tabernacle Journal — 535 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/246#xywh=1352,3184,576,34",
+      "id": "https://hadro.github.io/woods-directory/0246_service:rbc:lcrbmrp:t8075:082_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0246_service:rbc:lcrbmrp:t8075:082_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

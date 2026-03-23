@@ -1,0 +1,304 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/260#xywh=296,214,1788,43",
+      "id": "https://hadro.github.io/woods-directory/0260_service:rbc:lcrbmrp:t8075:096_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hub Shoe Store — 1224 Dryades, bet. Clio & Erato Sts.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/260#xywh=524,420,388,34",
+      "id": "https://hadro.github.io/woods-directory/0260_service:rbc:lcrbmrp:t8075:096_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Louis P. Bucksell — 2232 St. Louis Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/260#xywh=513,748,416,34",
+      "id": "https://hadro.github.io/woods-directory/0260_service:rbc:lcrbmrp:t8075:096_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Gladys Hirst — 507 S. Telemachus Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/260#xywh=500,1098,453,36",
+      "id": "https://hadro.github.io/woods-directory/0260_service:rbc:lcrbmrp:t8075:096_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mabel E. Jackson — 1224 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/260#xywh=468,1314,517,34",
+      "id": "https://hadro.github.io/woods-directory/0260_service:rbc:lcrbmrp:t8075:096_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hayward L. Oubre — 2131 Toledano Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/260#xywh=500,1482,457,37",
+      "id": "https://hadro.github.io/woods-directory/0260_service:rbc:lcrbmrp:t8075:096_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "F. B. Smith — Pythian Temple Building, Gravier and Saratoga Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/260#xywh=586,1651,277,35",
+      "id": "https://hadro.github.io/woods-directory/0260_service:rbc:lcrbmrp:t8075:096_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Woods Directory Service Department",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/260#xywh=334,621,774,39",
+      "id": "https://hadro.github.io/woods-directory/0260_service:rbc:lcrbmrp:t8075:096_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "S. Parker Abbey — 1505 Gasquet Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/260#xywh=530,2205,400,36",
+      "id": "https://hadro.github.io/woods-directory/0260_service:rbc:lcrbmrp:t8075:096_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "E. J. Collins — 5214 Perrier Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/260#xywh=577,2374,300,35",
+      "id": "https://hadro.github.io/woods-directory/0260_service:rbc:lcrbmrp:t8075:096_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Economical Tailoring, Cleaning and Pressing — 238 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/260#xywh=302,2544,862,40",
+      "id": "https://hadro.github.io/woods-directory/0260_service:rbc:lcrbmrp:t8075:096_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Elite Tailors — 131 Burgundy St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/260#xywh=577,2758,304,36",
+      "id": "https://hadro.github.io/woods-directory/0260_service:rbc:lcrbmrp:t8075:096_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "B. T. Hatter — 1740 Baronne St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/260#xywh=577,2929,309,33",
+      "id": "https://hadro.github.io/woods-directory/0260_service:rbc:lcrbmrp:t8075:096_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jno. H. Jackson — 151 Elk Place",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/260#xywh=1474,414,370,34",
+      "id": "https://hadro.github.io/woods-directory/0260_service:rbc:lcrbmrp:t8075:096_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "B. Lafourche — 611 Julia Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/260#xywh=1499,585,310,33",
+      "id": "https://hadro.github.io/woods-directory/0260_service:rbc:lcrbmrp:t8075:096_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Milwaukee Tailoring Co. — 1904 Second St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/260#xywh=1372,752,569,44",
+      "id": "https://hadro.github.io/woods-directory/0260_service:rbc:lcrbmrp:t8075:096_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. B. Oldridge — 712 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/260#xywh=1480,926,356,35",
+      "id": "https://hadro.github.io/woods-directory/0260_service:rbc:lcrbmrp:t8075:096_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Porters' Tailoring — 1010 Dryades St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/260#xywh=1447,1140,421,36",
+      "id": "https://hadro.github.io/woods-directory/0260_service:rbc:lcrbmrp:t8075:096_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alfred A. Twine — 523 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/260#xywh=1464,1308,390,34",
+      "id": "https://hadro.github.io/woods-directory/0260_service:rbc:lcrbmrp:t8075:096_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Master Tailors — 109 S. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/260#xywh=1422,1476,473,37",
+      "id": "https://hadro.github.io/woods-directory/0260_service:rbc:lcrbmrp:t8075:096_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. R. Wills — 3218 Carondelet Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/260#xywh=1470,1693,336,36",
+      "id": "https://hadro.github.io/woods-directory/0260_service:rbc:lcrbmrp:t8075:096_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "H. J. Glenn — 2024 Cadiz St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/260#xywh=1515,2021,289,35",
+      "id": "https://hadro.github.io/woods-directory/0260_service:rbc:lcrbmrp:t8075:096_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "August Brown — 2830 Cadiz Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/260#xywh=1494,2305,335,37",
+      "id": "https://hadro.github.io/woods-directory/0260_service:rbc:lcrbmrp:t8075:096_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alex. Dubois — 210 S. Roman Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/260#xywh=1515,2475,298,35",
+      "id": "https://hadro.github.io/woods-directory/0260_service:rbc:lcrbmrp:t8075:096_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Thos. Henry — 1113 Teche St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/260#xywh=1510,2644,303,39",
+      "id": "https://hadro.github.io/woods-directory/0260_service:rbc:lcrbmrp:t8075:096_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Gustave Morales — 1423 St. Claude Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/260#xywh=1465,2816,397,34",
+      "id": "https://hadro.github.io/woods-directory/0260_service:rbc:lcrbmrp:t8075:096_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. Reshord — Lincoln Park, Carrollton Avenue and Oleander Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/260#xywh=1532,2985,262,34",
+      "id": "https://hadro.github.io/woods-directory/0260_service:rbc:lcrbmrp:t8075:096_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0260_service:rbc:lcrbmrp:t8075:096_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

@@ -1,0 +1,62 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Arthur P. Bedou Milanes Dental Office — 1609 Urquhart St., near St. Bernard Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/36#xywh=1080,1381,952,76",
+      "id": "https://hadro.github.io/woods-directory/0036_service:rbc:lcrbmrp:t8073:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "George Colin Nicolas — Stall: 105-107 Treme Market; Residence, 1618 Ursulines Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/36#xywh=1174,2000,843,97",
+      "id": "https://hadro.github.io/woods-directory/0036_service:rbc:lcrbmrp:t8073:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Orleans Printing House — 149 Elk Place",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/36#xywh=253,470,1739,94",
+      "id": "https://hadro.github.io/woods-directory/0036_service:rbc:lcrbmrp:t8073:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ed. Aldron — Studio: 1707 Bienville Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/36#xywh=1626,2766,357,41",
+      "id": "https://hadro.github.io/woods-directory/0036_service:rbc:lcrbmrp:t8073:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wilkins & Aldron — Offices: 1731 Dumaine St. and 427 S. Lopez St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/36#xywh=683,2874,887,91",
+      "id": "https://hadro.github.io/woods-directory/0036_service:rbc:lcrbmrp:t8073:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0036_service:rbc:lcrbmrp:t8073:036_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

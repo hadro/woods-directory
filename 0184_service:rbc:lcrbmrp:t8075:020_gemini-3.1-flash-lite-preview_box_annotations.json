@@ -1,0 +1,414 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "FIRST DAUGHTERS OF ZION B. A. — 219 N. Derbigny street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=189,342,882,40",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "FREIGHT HANDLERS' B. A. — 2059 Jackson avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=191,481,880,35",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "FRIENDS OF HOPE B. A. — 922 N. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=188,617,880,35",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "GOLDEN HARP B. A. — 527 S. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=191,753,874,35",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "GOOD SHEPARD B. A. — 527 S. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=191,934,882,35",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "GRAND TEMPLE — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=192,1025,882,39",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "HARMONIAL B. A. — 527 S. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=188,1161,883,35",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "HARMONIE B. A. — 1471 N. Claiborne avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=188,1247,883,41",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "HOLY NAME OF JESUS SOCIETY — 919 Cambronne street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=188,1340,883,36",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "INSEPARABLE FRIENDS B. A. — 1607 St. Philip street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=191,1478,882,35",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "JUVENILE FRIENDS OF LOUISIANA B. A. — 219 N. Derbigny street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=188,1611,880,37",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "JEFFERSON FRIENDSHIP M. A. B. A. — Camp near Valence",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=188,1792,879,38",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "JUVENILE CO-OPERATIVE B. A. — 1460 N. Derbigny street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=189,1926,879,42",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "JUVENILE FRIENDS OF HOPE B. A. — 922 N. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=186,2063,879,39",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "JUVENILE SECURITY B. A. — 1460 N. Derbigny street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=188,2198,879,40",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "JUVENILE SILENCE B. A. — 1460 N. Derbigny street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=188,2335,879,39",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "JUVENILE SINCERE B. A. — 1471 N. Claiborne avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=192,2468,875,40",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "JUVENILES OF ST. KATHERINE, B. A. — 219 N. Derbigny street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=188,2604,879,43",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES AND YOUNG LADIES SINCERITY — 922 N. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=186,2785,882,39",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES AND YOUNG LADIES VETERANS — 922 N. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=186,2924,879,35",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES BAKERS B. A. — 527 S. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=186,3058,879,36",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES BEULAH B. A. — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=180,3149,886,37",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES BON SECOUR B. A. — 1422 Ursuline street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=1191,612,882,44",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES COACHEMEN B. A. — 2241 S. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=1190,747,883,47",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES CO-OPERATORS B. A. — 1471 N. Claiborne avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=1190,881,883,48",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES CRESCENT B. A. — Howard and Tulane avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=1190,1017,886,47",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES DIGNITE B. A. — 1422 Ursuline street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=1190,1153,883,48",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES FRANCS COUR B. A. — 1422 Ursuline street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=1192,1289,880,44",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES FRIENDS OF LOUISIANA B. A. — 219 N. Derbigny street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=1190,1425,874,43",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES INDEPENDENT B. A. — Howard and Tulane avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=1192,1969,884,42",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES JEUNES AMIS B. A. — 1422 Ursuline street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=1191,2109,876,36",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES LONGSHOREMEN B. A. — 2059 Jackson avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=1191,2245,882,36",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES OF ARTISANS B. A. — 1460 N. Derbigny street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=1191,2381,876,35",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES OF EQUAL JUSTICE B. A. — 527 S. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=1191,2516,880,36",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES OF HARMONY B. A. — 1471 N. Claiborne avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=1191,2653,876,35",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES OF HOPE B. A. — 922 N. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=1186,2789,885,39",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LADIES INDEPENDENT B. A. — St. James Hall, 219 N. Derbigny street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/184#xywh=1238,1522,833,37",
+      "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/36"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0184_service:rbc:lcrbmrp:t8075:020_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

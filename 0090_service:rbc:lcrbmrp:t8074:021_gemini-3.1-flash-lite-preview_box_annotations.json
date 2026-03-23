@@ -1,0 +1,491 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. John Baptist Tabernacle",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=530,241,1635,123",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies of Equal Justice",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=530,298,1741,120",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Knights of Honor",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=530,354,1689,121",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Societies Meeting at Economy Hall — 1422 Ursuline Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=978,442,952,93",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Societies Meeting at Longshoremen's Hall — 2059 Jackson Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=918,1692,1112,76",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Societies Meeting at Ladies' Providence Hall — 2241 South Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=878,2099,1205,74",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Societies Meeting at Winan Chapel Hall — 2711 South Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=949,2672,1088,65",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Societies Meeting at Ladies of Hope Hall — Corner Homer and Verrett Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=944,3132,1106,49",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cigar Makers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=532,590,1412,116",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Economy",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=531,637,1526,127",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Providence",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=531,760,1373,113",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Co-operators",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=534,813,1458,118",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies Jeunes Amis",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=535,873,1398,111",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies of Peace",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=536,929,1404,111",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies of Indulgence",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=537,988,1402,105",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies Venus Star",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=536,1047,1364,101",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies Bon Secour",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=536,1102,1376,103",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies Morality",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=537,1158,1379,106",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies La condeur",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=539,1215,1377,102",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies Francs Cour",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=541,1267,1507,108",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Gents. Salvator",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=537,1325,1512,104",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Gents. Scalemen",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=545,1384,1415,101",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies of Louisiana",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=545,1437,1412,105",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Gents. Venus Star",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=548,1500,1397,94",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies Dignite",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=550,1556,1416,98",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Fidelity",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=548,1613,1418,95",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Freight Handlers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=551,1843,1727,100",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies Longshoremen",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=553,1905,1366,94",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Longshoremen P. U. B. Assn",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=557,1957,1711,95",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Conference Committee",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=558,2014,1776,91",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies Proovidence",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=558,2247,1637,83",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Young Men Olympia",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=562,2301,1645,87",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies St. Francis",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=564,2366,1344,75",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Men's Friendship",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=564,2423,1398,74",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Delechaise B. A",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=568,2475,1631,75",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Men's Delechaise",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=564,2531,1664,77",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies Coachmen",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=555,2593,1407,71",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies and Gents. Perserverance",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=573,2814,1771,73",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies Unity Hope",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=575,2874,1701,73",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lady Mutual",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=573,2925,1591,77",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Young Men Mutual",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=575,2979,1713,83",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Coachmen B. A",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=578,3044,1584,65",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Good Intent Lodge",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=580,3270,1703,66",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "P. G. M. Council",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/90#xywh=583,3334,1411,54",
+      "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/44"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0090_service:rbc:lcrbmrp:t8074:021_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

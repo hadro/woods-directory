@@ -1,0 +1,172 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/230#xywh=279,193,1783,49",
+      "id": "https://hadro.github.io/woods-directory/0230_service:rbc:lcrbmrp:t8075:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ella D. Mitchell — 2309 Washington Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/230#xywh=443,400,506,35",
+      "id": "https://hadro.github.io/woods-directory/0230_service:rbc:lcrbmrp:t8075:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Lou Emma Moore — 4124 Clara Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/230#xywh=412,614,564,35",
+      "id": "https://hadro.github.io/woods-directory/0230_service:rbc:lcrbmrp:t8075:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Lucile Nixon — 2132 Louisiana Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/230#xywh=486,830,417,35",
+      "id": "https://hadro.github.io/woods-directory/0230_service:rbc:lcrbmrp:t8075:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Lavinia Pepp — 622 N. Prieur Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/230#xywh=467,1045,462,36",
+      "id": "https://hadro.github.io/woods-directory/0230_service:rbc:lcrbmrp:t8075:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Eloise Pierre — 4717 Camp Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/230#xywh=467,1261,456,35",
+      "id": "https://hadro.github.io/woods-directory/0230_service:rbc:lcrbmrp:t8075:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Augustine Poree — 745 Felicity Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/230#xywh=441,1475,511,38",
+      "id": "https://hadro.github.io/woods-directory/0230_service:rbc:lcrbmrp:t8075:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Julia Porter — 2038 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/230#xywh=492,1691,408,33",
+      "id": "https://hadro.github.io/woods-directory/0230_service:rbc:lcrbmrp:t8075:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Cora Quiney — 1923 Fourth Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/230#xywh=487,1905,424,38",
+      "id": "https://hadro.github.io/woods-directory/0230_service:rbc:lcrbmrp:t8075:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Amelie Richardson — 437 Burgundy Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/230#xywh=412,2118,563,37",
+      "id": "https://hadro.github.io/woods-directory/0230_service:rbc:lcrbmrp:t8075:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Ida Robertson — 2609 Valence Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/230#xywh=459,2332,481,39",
+      "id": "https://hadro.github.io/woods-directory/0230_service:rbc:lcrbmrp:t8075:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Louise Robertson — 328 N. Rochevlave Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/230#xywh=491,2547,411,38",
+      "id": "https://hadro.github.io/woods-directory/0230_service:rbc:lcrbmrp:t8075:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss M. Louise Seeberry — 2305 Washington Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/230#xywh=403,2764,590,35",
+      "id": "https://hadro.github.io/woods-directory/0230_service:rbc:lcrbmrp:t8075:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. E. E. Simon — 2246 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/230#xywh=490,3033,410,35",
+      "id": "https://hadro.github.io/woods-directory/0230_service:rbc:lcrbmrp:t8075:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Hub Shoe Store — 1224 DRYADES STREET, Bet. Clio and Erato, NEW ORLEANS, LA.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/230#xywh=1258,1778,744,96",
+      "id": "https://hadro.github.io/woods-directory/0230_service:rbc:lcrbmrp:t8075:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0230_service:rbc:lcrbmrp:t8075:066_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

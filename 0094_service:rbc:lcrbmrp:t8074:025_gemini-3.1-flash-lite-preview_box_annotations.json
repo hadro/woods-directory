@@ -1,0 +1,271 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Robichaux Orchestra & Brass Band — 4727 Camp St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/94#xywh=655,323,786,72",
+      "id": "https://hadro.github.io/woods-directory/0094_service:rbc:lcrbmrp:t8074:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Joseph Band & Orchestra — 310 Saratoga Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/94#xywh=697,495,709,70",
+      "id": "https://hadro.github.io/woods-directory/0094_service:rbc:lcrbmrp:t8074:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wm. W. Warner — 2707 S. Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/94#xywh=864,674,379,50",
+      "id": "https://hadro.github.io/woods-directory/0094_service:rbc:lcrbmrp:t8074:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Emile Adams & John Roberts — 1507 Gasquet Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/94#xywh=719,1006,676,60",
+      "id": "https://hadro.github.io/woods-directory/0094_service:rbc:lcrbmrp:t8074:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Avenue Shaving Parlor — 2011 Melpomene Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/94#xywh=781,1178,557,56",
+      "id": "https://hadro.github.io/woods-directory/0094_service:rbc:lcrbmrp:t8074:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Anderson Banks — 4833 Coliseum Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/94#xywh=872,1349,373,51",
+      "id": "https://hadro.github.io/woods-directory/0094_service:rbc:lcrbmrp:t8074:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. B. Dewberry — 1317 Gasquet Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/94#xywh=888,1522,345,45",
+      "id": "https://hadro.github.io/woods-directory/0094_service:rbc:lcrbmrp:t8074:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chas. Barnes — 941 Verrett cor. Newton, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/94#xywh=916,1742,297,35",
+      "id": "https://hadro.github.io/woods-directory/0094_service:rbc:lcrbmrp:t8074:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Willie Beasley — 912 Bienville Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/94#xywh=898,1911,342,39",
+      "id": "https://hadro.github.io/woods-directory/0094_service:rbc:lcrbmrp:t8074:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Boss Shaving Parlor — 401 Newton Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/94#xywh=828,2079,482,39",
+      "id": "https://hadro.github.io/woods-directory/0094_service:rbc:lcrbmrp:t8074:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chas. C. Boyd — 2027 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/94#xywh=910,2297,320,39",
+      "id": "https://hadro.github.io/woods-directory/0094_service:rbc:lcrbmrp:t8074:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Central Shaving Saloon — 1939 Washington Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/94#xywh=1703,316,520,45",
+      "id": "https://hadro.github.io/woods-directory/0094_service:rbc:lcrbmrp:t8074:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Frank Williams — 1114 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/94#xywh=1784,490,374,36",
+      "id": "https://hadro.github.io/woods-directory/0094_service:rbc:lcrbmrp:t8074:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Emanuel Shaving Parlor — 802 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/94#xywh=1684,706,562,39",
+      "id": "https://hadro.github.io/woods-directory/0094_service:rbc:lcrbmrp:t8074:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charlie Shaving Parlor — Third & Franklin Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/94#xywh=1708,920,524,39",
+      "id": "https://hadro.github.io/woods-directory/0094_service:rbc:lcrbmrp:t8074:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Joseph Daunoy — 724 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/94#xywh=1802,1092,349,39",
+      "id": "https://hadro.github.io/woods-directory/0094_service:rbc:lcrbmrp:t8074:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Thos. Enix — 171 Alix cor Bouny St., Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/94#xywh=1848,1261,263,35",
+      "id": "https://hadro.github.io/woods-directory/0094_service:rbc:lcrbmrp:t8074:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Eureka Shaving Saloon — 1814 St. Claude Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/94#xywh=1701,1432,548,36",
+      "id": "https://hadro.github.io/woods-directory/0094_service:rbc:lcrbmrp:t8074:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Eureka Shaving Parlor — 715 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/94#xywh=1704,1602,545,39",
+      "id": "https://hadro.github.io/woods-directory/0094_service:rbc:lcrbmrp:t8074:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Edward Gaudet — 4738 Magazine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/94#xywh=1808,1772,356,34",
+      "id": "https://hadro.github.io/woods-directory/0094_service:rbc:lcrbmrp:t8074:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rene Henry — 1814 St. Claude Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/94#xywh=1846,1945,285,36",
+      "id": "https://hadro.github.io/woods-directory/0094_service:rbc:lcrbmrp:t8074:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. A. Himes — 805 Julia Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/94#xywh=1842,2117,297,36",
+      "id": "https://hadro.github.io/woods-directory/0094_service:rbc:lcrbmrp:t8074:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "G. Holt Shaving Parlor & Professional Headquarters — 2017 Melpomene Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/94#xywh=1676,2330,607,41",
+      "id": "https://hadro.github.io/woods-directory/0094_service:rbc:lcrbmrp:t8074:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Emile G. Reiss — 1522 MANDEVILLE STREET, NEW ORLEANS",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/94#xywh=1509,3085,828,60",
+      "id": "https://hadro.github.io/woods-directory/0094_service:rbc:lcrbmrp:t8074:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0094_service:rbc:lcrbmrp:t8074:025_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

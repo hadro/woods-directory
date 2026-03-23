@@ -1,0 +1,271 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chas. C. Boyd Barber Shop — 2027 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/205#xywh=680,372,321,37",
+      "id": "https://hadro.github.io/woods-directory/0205_service:rbc:lcrbmrp:t8075:041_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "John Brooks Shaving Parlor — 516 Homer Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/205#xywh=1517,922,527,37",
+      "id": "https://hadro.github.io/woods-directory/0205_service:rbc:lcrbmrp:t8075:041_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Frank Casimir — 1540 N. Rocheblave Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/205#xywh=670,710,346,35",
+      "id": "https://hadro.github.io/woods-directory/0205_service:rbc:lcrbmrp:t8075:041_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ellis Carpenter Shaving Parlor — 1024 Calliope Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/205#xywh=489,882,699,37",
+      "id": "https://hadro.github.io/woods-directory/0205_service:rbc:lcrbmrp:t8075:041_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Central Shaving Saloon — 1939 Washington Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/205#xywh=572,1007,538,37",
+      "id": "https://hadro.github.io/woods-directory/0205_service:rbc:lcrbmrp:t8075:041_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charlie Shaving Parlor — Third and S. Liberty Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/205#xywh=572,1177,544,37",
+      "id": "https://hadro.github.io/woods-directory/0205_service:rbc:lcrbmrp:t8075:041_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago Ho'el Barber Shop — 206 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/205#xywh=525,1348,642,37",
+      "id": "https://hadro.github.io/woods-directory/0205_service:rbc:lcrbmrp:t8075:041_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cotton Place Barber Shop — 632 Felicity Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/205#xywh=545,1470,602,40",
+      "id": "https://hadro.github.io/woods-directory/0205_service:rbc:lcrbmrp:t8075:041_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Club Shaving Parlor — 1623 Dumaine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/205#xywh=603,1641,487,40",
+      "id": "https://hadro.github.io/woods-directory/0205_service:rbc:lcrbmrp:t8075:041_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Joseph Daunoy — 724 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/205#xywh=668,1858,356,37",
+      "id": "https://hadro.github.io/woods-directory/0205_service:rbc:lcrbmrp:t8075:041_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Thos. Enix — 343 Diana Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/205#xywh=714,2028,268,35",
+      "id": "https://hadro.github.io/woods-directory/0205_service:rbc:lcrbmrp:t8075:041_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. B. Dewberry — 1317 Gasquet Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/205#xywh=674,2199,344,36",
+      "id": "https://hadro.github.io/woods-directory/0205_service:rbc:lcrbmrp:t8075:041_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Emanuel Shaving Parlor — 802 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/205#xywh=1485,369,586,37",
+      "id": "https://hadro.github.io/woods-directory/0205_service:rbc:lcrbmrp:t8075:041_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Eureka Shaving Saloon — 1814 St. Claude Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/205#xywh=1509,618,532,37",
+      "id": "https://hadro.github.io/woods-directory/0205_service:rbc:lcrbmrp:t8075:041_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Eureka Shaving Parlor — 715 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/205#xywh=1524,1015,514,37",
+      "id": "https://hadro.github.io/woods-directory/0205_service:rbc:lcrbmrp:t8075:041_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Edward Gaudet — 4738 Magazine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/205#xywh=1598,1093,365,36",
+      "id": "https://hadro.github.io/woods-directory/0205_service:rbc:lcrbmrp:t8075:041_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "John Gray — Nunez, cor. Newton Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/205#xywh=1653,1266,256,36",
+      "id": "https://hadro.github.io/woods-directory/0205_service:rbc:lcrbmrp:t8075:041_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. A. Himes — 805 Julia Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/205#xywh=1635,1435,281,35",
+      "id": "https://hadro.github.io/woods-directory/0205_service:rbc:lcrbmrp:t8075:041_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "G. Holt Shaving Parlor and Professional Headquarters — 2014 Melpomene Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/205#xywh=1458,1606,645,39",
+      "id": "https://hadro.github.io/woods-directory/0205_service:rbc:lcrbmrp:t8075:041_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "B. Johnson — Teche and D'Armas Sts., Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/205#xywh=1653,1776,253,35",
+      "id": "https://hadro.github.io/woods-directory/0205_service:rbc:lcrbmrp:t8075:041_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "E. Jones — 809 Jena Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/205#xywh=1676,1946,209,35",
+      "id": "https://hadro.github.io/woods-directory/0205_service:rbc:lcrbmrp:t8075:041_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "P. R. Jones Shaving Parlor — 1023 Howard Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/205#xywh=1545,2206,478,35",
+      "id": "https://hadro.github.io/woods-directory/0205_service:rbc:lcrbmrp:t8075:041_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Joseph Jones — 345 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/205#xywh=1629,2287,310,36",
+      "id": "https://hadro.github.io/woods-directory/0205_service:rbc:lcrbmrp:t8075:041_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Tuskegee Student",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/205#xywh=603,2614,1440,118",
+      "id": "https://hadro.github.io/woods-directory/0205_service:rbc:lcrbmrp:t8075:041_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0205_service:rbc:lcrbmrp:t8075:041_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

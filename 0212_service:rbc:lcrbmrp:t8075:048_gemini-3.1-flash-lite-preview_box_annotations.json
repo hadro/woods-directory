@@ -1,0 +1,315 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/212#xywh=286,208,1782,36",
+      "id": "https://hadro.github.io/woods-directory/0212_service:rbc:lcrbmrp:t8075:048_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Joseph E. Sykes — Lyon and Annunciation Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/212#xywh=509,406,385,37",
+      "id": "https://hadro.github.io/woods-directory/0212_service:rbc:lcrbmrp:t8075:048_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Texas Dye Works — Corner Erato and S. Robertson Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/212#xywh=491,623,423,39",
+      "id": "https://hadro.github.io/woods-directory/0212_service:rbc:lcrbmrp:t8075:048_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Two Brothers Pressing Club — 724 Julia Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/212#xywh=374,882,663,36",
+      "id": "https://hadro.github.io/woods-directory/0212_service:rbc:lcrbmrp:t8075:048_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Uneeda Pressing Club — 1429 Joseph Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/212#xywh=452,1144,508,37",
+      "id": "https://hadro.github.io/woods-directory/0212_service:rbc:lcrbmrp:t8075:048_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Union Station Cleaning and Dye Works — 1107 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/212#xywh=263,1357,892,42",
+      "id": "https://hadro.github.io/woods-directory/0212_service:rbc:lcrbmrp:t8075:048_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Up-to-Date Cleaning and Pressing Club — 1127 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/212#xywh=269,1585,886,40",
+      "id": "https://hadro.github.io/woods-directory/0212_service:rbc:lcrbmrp:t8075:048_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "G. Varnum — 1413 Washington Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/212#xywh=574,1779,264,34",
+      "id": "https://hadro.github.io/woods-directory/0212_service:rbc:lcrbmrp:t8075:048_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Velva Pressing Club — 4858 Camp Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/212#xywh=458,1960,498,39",
+      "id": "https://hadro.github.io/woods-directory/0212_service:rbc:lcrbmrp:t8075:048_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "R. G. Washington — 201 Millaudon Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/212#xywh=495,2177,410,36",
+      "id": "https://hadro.github.io/woods-directory/0212_service:rbc:lcrbmrp:t8075:048_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Watson's Chemical Cleaning, Pressing and Tailoring Co. — 1902 Josephine St., cor. Dryades",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/212#xywh=311,452,791,39",
+      "id": "https://hadro.github.io/woods-directory/0212_service:rbc:lcrbmrp:t8075:048_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "West Side Clothes Hospital — 1012 Teche Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/212#xywh=391,2620,629,36",
+      "id": "https://hadro.github.io/woods-directory/0212_service:rbc:lcrbmrp:t8075:048_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "White Star Cleaning and Pressing Club — 3323 S. Franklin Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/212#xywh=263,2808,892,40",
+      "id": "https://hadro.github.io/woods-directory/0212_service:rbc:lcrbmrp:t8075:048_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "White Star Cleaning and Pressing Club — 339 Burgundy Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/212#xywh=468,3071,473,36",
+      "id": "https://hadro.github.io/woods-directory/0212_service:rbc:lcrbmrp:t8075:048_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Arthur Wilson — 619 Commercial Place",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/212#xywh=530,3149,341,35",
+      "id": "https://hadro.github.io/woods-directory/0212_service:rbc:lcrbmrp:t8075:048_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Woods' Cleaning, Pressing and Dye Works — 2016 Prytania Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/212#xywh=1205,410,880,39",
+      "id": "https://hadro.github.io/woods-directory/0212_service:rbc:lcrbmrp:t8075:048_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hollow Concrete Block Manufacturing Company — Office: 407 Carondelet Street; Factory: 3730 Willow Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/212#xywh=1199,792,881,36",
+      "id": "https://hadro.github.io/woods-directory/0212_service:rbc:lcrbmrp:t8075:048_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. N. Cager — 5433 Marais Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/212#xywh=1498,1313,286,37",
+      "id": "https://hadro.github.io/woods-directory/0212_service:rbc:lcrbmrp:t8075:048_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Clement Charbonnet — 2645 Gov. Nichols Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/212#xywh=1399,1503,489,40",
+      "id": "https://hadro.github.io/woods-directory/0212_service:rbc:lcrbmrp:t8075:048_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jno. Cooil — 1819 General Taylor Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/212#xywh=1516,1699,249,35",
+      "id": "https://hadro.github.io/woods-directory/0212_service:rbc:lcrbmrp:t8075:048_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Crosier & Brooks — 7725 Oak Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/212#xywh=1433,1869,411,35",
+      "id": "https://hadro.github.io/woods-directory/0212_service:rbc:lcrbmrp:t8075:048_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "John Dright — 4307 Holly Grove Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/212#xywh=1495,2086,293,36",
+      "id": "https://hadro.github.io/woods-directory/0212_service:rbc:lcrbmrp:t8075:048_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Clarence V. Enos — 1204 Marengo Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/212#xywh=1437,2301,407,34",
+      "id": "https://hadro.github.io/woods-directory/0212_service:rbc:lcrbmrp:t8075:048_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Victor Fournier — 2210 Eighth Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/212#xywh=1452,2470,375,35",
+      "id": "https://hadro.github.io/woods-directory/0212_service:rbc:lcrbmrp:t8075:048_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "C. L. Guichard — 3730 Willow Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/212#xywh=1471,2640,339,37",
+      "id": "https://hadro.github.io/woods-directory/0212_service:rbc:lcrbmrp:t8075:048_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "M. R. Hite — 4616 S. Libety Steet",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/212#xywh=1514,2813,247,34",
+      "id": "https://hadro.github.io/woods-directory/0212_service:rbc:lcrbmrp:t8075:048_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "August Jones — 2102 Louisiana Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/212#xywh=1481,3028,314,35",
+      "id": "https://hadro.github.io/woods-directory/0212_service:rbc:lcrbmrp:t8075:048_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. Leduff — 1630 N. Galvez Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/212#xywh=1522,3200,226,35",
+      "id": "https://hadro.github.io/woods-directory/0212_service:rbc:lcrbmrp:t8075:048_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0212_service:rbc:lcrbmrp:t8075:048_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

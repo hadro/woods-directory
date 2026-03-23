@@ -1,0 +1,161 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Joseph Dejoie's CUT-RATE PHARMACY — Cor. Seventh and S. Rampart Sts.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/211#xywh=478,3064,724,51",
+      "id": "https://hadro.github.io/woods-directory/0211_service:rbc:lcrbmrp:t8075:047_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Overland Cleaners, Pressers, Dyers and Repairers — 1133 Cadiz Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/211#xywh=1376,384,841,50",
+      "id": "https://hadro.github.io/woods-directory/0211_service:rbc:lcrbmrp:t8075:047_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Panama Dye Works — 4323 Carondelet Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/211#xywh=1550,713,484,48",
+      "id": "https://hadro.github.io/woods-directory/0211_service:rbc:lcrbmrp:t8075:047_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Panama Pressing Club — 1410 N. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/211#xywh=1523,1019,529,47",
+      "id": "https://hadro.github.io/woods-directory/0211_service:rbc:lcrbmrp:t8075:047_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Parisian Cleaning and Pressing Club — 2540 Tulane Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/211#xywh=1346,1236,885,47",
+      "id": "https://hadro.github.io/woods-directory/0211_service:rbc:lcrbmrp:t8075:047_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pierce Pressing Club — 1124 Adams Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/211#xywh=1537,1453,502,41",
+      "id": "https://hadro.github.io/woods-directory/0211_service:rbc:lcrbmrp:t8075:047_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Red Cross Pressing Club — 1427 Leontine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/211#xywh=1483,1713,594,45",
+      "id": "https://hadro.github.io/woods-directory/0211_service:rbc:lcrbmrp:t8075:047_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Reliable Cleaning and Pressinng — 2012 St. Claude Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/211#xywh=1407,1929,748,47",
+      "id": "https://hadro.github.io/woods-directory/0211_service:rbc:lcrbmrp:t8075:047_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Royal Cleaning, Pressing, Repairing and Dyeing Works — 1127 Barracks Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/211#xywh=1358,2099,844,48",
+      "id": "https://hadro.github.io/woods-directory/0211_service:rbc:lcrbmrp:t8075:047_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wm. Sanders — 414 Dauphine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/211#xywh=1615,2361,318,39",
+      "id": "https://hadro.github.io/woods-directory/0211_service:rbc:lcrbmrp:t8075:047_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hezekiah Small — 1807 Allen Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/211#xywh=1587,2534,366,34",
+      "id": "https://hadro.github.io/woods-directory/0211_service:rbc:lcrbmrp:t8075:047_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Smith & Morris — 134 N. Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/211#xywh=1587,2705,371,34",
+      "id": "https://hadro.github.io/woods-directory/0211_service:rbc:lcrbmrp:t8075:047_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Swell Pressing Club — 1520 Erato Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/211#xywh=1530,2876,483,37",
+      "id": "https://hadro.github.io/woods-directory/0211_service:rbc:lcrbmrp:t8075:047_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Swell Pressing Club — 2222 Melpomene Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/211#xywh=1507,3266,528,46",
+      "id": "https://hadro.github.io/woods-directory/0211_service:rbc:lcrbmrp:t8075:047_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0211_service:rbc:lcrbmrp:t8075:047_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

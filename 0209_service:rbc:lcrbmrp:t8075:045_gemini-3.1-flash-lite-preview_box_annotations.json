@@ -1,0 +1,150 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Patrick Prescott — 3814 Perrier St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/209#xywh=1560,392,382,34",
+      "id": "https://hadro.github.io/woods-directory/0209_service:rbc:lcrbmrp:t8075:045_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Sadie Kenan — 1815 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/209#xywh=1534,558,437,42",
+      "id": "https://hadro.github.io/woods-directory/0209_service:rbc:lcrbmrp:t8075:045_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Cora Quiney — 1923 Fourth Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/209#xywh=1543,879,419,43",
+      "id": "https://hadro.github.io/woods-directory/0209_service:rbc:lcrbmrp:t8075:045_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. R. E. Williams — 2512 Third Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/209#xywh=1510,1050,477,37",
+      "id": "https://hadro.github.io/woods-directory/0209_service:rbc:lcrbmrp:t8075:045_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "S. Fournet & Bro. — 2827 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/209#xywh=1533,1323,420,34",
+      "id": "https://hadro.github.io/woods-directory/0209_service:rbc:lcrbmrp:t8075:045_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Adolph's Cleaning, Dyeing, Pressing and Repairing Parlor — 2200 Jackson Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/209#xywh=1326,1708,833,37",
+      "id": "https://hadro.github.io/woods-directory/0209_service:rbc:lcrbmrp:t8075:045_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "American Cleaning and Pressing Club — 1312 Carondelet Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/209#xywh=1304,1925,881,37",
+      "id": "https://hadro.github.io/woods-directory/0209_service:rbc:lcrbmrp:t8075:045_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Burke's Cleaning, Dyeing, Repairing and Pressing Works — 1818 Philip St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/209#xywh=1320,2095,839,40",
+      "id": "https://hadro.github.io/woods-directory/0209_service:rbc:lcrbmrp:t8075:045_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brown's Pressing Club — 2909 Howard Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/209#xywh=1474,2310,524,39",
+      "id": "https://hadro.github.io/woods-directory/0209_service:rbc:lcrbmrp:t8075:045_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Canal Pressing Club — 129 N. Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/209#xywh=1488,2478,494,44",
+      "id": "https://hadro.github.io/woods-directory/0209_service:rbc:lcrbmrp:t8075:045_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Claiborne Circle Pressing Club — 1609 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/209#xywh=1369,2697,736,37",
+      "id": "https://hadro.github.io/woods-directory/0209_service:rbc:lcrbmrp:t8075:045_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Detroit Pressing Club — 4601 Magazine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/209#xywh=1476,2913,509,37",
+      "id": "https://hadro.github.io/woods-directory/0209_service:rbc:lcrbmrp:t8075:045_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Diamond Swell Cleaning and Pressing Club — 308 Liberty St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/209#xywh=1293,3128,883,40",
+      "id": "https://hadro.github.io/woods-directory/0209_service:rbc:lcrbmrp:t8075:045_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0209_service:rbc:lcrbmrp:t8075:045_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

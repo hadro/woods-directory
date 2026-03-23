@@ -1,0 +1,216 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. Silvau, Sr. — 807 Howard Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/32#xywh=1431,1218,377,43",
+      "id": "https://hadro.github.io/woods-directory/0032_service:rbc:lcrbmrp:t8073:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Providence Sanitarium — 122 Howard Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/32#xywh=1329,1657,578,38",
+      "id": "https://hadro.github.io/woods-directory/0032_service:rbc:lcrbmrp:t8073:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Garden District Saloon — Cor. S. Rampart and Fourth Sts.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/32#xywh=1318,1950,604,44",
+      "id": "https://hadro.github.io/woods-directory/0032_service:rbc:lcrbmrp:t8073:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Phoenix Saloon — 2225 Melpomene St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/32#xywh=1402,2135,424,41",
+      "id": "https://hadro.github.io/woods-directory/0032_service:rbc:lcrbmrp:t8073:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Porters Exchange — 1000 Perdido St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/32#xywh=1378,2351,480,44",
+      "id": "https://hadro.github.io/woods-directory/0032_service:rbc:lcrbmrp:t8073:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Little Ruby Saloon and Restaurant — Cor. Franklin and Gasquet Sts.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/32#xywh=1183,2567,870,46",
+      "id": "https://hadro.github.io/woods-directory/0032_service:rbc:lcrbmrp:t8073:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Sunnybrook Saloon — 107 N. Front St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/32#xywh=1303,2738,639,47",
+      "id": "https://hadro.github.io/woods-directory/0032_service:rbc:lcrbmrp:t8073:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "White & Thompson — Cor. Brooklyn and Homer, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/32#xywh=1372,2917,501,41",
+      "id": "https://hadro.github.io/woods-directory/0032_service:rbc:lcrbmrp:t8073:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Penny Store — Lapeyrouse and Prieur Sts.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/32#xywh=1398,3217,432,40",
+      "id": "https://hadro.github.io/woods-directory/0032_service:rbc:lcrbmrp:t8073:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. B. Alexander — 1018 Pine St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/32#xywh=473,1214,407,42",
+      "id": "https://hadro.github.io/woods-directory/0032_service:rbc:lcrbmrp:t8073:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "E. W. Brooks — 922 Gravier Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/32#xywh=504,1406,350,38",
+      "id": "https://hadro.github.io/woods-directory/0032_service:rbc:lcrbmrp:t8073:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "D. W. Dooley — 2815 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/32#xywh=485,1629,375,45",
+      "id": "https://hadro.github.io/woods-directory/0032_service:rbc:lcrbmrp:t8073:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Enos King — 1912 Cleveland Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/32#xywh=522,1822,288,41",
+      "id": "https://hadro.github.io/woods-directory/0032_service:rbc:lcrbmrp:t8073:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "United Realty and Investment Co. — Suite 402, 403 and 404, Temple Bldg.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/32#xywh=260,2045,841,41",
+      "id": "https://hadro.github.io/woods-directory/0032_service:rbc:lcrbmrp:t8073:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pensacola Restaurant — 400 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/32#xywh=388,2414,576,41",
+      "id": "https://hadro.github.io/woods-directory/0032_service:rbc:lcrbmrp:t8073:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jackson Cold Kitchen — 2248 Dryades St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/32#xywh=388,2619,574,43",
+      "id": "https://hadro.github.io/woods-directory/0032_service:rbc:lcrbmrp:t8073:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. F. A. Stone — Cor. Saratoga & Melpomene Sts.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/32#xywh=456,2817,458,47",
+      "id": "https://hadro.github.io/woods-directory/0032_service:rbc:lcrbmrp:t8073:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Teamsters' Saloon and Restaurant — 1931 Josephine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/32#xywh=237,3020,870,36",
+      "id": "https://hadro.github.io/woods-directory/0032_service:rbc:lcrbmrp:t8073:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Little Frisco Restaurant — 832 Bienville Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/32#xywh=300,3251,746,43",
+      "id": "https://hadro.github.io/woods-directory/0032_service:rbc:lcrbmrp:t8073:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0032_service:rbc:lcrbmrp:t8073:032_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

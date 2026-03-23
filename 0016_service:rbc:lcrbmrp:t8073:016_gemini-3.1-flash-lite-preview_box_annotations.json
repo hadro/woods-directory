@@ -1,0 +1,238 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Allen T. Woods — 1823 Seventh Street.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/16#xywh=1148,806,879,50",
+      "id": "https://hadro.github.io/woods-directory/0016_service:rbc:lcrbmrp:t8073:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Frank Adams — 2914 Washington Avenue.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/16#xywh=1155,1043,145,35",
+      "id": "https://hadro.github.io/woods-directory/0016_service:rbc:lcrbmrp:t8073:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Powells Ball-Bearing Auto Creeper — 702 Julia Street.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/16#xywh=1253,1279,672,46",
+      "id": "https://hadro.github.io/woods-directory/0016_service:rbc:lcrbmrp:t8073:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Emile G. Reiss — 1522 Mandeville Street.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/16#xywh=1417,1477,346,41",
+      "id": "https://hadro.github.io/woods-directory/0016_service:rbc:lcrbmrp:t8073:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Geo. Moret — 1804 St. Anthony Street.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/16#xywh=1240,1672,709,43",
+      "id": "https://hadro.github.io/woods-directory/0016_service:rbc:lcrbmrp:t8073:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Louisiana Orchestra — 4833 Coliseum Street.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/16#xywh=1399,1818,372,43",
+      "id": "https://hadro.github.io/woods-directory/0016_service:rbc:lcrbmrp:t8073:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Excelsior Brass Band & Orchestra — 4727 Camp St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/16#xywh=207,1039,611,41",
+      "id": "https://hadro.github.io/woods-directory/0016_service:rbc:lcrbmrp:t8073:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Anderson Banks — 830 Bienville Street.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/16#xywh=208,1391,879,51",
+      "id": "https://hadro.github.io/woods-directory/0016_service:rbc:lcrbmrp:t8073:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chas. C. Boyd — 805 Julia Street.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/16#xywh=1417,2209,331,43",
+      "id": "https://hadro.github.io/woods-directory/0016_service:rbc:lcrbmrp:t8073:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ivy Shaving Parlor — 1346 Annette Street.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/16#xywh=1335,2392,510,46",
+      "id": "https://hadro.github.io/woods-directory/0016_service:rbc:lcrbmrp:t8073:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jones' Shaving Parlor — 809 Jena Street.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/16#xywh=1303,2576,583,45",
+      "id": "https://hadro.github.io/woods-directory/0016_service:rbc:lcrbmrp:t8073:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Live Oak Shaving Parlor — Cor. Sixth and S. Rampart Streets.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/16#xywh=1269,2762,656,44",
+      "id": "https://hadro.github.io/woods-directory/0016_service:rbc:lcrbmrp:t8073:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Orleans Shaving Parlor — Orleans and Prieur Streets.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/16#xywh=1280,2947,625,44",
+      "id": "https://hadro.github.io/woods-directory/0016_service:rbc:lcrbmrp:t8073:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Overland Shaving Parlor — 2139 Third Street.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/16#xywh=1266,3133,651,43",
+      "id": "https://hadro.github.io/woods-directory/0016_service:rbc:lcrbmrp:t8073:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Henry Pajaud — Cor. Sixth and Dryades Streets.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/16#xywh=1400,3318,381,44",
+      "id": "https://hadro.github.io/woods-directory/0016_service:rbc:lcrbmrp:t8073:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Beasley's Barber Shop — 2027 Dryades Street.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/16#xywh=379,2392,543,41",
+      "id": "https://hadro.github.io/woods-directory/0016_service:rbc:lcrbmrp:t8073:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Central Shaving Saloon — 1939 Washington Avenue.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/16#xywh=216,2628,873,42",
+      "id": "https://hadro.github.io/woods-directory/0016_service:rbc:lcrbmrp:t8073:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Louis Cooper — 3323 South Franklin Street.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/16#xywh=388,2822,533,47",
+      "id": "https://hadro.github.io/woods-directory/0016_service:rbc:lcrbmrp:t8073:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Edward Gaudet — 4738 Magazine Street.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/16#xywh=217,3018,872,41",
+      "id": "https://hadro.github.io/woods-directory/0016_service:rbc:lcrbmrp:t8073:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. A. Himes — 1035 Touro Street.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/16#xywh=505,3214,287,47",
+      "id": "https://hadro.github.io/woods-directory/0016_service:rbc:lcrbmrp:t8073:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Robichaux Orchestra & Brass Band",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/16#xywh=373,3416,552,41",
+      "id": "https://hadro.github.io/woods-directory/0016_service:rbc:lcrbmrp:t8073:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0016_service:rbc:lcrbmrp:t8073:016_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

@@ -1,0 +1,62 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Presto Face Cream / Albert Blandin — 1609 N. Claiborne Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/261#xywh=1498,559,784,45",
+      "id": "https://hadro.github.io/woods-directory/0261_service:rbc:lcrbmrp:t8075:097_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Orleans Classible Place — 912 Bienville Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/261#xywh=1396,1073,593,46",
+      "id": "https://hadro.github.io/woods-directory/0261_service:rbc:lcrbmrp:t8075:097_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Porters Tailoring Co. — 1010 Dryades Street, New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/261#xywh=1104,2939,1111,91",
+      "id": "https://hadro.github.io/woods-directory/0261_service:rbc:lcrbmrp:t8075:097_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Claiborne Circle Pressing Club — 2420 St. Thomas Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/261#xywh=444,322,1860,127",
+      "id": "https://hadro.github.io/woods-directory/0261_service:rbc:lcrbmrp:t8075:097_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Beasley Tonsorial Parlor",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/261#xywh=1395,1267,884,58",
+      "id": "https://hadro.github.io/woods-directory/0261_service:rbc:lcrbmrp:t8075:097_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0261_service:rbc:lcrbmrp:t8075:097_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

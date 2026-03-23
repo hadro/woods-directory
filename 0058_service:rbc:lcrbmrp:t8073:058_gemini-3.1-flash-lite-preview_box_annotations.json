@@ -1,0 +1,40 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jos. M. Sarpy",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/58#xywh=2048,3317,44,74",
+      "id": "https://hadro.github.io/woods-directory/0058_service:rbc:lcrbmrp:t8073:058_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Burbridge & Dejoie — 1832 Dryades St., near St. Andrew",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/58#xywh=565,663,1357,87",
+      "id": "https://hadro.github.io/woods-directory/0058_service:rbc:lcrbmrp:t8073:058_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "App Roofing Metal Co. — 807 Howard Ave., New Orleans",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/58#xywh=337,2368,880,65",
+      "id": "https://hadro.github.io/woods-directory/0058_service:rbc:lcrbmrp:t8073:058_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0058_service:rbc:lcrbmrp:t8073:058_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

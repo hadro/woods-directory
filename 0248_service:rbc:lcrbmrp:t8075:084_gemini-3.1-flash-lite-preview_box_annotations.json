@@ -1,0 +1,293 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/248#xywh=283,206,1780,37",
+      "id": "https://hadro.github.io/woods-directory/0248_service:rbc:lcrbmrp:t8075:084_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "V. P. Thomas — 1811 Terpsichore Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/248#xywh=534,407,326,35",
+      "id": "https://hadro.github.io/woods-directory/0248_service:rbc:lcrbmrp:t8075:084_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Woods Directory — 1823 Seventh Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/248#xywh=486,576,416,37",
+      "id": "https://hadro.github.io/woods-directory/0248_service:rbc:lcrbmrp:t8075:084_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. C. P. Beck — 1937 Toledano Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/248#xywh=515,869,377,34",
+      "id": "https://hadro.github.io/woods-directory/0248_service:rbc:lcrbmrp:t8075:084_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Penny Store — Lapeyrouse and Prier Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/248#xywh=263,1038,877,39",
+      "id": "https://hadro.github.io/woods-directory/0248_service:rbc:lcrbmrp:t8075:084_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. G. Williams — 1941 Annette Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/248#xywh=495,1299,407,34",
+      "id": "https://hadro.github.io/woods-directory/0248_service:rbc:lcrbmrp:t8075:084_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Arnold Adams — 4830 Perrier St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/248#xywh=531,1693,335,35",
+      "id": "https://hadro.github.io/woods-directory/0248_service:rbc:lcrbmrp:t8075:084_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Albert D. Azeur — 2114 Freret Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/248#xywh=513,1862,376,35",
+      "id": "https://hadro.github.io/woods-directory/0248_service:rbc:lcrbmrp:t8075:084_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. J. Ball — 312 Lowerline Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/248#xywh=569,2031,264,36",
+      "id": "https://hadro.github.io/woods-directory/0248_service:rbc:lcrbmrp:t8075:084_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "H. Blackburn — 1467 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/248#xywh=534,2201,322,35",
+      "id": "https://hadro.github.io/woods-directory/0248_service:rbc:lcrbmrp:t8075:084_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "F. H. Brooks and F. H. M. Brooks — 728 Jourdan Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/248#xywh=305,2460,802,39",
+      "id": "https://hadro.github.io/woods-directory/0248_service:rbc:lcrbmrp:t8075:084_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Henry Bynum, Jr. — 3624 Danneel Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/248#xywh=492,2676,424,37",
+      "id": "https://hadro.github.io/woods-directory/0248_service:rbc:lcrbmrp:t8075:084_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "David Coffey — 2627 Sixth Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/248#xywh=542,2845,314,37",
+      "id": "https://hadro.github.io/woods-directory/0248_service:rbc:lcrbmrp:t8075:084_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "E. D. Howard — 4731 Annunciation Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/248#xywh=534,3012,327,38",
+      "id": "https://hadro.github.io/woods-directory/0248_service:rbc:lcrbmrp:t8075:084_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alexander A. Linnes — 4831 Constance Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/248#xywh=1392,406,485,34",
+      "id": "https://hadro.github.io/woods-directory/0248_service:rbc:lcrbmrp:t8075:084_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. E. Johnson — Office: 112 Pythian Temple, Gravier and Saratoga Streets; Shop: 2620 Banks Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/248#xywh=1467,623,331,34",
+      "id": "https://hadro.github.io/woods-directory/0248_service:rbc:lcrbmrp:t8075:084_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Albert Monnot — 725 St. Louis St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/248#xywh=1457,927,351,36",
+      "id": "https://hadro.github.io/woods-directory/0248_service:rbc:lcrbmrp:t8075:084_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "O. L. Neugass — 1022 N. Villere Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/248#xywh=1467,1144,326,36",
+      "id": "https://hadro.github.io/woods-directory/0248_service:rbc:lcrbmrp:t8075:084_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "E. V. Pickett — 2108 Jackson Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/248#xywh=1469,1359,318,34",
+      "id": "https://hadro.github.io/woods-directory/0248_service:rbc:lcrbmrp:t8075:084_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Edward A. Reese — 2823 Howard Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/248#xywh=1425,1527,408,34",
+      "id": "https://hadro.github.io/woods-directory/0248_service:rbc:lcrbmrp:t8075:084_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Geo. A. Simeon — 149 Elk Place",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/248#xywh=1449,1695,365,35",
+      "id": "https://hadro.github.io/woods-directory/0248_service:rbc:lcrbmrp:t8075:084_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. J. Valien — 4718 Camp Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/248#xywh=1474,1867,307,35",
+      "id": "https://hadro.github.io/woods-directory/0248_service:rbc:lcrbmrp:t8075:084_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Henry Wallace — 1819 St. Anthony, bet, Roman & Prieur",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/248#xywh=1457,2036,351,37",
+      "id": "https://hadro.github.io/woods-directory/0248_service:rbc:lcrbmrp:t8075:084_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "H. C. Waters — 319 N. Rocheblave Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/248#xywh=1467,2206,323,34",
+      "id": "https://hadro.github.io/woods-directory/0248_service:rbc:lcrbmrp:t8075:084_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Frederick F. Simms — 1018 Aline Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/248#xywh=1392,2553,480,35",
+      "id": "https://hadro.github.io/woods-directory/0248_service:rbc:lcrbmrp:t8075:084_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. G. Dubuclet — Stand in Treme Market; Residence: 1028 Orleans Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/248#xywh=1440,2965,387,34",
+      "id": "https://hadro.github.io/woods-directory/0248_service:rbc:lcrbmrp:t8075:084_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0248_service:rbc:lcrbmrp:t8075:084_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

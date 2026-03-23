@@ -1,0 +1,337 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/220#xywh=284,184,1780,41",
+      "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ida Sharpe — 227 S. Johnson Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/220#xywh=507,389,394,36",
+      "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Beulah Simms — 8439 Poplar Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/220#xywh=474,557,462,34",
+      "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. A. Smallwood — Robert, near S. Robertson Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/220#xywh=491,728,430,34",
+      "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Josephine Scott-Jones — 1621 St. Philip Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/220#xywh=401,898,611,37",
+      "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Bertha E. Steele — 1919 First Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/220#xywh=456,1067,504,35",
+      "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. A. L. Stellar — 4316 S. Robertson Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/220#xywh=500,1237,410,34",
+      "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. S. Stokes — 1016 Valence Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/220#xywh=533,1408,345,34",
+      "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Gussie Sweat — 2030 Eighth Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/220#xywh=483,1575,448,35",
+      "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Florence Steele-Daniels — 2918 First Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/220#xywh=384,1746,658,35",
+      "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Louise Thornton — 736 General Taylor Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/220#xywh=450,1951,512,33",
+      "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss M. L. Tillman — 600 Jena Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/220#xywh=466,2222,477,34",
+      "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Sadie Vincent. — 2112 Second Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/220#xywh=470,2390,489,44",
+      "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Lucretia Vining — 8433 Poplar Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/220#xywh=458,2560,496,38",
+      "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Laura Watkins — 1119 Dufossat Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/220#xywh=465,2730,478,35",
+      "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Cora Vignes-Wilson — 927 Bienville Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/220#xywh=419,2947,564,35",
+      "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss A. Walton — 2217 Toledano Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/220#xywh=1456,387,375,34",
+      "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Geo. Walker — 1307 Dufossat Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/220#xywh=1436,579,410,34",
+      "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Virginia Wethers — 2223 Clara Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/220#xywh=1384,758,516,42",
+      "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Indiana P. Withers — 1905 Fourth Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/220#xywh=1351,930,582,34",
+      "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Lillie Williams — 617 Valmont Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/220#xywh=1400,1097,477,35",
+      "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ethel Woods — 2420 Howard Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/220#xywh=1433,1268,413,34",
+      "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Robert U. Barrois — St. Philip and Marais Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/220#xywh=1431,1538,415,35",
+      "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Albert Baumann — Third and Howard Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/220#xywh=1443,1753,387,34",
+      "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brazier & Duncan — Corner Perdido and Howard Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/220#xywh=1416,1967,443,36",
+      "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jos. Dejoie — 3000 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/220#xywh=1501,2183,271,36",
+      "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Green Cut Rate Pharmacy — 2624 Tulane Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/220#xywh=1331,2396,617,39",
+      "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Green's Drug Store — 1227 Teche Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/220#xywh=1398,2612,475,36",
+      "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Johnson's Cut Rate Pharmacy — Corner Magnolia and Jackson Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/220#xywh=1275,2826,728,36",
+      "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LaBranche's Cut-Rate Pharmacy — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/220#xywh=1246,2995,778,36",
+      "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/29"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0220_service:rbc:lcrbmrp:t8075:056_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

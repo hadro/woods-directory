@@ -1,0 +1,304 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/254#xywh=300,190,1779,49",
+      "id": "https://hadro.github.io/woods-directory/0254_service:rbc:lcrbmrp:t8075:090_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Southern Age Printing Office — 7716-7718 Maple St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/254#xywh=389,399,654,36",
+      "id": "https://hadro.github.io/woods-directory/0254_service:rbc:lcrbmrp:t8075:090_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tabernacle Journal Printing Office — 535 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/254#xywh=313,568,806,36",
+      "id": "https://hadro.github.io/woods-directory/0254_service:rbc:lcrbmrp:t8075:090_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dow L. Taylor — 2204 S. Franklin Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/254#xywh=540,740,354,35",
+      "id": "https://hadro.github.io/woods-directory/0254_service:rbc:lcrbmrp:t8075:090_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Telegraphic Printing Works — 1902 Josephine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/254#xywh=379,909,676,39",
+      "id": "https://hadro.github.io/woods-directory/0254_service:rbc:lcrbmrp:t8075:090_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. B. Alexander — 1018 Pine St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/254#xywh=540,1245,354,36",
+      "id": "https://hadro.github.io/woods-directory/0254_service:rbc:lcrbmrp:t8075:090_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "E. W. Brooks — 922 Gravier Street; Pear and Eagle Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/254#xywh=558,1414,318,39",
+      "id": "https://hadro.github.io/woods-directory/0254_service:rbc:lcrbmrp:t8075:090_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "D. W. Dooley — 2815 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/254#xywh=556,1631,323,36",
+      "id": "https://hadro.github.io/woods-directory/0254_service:rbc:lcrbmrp:t8075:090_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Capt. W. T. M. Grant — 331 Carondelet Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/254#xywh=476,1801,487,36",
+      "id": "https://hadro.github.io/woods-directory/0254_service:rbc:lcrbmrp:t8075:090_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. J. Lionel Lucas — General Ogden and Heaton Streets; P. O. Box 446",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/254#xywh=488,2015,467,34",
+      "id": "https://hadro.github.io/woods-directory/0254_service:rbc:lcrbmrp:t8075:090_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. E. Milanes — 1428 Joliet Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/254#xywh=558,2319,321,34",
+      "id": "https://hadro.github.io/woods-directory/0254_service:rbc:lcrbmrp:t8075:090_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. Paul — 3916 Laurel Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/254#xywh=625,2490,193,34",
+      "id": "https://hadro.github.io/woods-directory/0254_service:rbc:lcrbmrp:t8075:090_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "P. D. Perryman — 1761 Philip Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/254#xywh=532,2705,371,36",
+      "id": "https://hadro.github.io/woods-directory/0254_service:rbc:lcrbmrp:t8075:090_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "James A. Sample — 301 Temple Building, Gravier and Saratoga Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/254#xywh=512,2874,411,35",
+      "id": "https://hadro.github.io/woods-directory/0254_service:rbc:lcrbmrp:t8075:090_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "United Realty & Investment Co. — Temple Bldg., Gravier & Saratoga Sts.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/254#xywh=1265,393,774,36",
+      "id": "https://hadro.github.io/woods-directory/0254_service:rbc:lcrbmrp:t8075:090_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Workers Realty Co. — 2815 Gravier Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/254#xywh=1410,562,479,36",
+      "id": "https://hadro.github.io/woods-directory/0254_service:rbc:lcrbmrp:t8075:090_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. T. M. Grant, Sr. — 331 Carondelet Street, Third Floor",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/254#xywh=1414,841,479,37",
+      "id": "https://hadro.github.io/woods-directory/0254_service:rbc:lcrbmrp:t8075:090_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Astoria Hotel and Restaurant — 235-237 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/254#xywh=1308,1214,690,35",
+      "id": "https://hadro.github.io/woods-directory/0254_service:rbc:lcrbmrp:t8075:090_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago Hotel and Restaurant — 204-206 S. Rampart",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/254#xywh=1308,1430,696,39",
+      "id": "https://hadro.github.io/woods-directory/0254_service:rbc:lcrbmrp:t8075:090_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dorsey's Restaurant — 400 Dryades, cor. Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/254#xywh=1413,1621,478,36",
+      "id": "https://hadro.github.io/woods-directory/0254_service:rbc:lcrbmrp:t8075:090_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Great Southern Hotel and Restaurant — 1012-1016 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/254#xywh=1216,1947,878,35",
+      "id": "https://hadro.github.io/woods-directory/0254_service:rbc:lcrbmrp:t8075:090_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. S. A. Hudson — 2516 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/254#xywh=1441,2162,425,34",
+      "id": "https://hadro.github.io/woods-directory/0254_service:rbc:lcrbmrp:t8075:090_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. C. Jenkins — 124 N. Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/254#xywh=1474,2376,354,35",
+      "id": "https://hadro.github.io/woods-directory/0254_service:rbc:lcrbmrp:t8075:090_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. M. Kagler — 300 D'Armas Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/254#xywh=1480,2547,347,36",
+      "id": "https://hadro.github.io/woods-directory/0254_service:rbc:lcrbmrp:t8075:090_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Little Frisco Restaurant — 832 Bienville Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/254#xywh=1364,2715,584,35",
+      "id": "https://hadro.github.io/woods-directory/0254_service:rbc:lcrbmrp:t8075:090_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Logical Point Lunch Room — 1120 Perdido St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/254#xywh=1338,2883,637,38",
+      "id": "https://hadro.github.io/woods-directory/0254_service:rbc:lcrbmrp:t8075:090_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Old Virginia Restaurant — 1128 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/254#xywh=1364,3054,587,37",
+      "id": "https://hadro.github.io/woods-directory/0254_service:rbc:lcrbmrp:t8075:090_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0254_service:rbc:lcrbmrp:t8075:090_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

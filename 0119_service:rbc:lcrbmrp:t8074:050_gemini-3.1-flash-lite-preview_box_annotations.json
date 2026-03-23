@@ -1,0 +1,260 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. H. Beaulieu — 2115 Seventh Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/119#xywh=439,394,416,44",
+      "id": "https://hadro.github.io/woods-directory/0119_service:rbc:lcrbmrp:t8074:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Edna B. Brown — 2823 Dryades St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/119#xywh=393,566,506,44",
+      "id": "https://hadro.github.io/woods-directory/0119_service:rbc:lcrbmrp:t8074:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Wilbrena Callion — 2002 Iberville Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/119#xywh=383,741,526,38",
+      "id": "https://hadro.github.io/woods-directory/0119_service:rbc:lcrbmrp:t8074:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Virginia Carr — 436 S. Broad Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/119#xywh=415,911,453,42",
+      "id": "https://hadro.github.io/woods-directory/0119_service:rbc:lcrbmrp:t8074:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. M. Dede — 2617 Banks Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/119#xywh=475,1084,334,39",
+      "id": "https://hadro.github.io/woods-directory/0119_service:rbc:lcrbmrp:t8074:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mamie L. DeLisle — 4715 Camp St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/119#xywh=375,1256,544,38",
+      "id": "https://hadro.github.io/woods-directory/0119_service:rbc:lcrbmrp:t8074:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss J. V. Fobbs — 1644 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/119#xywh=434,1422,416,41",
+      "id": "https://hadro.github.io/woods-directory/0119_service:rbc:lcrbmrp:t8074:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Lucy Francois — 1937 Iberville Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/119#xywh=409,1644,471,38",
+      "id": "https://hadro.github.io/woods-directory/0119_service:rbc:lcrbmrp:t8074:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. N. Geddes-Roudes — 2827 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/119#xywh=375,1816,539,38",
+      "id": "https://hadro.github.io/woods-directory/0119_service:rbc:lcrbmrp:t8074:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mamie Gonzalez — 2300 Iberville Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/119#xywh=387,1986,512,38",
+      "id": "https://hadro.github.io/woods-directory/0119_service:rbc:lcrbmrp:t8074:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Esther Harrison — 2022 Saratoga Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/119#xywh=387,2155,515,41",
+      "id": "https://hadro.github.io/woods-directory/0119_service:rbc:lcrbmrp:t8074:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Sarah A. Hall — 222 Audubon Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/119#xywh=1346,401,463,44",
+      "id": "https://hadro.github.io/woods-directory/0119_service:rbc:lcrbmrp:t8074:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ella Hirst — 507 S. Telemachus Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/119#xywh=1381,619,389,43",
+      "id": "https://hadro.github.io/woods-directory/0119_service:rbc:lcrbmrp:t8074:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Deborah Holt — 7320 Elm Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/119#xywh=1345,884,449,36",
+      "id": "https://hadro.github.io/woods-directory/0119_service:rbc:lcrbmrp:t8074:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. C. E. Jones — 2008 Gravier Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/119#xywh=1376,1261,397,38",
+      "id": "https://hadro.github.io/woods-directory/0119_service:rbc:lcrbmrp:t8074:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Sophronia C. Lewis — 1920 Sixth St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/119#xywh=1287,1430,567,38",
+      "id": "https://hadro.github.io/woods-directory/0119_service:rbc:lcrbmrp:t8074:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Olivia T. LeBoeuf — 2116 Orleans Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/119#xywh=1305,1601,532,39",
+      "id": "https://hadro.github.io/woods-directory/0119_service:rbc:lcrbmrp:t8074:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Stella Elodie McCoy — 2534 Soniat Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/119#xywh=1282,1772,585,38",
+      "id": "https://hadro.github.io/woods-directory/0119_service:rbc:lcrbmrp:t8074:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Amy Madison — 7701 Oak St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/119#xywh=1343,1942,457,39",
+      "id": "https://hadro.github.io/woods-directory/0119_service:rbc:lcrbmrp:t8074:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Anna Messiah — 7609 Hampson Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/119#xywh=1398,2112,346,36",
+      "id": "https://hadro.github.io/woods-directory/0119_service:rbc:lcrbmrp:t8074:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Dean Moore — 1924 Adams Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/119#xywh=1370,2282,400,35",
+      "id": "https://hadro.github.io/woods-directory/0119_service:rbc:lcrbmrp:t8074:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Robert C. Caldwell — 2013-2015 Dryades St., New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/119#xywh=1098,2714,681,100",
+      "id": "https://hadro.github.io/woods-directory/0119_service:rbc:lcrbmrp:t8074:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/119#xywh=0,552,67,148",
+      "id": "https://hadro.github.io/woods-directory/0119_service:rbc:lcrbmrp:t8074:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0119_service:rbc:lcrbmrp:t8074:050_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

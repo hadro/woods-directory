@@ -1,0 +1,249 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Oscar M. Giovanni — 2128 Jackson Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/30#xywh=1192,946,879,47",
+      "id": "https://hadro.github.io/woods-directory/0030_service:rbc:lcrbmrp:t8073:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Robert Hereford — 1621 St. Bernard Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/30#xywh=1191,1060,881,45",
+      "id": "https://hadro.github.io/woods-directory/0030_service:rbc:lcrbmrp:t8073:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jos. Hilaire, Jr. — 2200 Eighth Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/30#xywh=1194,1117,788,44",
+      "id": "https://hadro.github.io/woods-directory/0030_service:rbc:lcrbmrp:t8073:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "E. D. Howard — 4731 Annunciation Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/30#xywh=1455,1308,355,49",
+      "id": "https://hadro.github.io/woods-directory/0030_service:rbc:lcrbmrp:t8073:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Milton Bruen — 700 Bourbon St. Cor. St. Peter St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/30#xywh=500,1368,373,42",
+      "id": "https://hadro.github.io/woods-directory/0030_service:rbc:lcrbmrp:t8073:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Anderson Ligon — 134 N. Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/30#xywh=465,2286,443,42",
+      "id": "https://hadro.github.io/woods-directory/0030_service:rbc:lcrbmrp:t8073:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Albert Monnot — 725 St. Louis St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/30#xywh=1427,1865,406,42",
+      "id": "https://hadro.github.io/woods-directory/0030_service:rbc:lcrbmrp:t8073:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "E. V. Pickett — 2108 Jackson Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/30#xywh=505,2648,358,41",
+      "id": "https://hadro.github.io/woods-directory/0030_service:rbc:lcrbmrp:t8073:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. J. Ball — 805 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/30#xywh=555,2983,279,42",
+      "id": "https://hadro.github.io/woods-directory/0030_service:rbc:lcrbmrp:t8073:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "L. B. Brown — 1636 Toledano St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/30#xywh=525,3168,340,43",
+      "id": "https://hadro.github.io/woods-directory/0030_service:rbc:lcrbmrp:t8073:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Henry Bynum, Jr. — 3624 Daneel Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/30#xywh=447,3345,486,44",
+      "id": "https://hadro.github.io/woods-directory/0030_service:rbc:lcrbmrp:t8073:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "H. J. Johnson — 4220 Carondelet",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/30#xywh=1439,1686,384,41",
+      "id": "https://hadro.github.io/woods-directory/0030_service:rbc:lcrbmrp:t8073:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Albert Monnot — 725 St. Louis St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/30#xywh=1194,1960,874,40",
+      "id": "https://hadro.github.io/woods-directory/0030_service:rbc:lcrbmrp:t8073:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "R. A. Moore — 4730 S. Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/30#xywh=1457,2041,352,46",
+      "id": "https://hadro.github.io/woods-directory/0030_service:rbc:lcrbmrp:t8073:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "O. L. Neugass — 1125 N. Robertson Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/30#xywh=1448,2226,373,39",
+      "id": "https://hadro.github.io/woods-directory/0030_service:rbc:lcrbmrp:t8073:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. P. Randolph — 1818 Toledano Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/30#xywh=1430,2438,405,40",
+      "id": "https://hadro.github.io/woods-directory/0030_service:rbc:lcrbmrp:t8073:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "David Coffey — Residence 2627 Sixth Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/30#xywh=496,2101,394,42",
+      "id": "https://hadro.github.io/woods-directory/0030_service:rbc:lcrbmrp:t8073:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "D. E. Garner — 2014 Foucher Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/30#xywh=523,2334,344,44",
+      "id": "https://hadro.github.io/woods-directory/0030_service:rbc:lcrbmrp:t8073:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "G. W. Carroll, Ph. G. — 2027 Eighth Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/30#xywh=1363,2821,539,42",
+      "id": "https://hadro.github.io/woods-directory/0030_service:rbc:lcrbmrp:t8073:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "William A. Halston, Ph. C. — 927 Valence Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/30#xywh=1291,2974,693,47",
+      "id": "https://hadro.github.io/woods-directory/0030_service:rbc:lcrbmrp:t8073:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Arthur C. Johnson, Ph. C. — 2611 St. Ann Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/30#xywh=1298,3160,678,45",
+      "id": "https://hadro.github.io/woods-directory/0030_service:rbc:lcrbmrp:t8073:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Theodore L. Miller, Ph. C. — 2128 Philip Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/30#xywh=1292,3345,677,44",
+      "id": "https://hadro.github.io/woods-directory/0030_service:rbc:lcrbmrp:t8073:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0030_service:rbc:lcrbmrp:t8073:030_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

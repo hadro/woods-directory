@@ -1,0 +1,315 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Lynncastle — 3923 Iberville Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/103#xywh=430,416,393,43",
+      "id": "https://hadro.github.io/woods-directory/0103_service:rbc:lcrbmrp:t8074:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Panama Cleaning, Pressing, Repairing & Dye Works — 4220 Carondelet Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/103#xywh=250,586,745,45",
+      "id": "https://hadro.github.io/woods-directory/0103_service:rbc:lcrbmrp:t8074:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Panama Pressing Club — 1410 N. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/103#xywh=303,850,650,38",
+      "id": "https://hadro.github.io/woods-directory/0103_service:rbc:lcrbmrp:t8074:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Original Pressing Club — 834 Bienville Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/103#xywh=278,1019,711,43",
+      "id": "https://hadro.github.io/woods-directory/0103_service:rbc:lcrbmrp:t8074:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Reliable Cleaning & Pressing — 2012 St. Claude Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/103#xywh=216,1283,830,37",
+      "id": "https://hadro.github.io/woods-directory/0103_service:rbc:lcrbmrp:t8074:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Reliable Pressing Club — 1007 Gravier Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/103#xywh=310,1454,646,37",
+      "id": "https://hadro.github.io/woods-directory/0103_service:rbc:lcrbmrp:t8074:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Royal Cleaning, Pressing, Repairing and Dyeing Works — 1127 Barracks Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/103#xywh=195,1624,879,38",
+      "id": "https://hadro.github.io/woods-directory/0103_service:rbc:lcrbmrp:t8074:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Hollow Concrete Block Manufacturing Company — Office, 3730 Willow Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/103#xywh=264,1974,745,35",
+      "id": "https://hadro.github.io/woods-directory/0103_service:rbc:lcrbmrp:t8074:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bloom & Berhel — 2119 Toledano Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/103#xywh=438,2281,412,37",
+      "id": "https://hadro.github.io/woods-directory/0103_service:rbc:lcrbmrp:t8074:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. N. Cager — 5433 Marais Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/103#xywh=486,2496,315,38",
+      "id": "https://hadro.github.io/woods-directory/0103_service:rbc:lcrbmrp:t8074:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "John J. Winston — 103 Pythian Bldg., Saratoga & Gravier Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/103#xywh=284,2664,713,38",
+      "id": "https://hadro.github.io/woods-directory/0103_service:rbc:lcrbmrp:t8074:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jno. Cooil — 1819 General Taylor Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/103#xywh=516,2927,246,37",
+      "id": "https://hadro.github.io/woods-directory/0103_service:rbc:lcrbmrp:t8074:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "H. F. Crosier — 2802 Palmer Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/103#xywh=324,3097,627,34",
+      "id": "https://hadro.github.io/woods-directory/0103_service:rbc:lcrbmrp:t8074:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Victor Fournier — 2210 Eighth Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/103#xywh=1363,386,386,34",
+      "id": "https://hadro.github.io/woods-directory/0103_service:rbc:lcrbmrp:t8074:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "C. L. Guichard — 3730 Willow Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/103#xywh=1379,569,366,38",
+      "id": "https://hadro.github.io/woods-directory/0103_service:rbc:lcrbmrp:t8074:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. M. Hite — 2317 Robert Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/103#xywh=1421,753,279,34",
+      "id": "https://hadro.github.io/woods-directory/0103_service:rbc:lcrbmrp:t8074:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "M. R. Hite — 4616 S. Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/103#xywh=1424,979,269,33",
+      "id": "https://hadro.github.io/woods-directory/0103_service:rbc:lcrbmrp:t8074:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "August Jones — 2102 Louisiana Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/103#xywh=1396,1161,338,38",
+      "id": "https://hadro.github.io/woods-directory/0103_service:rbc:lcrbmrp:t8074:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. J. Lionel Lucas — Residence, Gen'l Ogden and Heaton streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/103#xywh=1323,1333,476,34",
+      "id": "https://hadro.github.io/woods-directory/0103_service:rbc:lcrbmrp:t8074:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Paul Manuel — 2929 Freret Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/103#xywh=1401,1592,334,35",
+      "id": "https://hadro.github.io/woods-directory/0103_service:rbc:lcrbmrp:t8074:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. C. Marshall — 4921 Freret Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/103#xywh=1382,1763,364,35",
+      "id": "https://hadro.github.io/woods-directory/0103_service:rbc:lcrbmrp:t8074:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. E. Roberson — 2418 S. Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/103#xywh=1373,1934,384,35",
+      "id": "https://hadro.github.io/woods-directory/0103_service:rbc:lcrbmrp:t8074:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "James A. Sample — 301 Pythian Temple, Gravier & Saratoga Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/103#xywh=1356,2150,429,35",
+      "id": "https://hadro.github.io/woods-directory/0103_service:rbc:lcrbmrp:t8074:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "F. W. Smith — 2826 General Taylor Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/103#xywh=1407,2365,333,37",
+      "id": "https://hadro.github.io/woods-directory/0103_service:rbc:lcrbmrp:t8074:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "H. Stevens — 2837 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/103#xywh=1409,2535,277,37",
+      "id": "https://hadro.github.io/woods-directory/0103_service:rbc:lcrbmrp:t8074:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Antoine Surle — 1316 Spain Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/103#xywh=1395,2705,358,37",
+      "id": "https://hadro.github.io/woods-directory/0103_service:rbc:lcrbmrp:t8074:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Leon B. Vignes — 2526 Cleveland Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/103#xywh=1373,2876,390,34",
+      "id": "https://hadro.github.io/woods-directory/0103_service:rbc:lcrbmrp:t8074:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Joseph Wilkins — 121 N. Derbigny Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/103#xywh=1382,3043,378,37",
+      "id": "https://hadro.github.io/woods-directory/0103_service:rbc:lcrbmrp:t8074:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0103_service:rbc:lcrbmrp:t8074:034_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

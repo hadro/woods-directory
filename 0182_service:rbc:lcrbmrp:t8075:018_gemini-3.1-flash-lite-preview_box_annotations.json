@@ -1,0 +1,337 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "ACHE D'LAUNCE B. A. — 1471 N. Claiborne Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/182#xywh=233,910,878,36",
+      "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "ADVERSITY B. M. A. A. — 1460 N. Derbigny street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/182#xywh=228,1057,887,35",
+      "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "ALMOND TIE CUTTERS B. A. — 527 S. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/182#xywh=227,1204,888,35",
+      "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "AMIS SINCERE B. A. — 1471 N. Claiborne avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/182#xywh=227,1351,880,36",
+      "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "ARTISAN B. M. A. A. — 1460 N. Derbigney street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/182#xywh=228,1494,881,43",
+      "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "ARTS OF TRADE B. A. — 1607 St. Philip street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/182#xywh=225,1632,882,37",
+      "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "BRICKLAYERS' UNION — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/182#xywh=225,1724,882,34",
+      "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "BUILDERS' INTERNATIONAL UNION — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/182#xywh=220,1906,884,34",
+      "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "CAR CLEANERS' LOCAL — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/182#xywh=220,2042,882,35",
+      "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "CARRIAGE DRIVERS' UNION — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/182#xywh=214,2175,884,39",
+      "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "CATHOLIC KNIGHTS B. A. — Howard and Tulane avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/182#xywh=214,2358,882,37",
+      "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "CENTRAL INVESTMENT COMPANY — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/182#xywh=214,2495,882,35",
+      "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "CENTRAL LABOR UNION, AMERICAN FEDERATION OF LABOR — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/182#xywh=211,2763,885,41",
+      "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "CHILDREN OF ST. PAUL B. A. — 922 N. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/182#xywh=213,3173,877,36",
+      "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "CHILDREN PROGRESSIVE FRIENDS B. A. — 922 N. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/182#xywh=205,3306,882,37",
+      "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "CHILDREN UNITY CHARITY B. A. — 922 N. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/182#xywh=1236,804,881,50",
+      "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "CIGAR MAKERS' LOCAL — 1422 Ursuline street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/182#xywh=1238,942,878,46",
+      "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "COACHMEN'S B. A. — 2711 South Rampart street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/182#xywh=1236,1078,882,47",
+      "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "COAL WHEELERS' LOCAL — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/182#xywh=1230,1213,885,48",
+      "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "CO-OPERATORS B. A. — 1422 Ursuline street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/182#xywh=1233,1349,883,50",
+      "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "COTTON YARDMEN AID — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/182#xywh=1230,1487,885,46",
+      "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "COTTON YARDMEN B. A. — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/182#xywh=1231,1621,881,47",
+      "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "DAMES ENIS B. A. — 1816 N. Robertson street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/182#xywh=1229,1758,875,44",
+      "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "DAUGHTERS OF ST. CATHERINE — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/182#xywh=1225,1894,881,44",
+      "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "DELECHAISE MUTUAL AID AND B. A. — 2241 S. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/182#xywh=1223,2031,881,42",
+      "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "DEMOSELLE SINCERE B. A. — 1479 N. Robertson street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/182#xywh=1219,2497,880,35",
+      "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "DIEU NOUS PROTEGE B. A. — 1607 St. Philip street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/182#xywh=1217,2640,881,42",
+      "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "ENFANT ST. COEUR B. A. — 1607 St. Philip street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/182#xywh=1217,2787,878,42",
+      "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "ECONOMY B. A. — 1422 Ursuline street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/182#xywh=1214,2935,876,39",
+      "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "FRANCS AMIS B. A. — 1820 N. Robertson street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/182#xywh=1213,3035,880,40",
+      "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/29"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0182_service:rbc:lcrbmrp:t8075:018_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

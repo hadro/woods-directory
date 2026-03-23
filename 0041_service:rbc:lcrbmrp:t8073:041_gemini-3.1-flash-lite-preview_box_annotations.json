@@ -1,0 +1,62 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "CENTRAL FURNITURE TRANSFER CO. — 2400 S. Rampart St. Cor. First.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/41#xywh=550,384,1742,93",
+      "id": "https://hadro.github.io/woods-directory/0041_service:rbc:lcrbmrp:t8073:041_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. K. HOPPES — 2400 S. Rampart St., corner First.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/41#xywh=1456,1120,879,70",
+      "id": "https://hadro.github.io/woods-directory/0041_service:rbc:lcrbmrp:t8073:041_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pool and Billiard Room — 4831-33 Coliseum St., cor. Lyon. (Upstairs)",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/41#xywh=1077,1484,294,48",
+      "id": "https://hadro.github.io/woods-directory/0041_service:rbc:lcrbmrp:t8073:041_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Perryman Bros. — 2250 Dryades St., New Orleans",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/41#xywh=944,2109,958,83",
+      "id": "https://hadro.github.io/woods-directory/0041_service:rbc:lcrbmrp:t8073:041_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "GEDDES & MOSS UNDERTAKING AND EMBALMING CO. — 2128 Jackson Ave. New Orleans, Bet. Franklin and Liberty Sts.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/41#xywh=1110,3397,592,42",
+      "id": "https://hadro.github.io/woods-directory/0041_service:rbc:lcrbmrp:t8073:041_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0041_service:rbc:lcrbmrp:t8073:041_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

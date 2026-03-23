@@ -1,0 +1,161 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "No-Al Flavors and Perfumes — 5132 Chestnut Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/100#xywh=726,488,1466,96",
+      "id": "https://hadro.github.io/woods-directory/0100_service:rbc:lcrbmrp:t8074:031_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Overland Cleaners, Pressers & Repairers — 1133 Cadiz St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/100#xywh=1565,1897,737,36",
+      "id": "https://hadro.github.io/woods-directory/0100_service:rbc:lcrbmrp:t8074:031_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Peoples' Favorite Pressing Club — 1626 Dumaine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/100#xywh=1575,2114,730,39",
+      "id": "https://hadro.github.io/woods-directory/0100_service:rbc:lcrbmrp:t8074:031_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pierce Pressing Club — 1124 Adams Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/100#xywh=1695,2287,503,37",
+      "id": "https://hadro.github.io/woods-directory/0100_service:rbc:lcrbmrp:t8074:031_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pilgrim Pressing Club — 1513 Gasquet Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/100#xywh=1692,2504,525,39",
+      "id": "https://hadro.github.io/woods-directory/0100_service:rbc:lcrbmrp:t8074:031_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Watson's Chemical Cleaning, Pressing and Tailoring Co. — 1902 Josephine St., cor. Dryades",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/100#xywh=1615,2676,663,37",
+      "id": "https://hadro.github.io/woods-directory/0100_service:rbc:lcrbmrp:t8074:031_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Up-to-date Cleaning, Pressing and Repairing — 1127 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/100#xywh=1607,2914,683,44",
+      "id": "https://hadro.github.io/woods-directory/0100_service:rbc:lcrbmrp:t8074:031_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Peter F. Russell — 1525 St. Philip Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/100#xywh=1760,3160,398,35",
+      "id": "https://hadro.github.io/woods-directory/0100_service:rbc:lcrbmrp:t8074:031_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Haynes Cleaning Co. — 6320 Hurst St., near Calhoun",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/100#xywh=756,1907,526,37",
+      "id": "https://hadro.github.io/woods-directory/0100_service:rbc:lcrbmrp:t8074:031_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Idaho Pressing Club — 3217 Carondelet Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/100#xywh=779,2168,488,36",
+      "id": "https://hadro.github.io/woods-directory/0100_service:rbc:lcrbmrp:t8074:031_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ideal Pressing Club — 160 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/100#xywh=787,2381,483,39",
+      "id": "https://hadro.github.io/woods-directory/0100_service:rbc:lcrbmrp:t8074:031_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "B. Lafourche — 611 Julia Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/100#xywh=862,2553,328,36",
+      "id": "https://hadro.github.io/woods-directory/0100_service:rbc:lcrbmrp:t8074:031_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. B. Mayes — 4015 Baronne St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/100#xywh=882,2770,302,35",
+      "id": "https://hadro.github.io/woods-directory/0100_service:rbc:lcrbmrp:t8074:031_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "E. Winston McCarty — 2503 Carondelet St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/100#xywh=791,2984,484,35",
+      "id": "https://hadro.github.io/woods-directory/0100_service:rbc:lcrbmrp:t8074:031_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0100_service:rbc:lcrbmrp:t8074:031_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

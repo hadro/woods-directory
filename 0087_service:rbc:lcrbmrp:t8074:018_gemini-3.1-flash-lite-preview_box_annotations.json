@@ -1,0 +1,524 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "L'Athena",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=155,297,1379,54",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "L'Equite",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=155,353,1390,57",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Anthony",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=158,411,1468,56",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Hellen",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=160,470,1354,51",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Marguerite",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=160,528,1357,49",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Male and Female B. A — Coliseum near Valence Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=689,686,807,42",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies of Mercy — Coliseum near Valence Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=159,829,1431,56",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Love and Friendship — Coliseum near Valence Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=159,881,1632,63",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Prince of Peace — Coliseum near Valence Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=158,941,1639,53",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alpha Chapter, R. A. M — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=158,1192,1419,54",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Butler Lodge No. 1336 — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=160,1303,1665,59",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Builders' International Union — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=166,1364,1726,46",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Constantine Commandery, K. T — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=161,1421,1424,48",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cotton Yardmen Aid — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=160,1475,1386,54",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Crescent Tabernacle — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=160,1532,1702,54",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cotton Yardmen B. A — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=160,1588,1811,53",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Coal Wheelers' Local — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=161,1648,1415,49",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Crescent Lodge No. 1646 — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=160,1700,1841,54",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Car Cleaners' Local — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=160,1757,1463,57",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "David Temple Lodge — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=154,1812,1750,57",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Daughters of Israel H. H. R — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=156,1862,1384,66",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Daughters of Israel Tabernacle — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=160,1925,1679,55",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Daughters of St. Catherine — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=158,1982,1487,58",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ezra Chapter, R. A. M — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=160,2095,1422,58",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Evening Star Tabernacle — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=153,2151,1662,60",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Emblem Progress Lodge — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=158,2208,1765,58",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Electa Chapter — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=158,2266,1849,55",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Gethesemene Chapter, R. A. M — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=160,2322,1360,55",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Godfrey Commandery, K. T — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=160,2379,1459,57",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Geneva Tabernacle — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=158,2434,1785,55",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Israel Lodge, 1971 — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=155,2492,1717,56",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "John and Jacobs, 2452 — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=154,2546,1794,59",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Joint Central Trade Labor Union — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=153,2604,1421,56",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "King Solomon Lodge — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=155,2660,1749,57",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Knights of King Solomon — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=158,2716,1752,57",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Creole Lodge — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=161,2773,1760,53",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lady Pride of Louisiana — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=160,2829,1438,55",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Catherine Lodge 5743 — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=160,2884,1740,57",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Magnolia Lodge 1990 — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=160,2940,1667,58",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Magnolia Blossom, H. H. R — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=158,2998,1374,56",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Naomi, H. H. R — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=158,3052,1396,59",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Orleans Patriarchy — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=160,3110,1463,56",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Orleans Progress — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=158,3165,1843,60",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ophelia Tabernacle — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=160,3222,1740,56",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "O. P. Dunn Lodge — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=160,3277,1777,59",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pride of Louisiana 1529 — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=160,3334,1738,56",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/45"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Eureka Chapter, R. A. M — 1116 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/87#xywh=830,1103,530,43",
+      "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json/entry/46"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0087_service:rbc:lcrbmrp:t8074:018_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

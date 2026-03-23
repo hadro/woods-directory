@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Peoples' Benevolent, Industrial Life Insurance Co. (of Louisiana) — Temple Building, Gravier and Saratoga Sts., New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/139#xywh=170,270,1807,97",
+      "id": "https://hadro.github.io/woods-directory/0139_service:rbc:lcrbmrp:t8074:070_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/139#xywh=183,3315,1751,56",
+      "id": "https://hadro.github.io/woods-directory/0139_service:rbc:lcrbmrp:t8074:070_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0139_service:rbc:lcrbmrp:t8074:070_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

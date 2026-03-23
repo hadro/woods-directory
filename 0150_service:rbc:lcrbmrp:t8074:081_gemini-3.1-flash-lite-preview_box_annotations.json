@@ -1,0 +1,73 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. K. Hopes — 2400 S. Rampart St. and 909 Howard Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/150#xywh=711,311,1420,156",
+      "id": "https://hadro.github.io/woods-directory/0150_service:rbc:lcrbmrp:t8074:081_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Harry T. Graham — Cor. Louisiana Ave. and South Liberty St., New Orleans",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/150#xywh=425,1068,869,64",
+      "id": "https://hadro.github.io/woods-directory/0150_service:rbc:lcrbmrp:t8074:081_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Garden District Saloon — 328 S. Liberty Street; Cor. S. Rampart and Fourth",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/150#xywh=501,1933,1624,128",
+      "id": "https://hadro.github.io/woods-directory/0150_service:rbc:lcrbmrp:t8074:081_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "John V. Harris & Son — Residence: 2425 Conti Street; Stand: Carondelet and Poydras",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/150#xywh=470,2550,750,111",
+      "id": "https://hadro.github.io/woods-directory/0150_service:rbc:lcrbmrp:t8074:081_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Original Panama House",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/150#xywh=1393,1609,789,60",
+      "id": "https://hadro.github.io/woods-directory/0150_service:rbc:lcrbmrp:t8074:081_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alfred Williams — 226 Decatur Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/150#xywh=1340,2550,880,72",
+      "id": "https://hadro.github.io/woods-directory/0150_service:rbc:lcrbmrp:t8074:081_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0150_service:rbc:lcrbmrp:t8074:081_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

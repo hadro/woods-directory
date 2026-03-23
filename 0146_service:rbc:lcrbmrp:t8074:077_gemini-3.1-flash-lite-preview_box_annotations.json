@@ -1,0 +1,51 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Louis Maspero — 1611 Claiborne Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/146#xywh=1439,316,678,88",
+      "id": "https://hadro.github.io/woods-directory/0146_service:rbc:lcrbmrp:t8074:077_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Nathan Johnson — 411 North Broad Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/146#xywh=421,1381,858,71",
+      "id": "https://hadro.github.io/woods-directory/0146_service:rbc:lcrbmrp:t8074:077_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Porters Exchange — 1000 Perdido Street, corner Dryades",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/146#xywh=392,1849,1794,193",
+      "id": "https://hadro.github.io/woods-directory/0146_service:rbc:lcrbmrp:t8074:077_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "C. R. Patterson & Sons — Greenfield, Ohio",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/146#xywh=1398,1072,740,83",
+      "id": "https://hadro.github.io/woods-directory/0146_service:rbc:lcrbmrp:t8074:077_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0146_service:rbc:lcrbmrp:t8074:077_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

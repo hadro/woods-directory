@@ -1,0 +1,18 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mound Bayou Oil Mill and Manufacturing Co. — Mound Bayou, Miss.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/148#xywh=413,2173,1792,67",
+      "id": "https://hadro.github.io/woods-directory/0148_service:rbc:lcrbmrp:t8074:079_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0148_service:rbc:lcrbmrp:t8074:079_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

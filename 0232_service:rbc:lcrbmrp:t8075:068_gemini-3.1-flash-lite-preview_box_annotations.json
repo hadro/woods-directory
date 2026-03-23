@@ -1,0 +1,172 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/232#xywh=249,206,1780,39",
+      "id": "https://hadro.github.io/woods-directory/0232_service:rbc:lcrbmrp:t8075:068_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Florence Smith-Moore — 4114 Willow Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/232#xywh=360,409,618,34",
+      "id": "https://hadro.github.io/woods-directory/0232_service:rbc:lcrbmrp:t8075:068_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Laura Taylor — 2016 Gravier Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/232#xywh=441,625,461,36",
+      "id": "https://hadro.github.io/woods-directory/0232_service:rbc:lcrbmrp:t8075:068_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Rebecca Teems — 4922 Annunciation Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/232#xywh=424,794,492,35",
+      "id": "https://hadro.github.io/woods-directory/0232_service:rbc:lcrbmrp:t8075:068_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Louise T. Thornhill — 2216 Second Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/232#xywh=380,1065,586,35",
+      "id": "https://hadro.github.io/woods-directory/0232_service:rbc:lcrbmrp:t8075:068_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Martha Thompson — 2005 Grant Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/232#xywh=415,1382,528,36",
+      "id": "https://hadro.github.io/woods-directory/0232_service:rbc:lcrbmrp:t8075:068_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss E. Vinet — 4717 Chestnut Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/232#xywh=500,1552,352,34",
+      "id": "https://hadro.github.io/woods-directory/0232_service:rbc:lcrbmrp:t8075:068_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Regina Walsh — 2214 Valence Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/232#xywh=450,1767,458,36",
+      "id": "https://hadro.github.io/woods-directory/0232_service:rbc:lcrbmrp:t8075:068_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Lottie Wilson — 2130 Josephine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/232#xywh=450,1981,449,35",
+      "id": "https://hadro.github.io/woods-directory/0232_service:rbc:lcrbmrp:t8075:068_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mary L. Williams — 4216 Magnolia St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/232#xywh=415,2196,522,38",
+      "id": "https://hadro.github.io/woods-directory/0232_service:rbc:lcrbmrp:t8075:068_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. R. Williams — 2917½ Saratoga Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/232#xywh=467,2363,420,37",
+      "id": "https://hadro.github.io/woods-directory/0232_service:rbc:lcrbmrp:t8075:068_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. K. E. Williams — 2512 Third Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/232#xywh=438,2579,481,35",
+      "id": "https://hadro.github.io/woods-directory/0232_service:rbc:lcrbmrp:t8075:068_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Emma Woodson — 539 Verret Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/232#xywh=426,2796,501,35",
+      "id": "https://hadro.github.io/woods-directory/0232_service:rbc:lcrbmrp:t8075:068_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Normie Young — 1830 Washington Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/232#xywh=438,3009,481,36",
+      "id": "https://hadro.github.io/woods-directory/0232_service:rbc:lcrbmrp:t8075:068_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "V. J. Woods Cleaning and Pressing Shop — 2016 PRYTANIA STREET",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/232#xywh=1173,2974,880,56",
+      "id": "https://hadro.github.io/woods-directory/0232_service:rbc:lcrbmrp:t8075:068_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0232_service:rbc:lcrbmrp:t8075:068_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

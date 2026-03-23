@@ -1,0 +1,183 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. L. A. Murray — 4619 Camp Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/219#xywh=679,377,420,36",
+      "id": "https://hadro.github.io/woods-directory/0219_service:rbc:lcrbmrp:t8075:055_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss A. Narcisse — 1022 Valence Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/219#xywh=689,545,399,35",
+      "id": "https://hadro.github.io/woods-directory/0219_service:rbc:lcrbmrp:t8075:055_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Sarah Caston Olivier — 3218 Carondelet Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/219#xywh=557,716,633,36",
+      "id": "https://hadro.github.io/woods-directory/0219_service:rbc:lcrbmrp:t8075:055_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Lorenza Osborne — McDonoghville, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/219#xywh=634,930,514,35",
+      "id": "https://hadro.github.io/woods-directory/0219_service:rbc:lcrbmrp:t8075:055_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Margaret E. Palmer — 2203 Delachaise Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/219#xywh=607,1150,574,36",
+      "id": "https://hadro.github.io/woods-directory/0219_service:rbc:lcrbmrp:t8075:055_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Emma A. Petty — 4823 Constance Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/219#xywh=647,1320,492,37",
+      "id": "https://hadro.github.io/woods-directory/0219_service:rbc:lcrbmrp:t8075:055_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. P. Prescott — 3814 Perrier Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/219#xywh=700,1524,392,33",
+      "id": "https://hadro.github.io/woods-directory/0219_service:rbc:lcrbmrp:t8075:055_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Peoples Benevolent Industrial Life Insurance Company of Louisiana — Main Office, Pythian Temple Building, Gravier and Saratoga Streets, New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/219#xywh=474,1851,1808,97",
+      "id": "https://hadro.github.io/woods-directory/0219_service:rbc:lcrbmrp:t8075:055_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. A. L. Reese — 2823 Howard Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/219#xywh=1623,378,402,36",
+      "id": "https://hadro.github.io/woods-directory/0219_service:rbc:lcrbmrp:t8075:055_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. C. J. Reeves — 1926 Palmyra Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/219#xywh=1619,548,412,34",
+      "id": "https://hadro.github.io/woods-directory/0219_service:rbc:lcrbmrp:t8075:055_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Louise Richardson — 1227 S. Franklin Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/219#xywh=1551,720,547,35",
+      "id": "https://hadro.github.io/woods-directory/0219_service:rbc:lcrbmrp:t8075:055_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. L. Robichaux — 4727 Camp Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/219#xywh=1612,900,428,38",
+      "id": "https://hadro.github.io/woods-directory/0219_service:rbc:lcrbmrp:t8075:055_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Emma Rose-Harrall — 2722 Willow Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/219#xywh=1533,1083,586,36",
+      "id": "https://hadro.github.io/woods-directory/0219_service:rbc:lcrbmrp:t8075:055_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Ella Lee Rose — 2318 Toledano Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/219#xywh=1592,1267,475,35",
+      "id": "https://hadro.github.io/woods-directory/0219_service:rbc:lcrbmrp:t8075:055_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Mary Roussell — 2210 Louisiana Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/219#xywh=1591,1449,475,40",
+      "id": "https://hadro.github.io/woods-directory/0219_service:rbc:lcrbmrp:t8075:055_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Clara Sampson — 8411 Cohn Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/219#xywh=1598,1633,466,36",
+      "id": "https://hadro.github.io/woods-directory/0219_service:rbc:lcrbmrp:t8075:055_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0219_service:rbc:lcrbmrp:t8075:055_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

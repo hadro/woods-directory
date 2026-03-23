@@ -1,0 +1,150 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. L. T. Burbridge — 1832 Dryades Street (Office); 1724 St. Andrew Street (Residence)",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/21#xywh=618,1324,532,52",
+      "id": "https://hadro.github.io/woods-directory/0021_service:rbc:lcrbmrp:t8073:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Raleigh J. Coker, M. D. — 1414 Dumaine Street (Residence); 818-20 N. Claiborne Ave. (Office); Third and Howard (Office)",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/21#xywh=563,1706,642,43",
+      "id": "https://hadro.github.io/woods-directory/0021_service:rbc:lcrbmrp:t8073:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. Rivers Frederick — 1812 N. Claiborne Ave. (Residence); 818-20 N. Claiborne Ave. (Office)",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/21#xywh=606,2072,566,49",
+      "id": "https://hadro.github.io/woods-directory/0021_service:rbc:lcrbmrp:t8073:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. J. A. Hardin — 1912 Bienville St. near Roman (Residence); cor. Claiborne Ave. and Dumaine (Office)",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/21#xywh=665,2446,457,40",
+      "id": "https://hadro.github.io/woods-directory/0021_service:rbc:lcrbmrp:t8073:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "L. B. Landry, M. D. — 1140 Verrett Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/21#xywh=618,2819,554,47",
+      "id": "https://hadro.github.io/woods-directory/0021_service:rbc:lcrbmrp:t8073:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Geo. W. Lucas, M. D. — 1422 Berlin Street (Residence); 624 S. Rampart St. (Office); 1832 Dryades St. (Office)",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/21#xywh=605,3173,580,43",
+      "id": "https://hadro.github.io/woods-directory/0021_service:rbc:lcrbmrp:t8073:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Thos. H. Mims, M. D. — 2624 Tulane Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/21#xywh=1529,1313,601,43",
+      "id": "https://hadro.github.io/woods-directory/0021_service:rbc:lcrbmrp:t8073:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "I. E. Mullon, M. D. — 405 Pythian Temple, Gravier and Saratoga Sts. (Office); 935 Valence St. (Residence)",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/21#xywh=1568,1569,532,48",
+      "id": "https://hadro.github.io/woods-directory/0021_service:rbc:lcrbmrp:t8073:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. T. Newman, M. D. — 2600 S. Rampart St. (Residence); 1402 Canal Street (Office); 122 Howard Street (Office)",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/21#xywh=1557,1970,555,42",
+      "id": "https://hadro.github.io/woods-directory/0021_service:rbc:lcrbmrp:t8073:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. J. W. Thomas — 120 S. Robertson Street (Office); 424 S. Dupre Street (Residence)",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/21#xywh=1592,2395,490,41",
+      "id": "https://hadro.github.io/woods-directory/0021_service:rbc:lcrbmrp:t8073:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. E. Chas. Thornhill — 1713 Bienville Avenue (Residence)",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/21#xywh=1542,2802,606,48",
+      "id": "https://hadro.github.io/woods-directory/0021_service:rbc:lcrbmrp:t8073:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "R. J. Vining, M. D. — 3004 South Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/21#xywh=1577,3180,538,43",
+      "id": "https://hadro.github.io/woods-directory/0021_service:rbc:lcrbmrp:t8073:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wm. E. Weeks, M. D. — 2539 Bienville Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/21#xywh=1548,3374,597,45",
+      "id": "https://hadro.github.io/woods-directory/0021_service:rbc:lcrbmrp:t8073:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0021_service:rbc:lcrbmrp:t8073:021_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

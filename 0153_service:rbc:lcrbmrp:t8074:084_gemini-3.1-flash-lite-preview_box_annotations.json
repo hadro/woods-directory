@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dorsey Restaurant — 400 Dryades Street, New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/153#xywh=230,2164,1510,210",
+      "id": "https://hadro.github.io/woods-directory/0153_service:rbc:lcrbmrp:t8074:084_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/153#xywh=268,3306,1751,46",
+      "id": "https://hadro.github.io/woods-directory/0153_service:rbc:lcrbmrp:t8074:084_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0153_service:rbc:lcrbmrp:t8074:084_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

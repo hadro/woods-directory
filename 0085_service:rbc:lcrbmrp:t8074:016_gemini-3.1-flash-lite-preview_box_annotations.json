@@ -1,0 +1,359 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Artisans' Hall — 1460 North Derbigny Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=628,720,942,45",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Dominic Hall — 919 Cambronne Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=597,1548,1006,46",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Elizabeth Hall — Camp near Valence Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=564,2103,1078,46",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Francs Amis Hall — 1816 North Robertson Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=581,2601,1047,44",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Friends of Hope Hall — 922 North Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=542,3033,1118,54",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies of Artisans",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=159,924,1381,69",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies of Providence",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=159,989,1372,54",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies of Prompt Secour",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=161,1045,1418,59",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies of Silence",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=159,1101,1420,59",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Adversity B. M. A. A",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=157,1158,1434,60",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Artisans' B. M. A. A",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=159,1210,1397,66",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Juvenile Co-operative",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=159,1275,1414,53",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Juvenile Silence",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=165,1374,1410,69",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "School Board",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=161,1443,1467,52",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Holy Name of Jesus Society",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=166,1718,1360,49",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Solidarity of B. V. M",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=167,1772,1414,53",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Andrew's Society",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=164,1827,1386,55",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Dominic's Ben. Assn",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=167,1887,1702,48",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Dominic's Willing Workers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=167,1944,1376,48",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sunday School",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=167,1999,1596,52",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "R. G. Shaw Post No. 18, G. A. R",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=161,2270,1418,48",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jefferson Friendship, M. B. A",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=165,2325,1664,52",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sons and Daughters of Noah Ben. Association",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=167,2379,1008,56",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Elizabeth Ben. Association",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=168,2492,1357,57",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Francs Amis",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=167,2768,1671,47",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dames Enis",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=167,2825,1411,50",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "L'Utilite",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=164,2880,1415,52",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Modesty",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=167,2935,1359,55",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Children Progressive Friends",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=167,3192,1364,53",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Children St. Paul",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=167,3246,1414,56",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Children Unity, Charity",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=167,3300,1737,59",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Friends of Hope",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/85#xywh=172,3358,1679,56",
+      "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/31"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0085_service:rbc:lcrbmrp:t8074:016_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

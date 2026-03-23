@@ -1,0 +1,293 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/258#xywh=278,205,1780,44",
+      "id": "https://hadro.github.io/woods-directory/0258_service:rbc:lcrbmrp:t8075:094_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "William Niles — 2500 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/258#xywh=540,412,319,35",
+      "id": "https://hadro.github.io/woods-directory/0258_service:rbc:lcrbmrp:t8075:094_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Porters Exchange — 1000 Perdido St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/258#xywh=497,583,412,36",
+      "id": "https://hadro.github.io/woods-directory/0258_service:rbc:lcrbmrp:t8075:094_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Teamsters Saloon and Restaurant — Cor. Josephine & S. Rampart Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/258#xywh=311,751,790,35",
+      "id": "https://hadro.github.io/woods-directory/0258_service:rbc:lcrbmrp:t8075:094_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Sunnybrook Saloon — 107 N. Front St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/258#xywh=424,922,557,39",
+      "id": "https://hadro.github.io/woods-directory/0258_service:rbc:lcrbmrp:t8075:094_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Union Station Exchange Bar and Restaurant — 836 S. Rampart St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/258#xywh=317,1089,789,41",
+      "id": "https://hadro.github.io/woods-directory/0258_service:rbc:lcrbmrp:t8075:094_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Geo. Weppner's Little Ruby Saloon and Restaurant — Cor. Franklin and Gasquet Sts.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/258#xywh=292,1350,836,40",
+      "id": "https://hadro.github.io/woods-directory/0258_service:rbc:lcrbmrp:t8075:094_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Zeno's Exchange — 1577 N. Claiborne, cor. Lapeyrouse",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/258#xywh=510,1518,400,43",
+      "id": "https://hadro.github.io/woods-directory/0258_service:rbc:lcrbmrp:t8075:094_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Penny Store — Lapeyrouse and Preiur Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/258#xywh=503,1825,408,37",
+      "id": "https://hadro.github.io/woods-directory/0258_service:rbc:lcrbmrp:t8075:094_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. V. Barnes-Thompson — 3425 Saratoga Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/258#xywh=407,2219,601,39",
+      "id": "https://hadro.github.io/woods-directory/0258_service:rbc:lcrbmrp:t8075:094_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Colored Y. M. C. A. Night School — 2220 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/258#xywh=317,2387,786,44",
+      "id": "https://hadro.github.io/woods-directory/0258_service:rbc:lcrbmrp:t8075:094_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Crescent Hairdressing College — 2013-2015 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/258#xywh=363,2696,692,36",
+      "id": "https://hadro.github.io/woods-directory/0258_service:rbc:lcrbmrp:t8075:094_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Crescent Hairdressing College (Branch) — 2513 Tulane Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/258#xywh=468,3001,473,33",
+      "id": "https://hadro.github.io/woods-directory/0258_service:rbc:lcrbmrp:t8075:094_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Guillaume College — Temple Bldg., Gravier & Saratoga Sts.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/258#xywh=1428,406,420,36",
+      "id": "https://hadro.github.io/woods-directory/0258_service:rbc:lcrbmrp:t8075:094_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Orleans University — 5318 St. Charles Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/258#xywh=1346,621,584,37",
+      "id": "https://hadro.github.io/woods-directory/0258_service:rbc:lcrbmrp:t8075:094_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Progressive School — 1919 First Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/258#xywh=1414,789,446,37",
+      "id": "https://hadro.github.io/woods-directory/0258_service:rbc:lcrbmrp:t8075:094_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Straight University — 2420 Canal St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/258#xywh=1416,1006,452,36",
+      "id": "https://hadro.github.io/woods-directory/0258_service:rbc:lcrbmrp:t8075:094_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jules Batiste — 1504 Ursuline Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/258#xywh=1489,1285,307,34",
+      "id": "https://hadro.github.io/woods-directory/0258_service:rbc:lcrbmrp:t8075:094_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Henry Camper — 2010 Second Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/258#xywh=1468,1455,351,35",
+      "id": "https://hadro.github.io/woods-directory/0258_service:rbc:lcrbmrp:t8075:094_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Frank Casimir — 1540 N. Rocheblave Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/258#xywh=1472,1625,344,35",
+      "id": "https://hadro.github.io/woods-directory/0258_service:rbc:lcrbmrp:t8075:094_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "L. Galle — 831 Bienville St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/258#xywh=1540,1795,204,36",
+      "id": "https://hadro.github.io/woods-directory/0258_service:rbc:lcrbmrp:t8075:094_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "H. Jones — 2532 Dryades, cor. Third Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/258#xywh=1532,1987,217,37",
+      "id": "https://hadro.github.io/woods-directory/0258_service:rbc:lcrbmrp:t8075:094_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "E. D. McDonald — 1211 Magnolia Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/258#xywh=1454,2340,373,37",
+      "id": "https://hadro.github.io/woods-directory/0258_service:rbc:lcrbmrp:t8075:094_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jos. Narcisse — 1035 Kerlerec Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/258#xywh=1486,2511,316,35",
+      "id": "https://hadro.github.io/woods-directory/0258_service:rbc:lcrbmrp:t8075:094_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. Rixner — 1023 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/258#xywh=1530,2691,222,35",
+      "id": "https://hadro.github.io/woods-directory/0258_service:rbc:lcrbmrp:t8075:094_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. L. Theriot — 2137 Bourbon Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/258#xywh=1478,3041,332,40",
+      "id": "https://hadro.github.io/woods-directory/0258_service:rbc:lcrbmrp:t8075:094_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0258_service:rbc:lcrbmrp:t8075:094_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

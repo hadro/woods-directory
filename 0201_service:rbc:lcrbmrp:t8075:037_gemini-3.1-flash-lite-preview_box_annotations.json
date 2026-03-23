@@ -1,0 +1,40 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. E. MILANES — NEW ORLEANS, LA.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/201#xywh=597,1885,1441,172",
+      "id": "https://hadro.github.io/woods-directory/0201_service:rbc:lcrbmrp:t8075:037_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. Edward Vincent — 1706 BIENVILLE AVENUE",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/201#xywh=2495,801,39,39",
+      "id": "https://hadro.github.io/woods-directory/0201_service:rbc:lcrbmrp:t8075:037_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "GRAND FOUNTAIN U. O. T. A. — Office, 1823 St. Anthony St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/201#xywh=1107,2916,425,107",
+      "id": "https://hadro.github.io/woods-directory/0201_service:rbc:lcrbmrp:t8075:037_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0201_service:rbc:lcrbmrp:t8075:037_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

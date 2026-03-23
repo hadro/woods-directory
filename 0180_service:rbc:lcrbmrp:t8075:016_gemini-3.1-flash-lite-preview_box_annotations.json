@@ -1,0 +1,491 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mt. Calvary Church — Dryades and Amelia streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=240,321,885,43",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. James Church — 218 N. Roman street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=240,407,885,48",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. John's Church — 318 Opelousas avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=241,458,880,37",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. John Church — 1013 Belleville street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=241,547,883,41",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Peter's Church — Cadiz street, corner Coliseum",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=241,594,882,40",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Union Bethel Church — 1211 Howard street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=242,683,881,40",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Berean Church — 2132 Third street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=239,853,789,36",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Allegro Club — 1608 Dumaine street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=239,1009,810,37",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Daysman Club — 2119 Governor Nichols street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=239,1054,879,37",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Iroquois Club — 1401 Canal street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=236,1142,769,42",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Oleander Club — Washington avenue, near S. Rampart street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=239,1187,884,43",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Orleans Club — 1939 Orleans street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=236,1279,792,40",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "San Jacinto Club — 811 Marais street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=236,1325,859,37",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Charity Hospital — Tulane avenue and Howard street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=241,1484,875,37",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Provident Sanitarium — 122 Howard street, near Canal",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=239,1572,879,37",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sarah Goodrich Hospital — Canal and S. Robertson streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=239,1663,882,40",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Oleander Baseball Park — Carrollton avenue and Oleander street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=239,1863,875,35",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dixie Park — 4513 Bienville street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=239,1950,781,39",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lincoln Park — Carrollton avenue and Oleander street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=236,1994,878,42",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Louisville & Nashville Depot — head of Canal street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=232,2200,886,37",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Louisiana Southern — Elysian Fields avenue and St. Claude street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=232,2290,886,36",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Orleans Southern — Pelican avenue and Powder street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=235,2379,883,37",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pontchartrain Railroad Depot — Elysian Fields and Chartres streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=232,2470,880,37",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Terminal Station — Canal and Basin streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=1248,325,877,37",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Union Station — S. Rampart and Howard streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=1248,415,882,41",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bayou Road Public School — 1811 Bayou road",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=1246,674,878,48",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Crescent Hairdressing College — 2013 Dryades street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=1246,765,878,47",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "First Street Public School — 531 First street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=1246,855,883,48",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fisk Public School — S. Franklin and Perdido streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=1246,946,876,47",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Flint Medical College — Canal and S. Robertson streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=1246,1036,881,49",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Guillaume College — Temple Building, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=1241,1127,881,47",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Leland University — St. Charles avenue and Walnut street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=1241,1216,882,50",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Marigny Public School — 1317 Marigny street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=1244,1310,880,43",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "McCarthy Public School — 621 Pauline street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=1246,1400,878,42",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "McDonogh Public School No. 5 — 726 Verret street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=1244,1491,878,42",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "McDonogh Public School No. 6 — 926 Berlin street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=1246,1585,873,39",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "McDonogh Public School No. 25 — 414 Adams street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=1244,1672,876,44",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miro School — Allen and Miro streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=1244,1762,848,44",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Orleans University — St. Charles avenue and Valmont street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=1241,1807,881,45",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Southern University and Agricultural and Mechanical College — 5116 Magazine street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=1240,1902,878,37",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Straight University — Canal and Tonti streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=1244,2036,875,42",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sarah Goodridge Nurse Training School — Canal and S. Robertson streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=1242,2127,877,40",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Thomy Lafon Public School — S. Robertson and Seventh streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=1240,2265,879,37",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Temple Theatre — Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/180#xywh=1237,2468,881,37",
+      "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json/entry/43"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0180_service:rbc:lcrbmrp:t8075:016_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

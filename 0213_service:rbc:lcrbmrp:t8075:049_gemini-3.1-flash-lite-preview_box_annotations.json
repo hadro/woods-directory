@@ -1,0 +1,161 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Warner C. Lewis — 2038 Jena Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/213#xywh=694,419,389,38",
+      "id": "https://hadro.github.io/woods-directory/0213_service:rbc:lcrbmrp:t8075:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Thomas Rochon — 839 Tupelo Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/213#xywh=1633,411,379,34",
+      "id": "https://hadro.github.io/woods-directory/0213_service:rbc:lcrbmrp:t8075:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "William Riley — 7518 Poplar Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/213#xywh=1659,589,332,42",
+      "id": "https://hadro.github.io/woods-directory/0213_service:rbc:lcrbmrp:t8075:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "James A. Sample — 301 Pythian Temple, Gravier and Saratoga Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/213#xywh=1626,762,395,37",
+      "id": "https://hadro.github.io/woods-directory/0213_service:rbc:lcrbmrp:t8075:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "F. W. Smith — 3722 S. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/213#xywh=1677,976,288,36",
+      "id": "https://hadro.github.io/woods-directory/0213_service:rbc:lcrbmrp:t8075:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "H. Stevens — 2837 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/213#xywh=1691,1194,261,35",
+      "id": "https://hadro.github.io/woods-directory/0213_service:rbc:lcrbmrp:t8075:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Antoine Surle — 1316 Spain Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/213#xywh=1662,1364,324,36",
+      "id": "https://hadro.github.io/woods-directory/0213_service:rbc:lcrbmrp:t8075:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Leon B. Vignes — 2526 Cleveland Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/213#xywh=1644,1536,359,36",
+      "id": "https://hadro.github.io/woods-directory/0213_service:rbc:lcrbmrp:t8075:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. J. Lionel Lucas — P. O. Box 446; Residence, Gen'l Ogden and Heaton Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/213#xywh=673,759,431,34",
+      "id": "https://hadro.github.io/woods-directory/0213_service:rbc:lcrbmrp:t8075:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Paul Manuel — 2929 Freret Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/213#xywh=734,1032,313,35",
+      "id": "https://hadro.github.io/woods-directory/0213_service:rbc:lcrbmrp:t8075:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. C. Marshall — 4921 Freret Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/213#xywh=728,1225,321,35",
+      "id": "https://hadro.github.io/woods-directory/0213_service:rbc:lcrbmrp:t8075:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. H. Phillips — Grant Street, Corner St. Anthony",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/213#xywh=736,1396,307,37",
+      "id": "https://hadro.github.io/woods-directory/0213_service:rbc:lcrbmrp:t8075:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. E. Roberson — 2418 S. Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/213#xywh=709,1609,359,36",
+      "id": "https://hadro.github.io/woods-directory/0213_service:rbc:lcrbmrp:t8075:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Nelson Drug Store — COR. OAK AND JOLIET STS.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/213#xywh=504,1912,1705,151",
+      "id": "https://hadro.github.io/woods-directory/0213_service:rbc:lcrbmrp:t8075:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0213_service:rbc:lcrbmrp:t8075:049_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

@@ -1,0 +1,40 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "WA-RAYFIELD & CO — ECHOLS-STRONG BLDG., BIRMINGHAM, ALA.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/141#xywh=389,2066,1360,86",
+      "id": "https://hadro.github.io/woods-directory/0141_service:rbc:lcrbmrp:t8074:072_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Edward Gaudet — 4738 Magazine Street, New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/141#xywh=192,2486,886,83",
+      "id": "https://hadro.github.io/woods-directory/0141_service:rbc:lcrbmrp:t8074:072_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "D. W. DOOLEY — 2815 South Rampart St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/141#xywh=1227,2692,665,70",
+      "id": "https://hadro.github.io/woods-directory/0141_service:rbc:lcrbmrp:t8074:072_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0141_service:rbc:lcrbmrp:t8074:072_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

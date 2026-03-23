@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "James A. Sample — 301 Pythian Temple, Gravier and Saratoga Streets; Residence, 7618 Cohn Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/251#xywh=760,2018,1258,150",
+      "id": "https://hadro.github.io/woods-directory/0251_service:rbc:lcrbmrp:t8075:087_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "John J. Winston — Office: 103 Pythian Building, Gravier and Saratoga Streets; Residence, 2331 Second St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/251#xywh=789,2632,1192,132",
+      "id": "https://hadro.github.io/woods-directory/0251_service:rbc:lcrbmrp:t8075:087_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0251_service:rbc:lcrbmrp:t8075:087_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

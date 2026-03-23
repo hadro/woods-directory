@@ -1,0 +1,51 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Presto Face Cream",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/203#xywh=670,167,1360,41",
+      "id": "https://hadro.github.io/woods-directory/0203_service:rbc:lcrbmrp:t8075:039_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. Joseph E. Willis — 1815 DRYADES STREET, New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/203#xywh=537,477,1626,172",
+      "id": "https://hadro.github.io/woods-directory/0203_service:rbc:lcrbmrp:t8075:039_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Lincoln Life Insurance Company — 1832 Dryades Street, New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/203#xywh=498,1620,1715,95",
+      "id": "https://hadro.github.io/woods-directory/0203_service:rbc:lcrbmrp:t8075:039_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Southern Securities Company — 1832 Dryades Street, New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/203#xywh=931,2062,908,37",
+      "id": "https://hadro.github.io/woods-directory/0203_service:rbc:lcrbmrp:t8075:039_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0203_service:rbc:lcrbmrp:t8075:039_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

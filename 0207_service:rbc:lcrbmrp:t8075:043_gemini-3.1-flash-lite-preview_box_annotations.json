@@ -1,0 +1,161 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jackson & Soniat — 2225 Eighth Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/207#xywh=1534,387,415,35",
+      "id": "https://hadro.github.io/woods-directory/0207_service:rbc:lcrbmrp:t8075:043_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "C. P. Spotts — 2013-2015 Dryades Street.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/207#xywh=1594,604,295,37",
+      "id": "https://hadro.github.io/woods-directory/0207_service:rbc:lcrbmrp:t8075:043_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Leon B. Vignes — 2526 Cleveland Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/207#xywh=1555,773,370,40",
+      "id": "https://hadro.github.io/woods-directory/0207_service:rbc:lcrbmrp:t8075:043_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "John Ferrouillet — Stalls 102 and 104 Treme Market; Residence 921 N. Galvez",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/207#xywh=1550,1043,379,37",
+      "id": "https://hadro.github.io/woods-directory/0207_service:rbc:lcrbmrp:t8075:043_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "M. Jackson — Stalls 3-5, Mehle Market",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/207#xywh=1597,1260,277,35",
+      "id": "https://hadro.github.io/woods-directory/0207_service:rbc:lcrbmrp:t8075:043_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mountray Johnson — Stalls 19-20, Second Street Market",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/207#xywh=1523,1432,429,37",
+      "id": "https://hadro.github.io/woods-directory/0207_service:rbc:lcrbmrp:t8075:043_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Geo. Colin Nicolas — Stalls 105-107 Treme Market; Residence 1618 Ursulines Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/207#xywh=1519,1599,437,35",
+      "id": "https://hadro.github.io/woods-directory/0207_service:rbc:lcrbmrp:t8075:043_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Orleans Family Supply Co. — 317-319 S. White Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/207#xywh=1417,1815,646,40",
+      "id": "https://hadro.github.io/woods-directory/0207_service:rbc:lcrbmrp:t8075:043_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "R. Van Cresson — Stalls 13-15 St. Bernard Market",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/207#xywh=1549,2030,370,35",
+      "id": "https://hadro.github.io/woods-directory/0207_service:rbc:lcrbmrp:t8075:043_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. P. Bedou — 1707 Bienville Av",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/207#xywh=1585,2347,295,35",
+      "id": "https://hadro.github.io/woods-directory/0207_service:rbc:lcrbmrp:t8075:043_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. B. Alexander — 1018 Pine St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/207#xywh=1556,2663,358,38",
+      "id": "https://hadro.github.io/woods-directory/0207_service:rbc:lcrbmrp:t8075:043_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Albert Boucree — 718 Bordeaux Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/207#xywh=1556,2834,352,36",
+      "id": "https://hadro.github.io/woods-directory/0207_service:rbc:lcrbmrp:t8075:043_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lawrence S. Brisco — Gretna, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/207#xywh=1493,3047,472,39",
+      "id": "https://hadro.github.io/woods-directory/0207_service:rbc:lcrbmrp:t8075:043_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. E. FLODING — 157 WHITEHALL STREET, ATLANTA, GEORGIA.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/207#xywh=407,2116,788,84",
+      "id": "https://hadro.github.io/woods-directory/0207_service:rbc:lcrbmrp:t8075:043_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0207_service:rbc:lcrbmrp:t8075:043_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

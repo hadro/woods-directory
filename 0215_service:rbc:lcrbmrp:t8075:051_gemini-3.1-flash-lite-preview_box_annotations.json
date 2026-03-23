@@ -1,0 +1,95 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Geo. W. Lucas, M. D. — Residence, 2122 First Street; Offices: 624 S. Rampart; Imperial Drug Store, Franklin and Terpsichore Sts.; DeJoie's Drug Store, 1832 Dryades St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/215#xywh=632,389,549,37",
+      "id": "https://hadro.github.io/woods-directory/0215_service:rbc:lcrbmrp:t8075:051_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. Thos. H. Mims — No. 2624 Tulane Avenue; C. A. Guichard's Drug Store, 841 N. Claiborne Ave.; Green's Drug Store, 2624 Tulane Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/215#xywh=682,876,476,35",
+      "id": "https://hadro.github.io/woods-directory/0215_service:rbc:lcrbmrp:t8075:051_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "I. E. Mullon, M. D. — Office: 405 Pythian Temple, Gravier and Saratoga Streets; Residence, 935 Valence Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/215#xywh=676,1364,492,36",
+      "id": "https://hadro.github.io/woods-directory/0215_service:rbc:lcrbmrp:t8075:051_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. F. M. Nelson — Office: Nelson's Drug Store, Cor. Oak and Joliet Streets; Residence, 8525 Poplar Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/215#xywh=1661,387,390,33",
+      "id": "https://hadro.github.io/woods-directory/0215_service:rbc:lcrbmrp:t8075:051_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. T. Newman, M. D. — Residence, 2600 S. Rampart Street; Offices: 1402 Canal St.; Providence Sanitarium, 122 Howard St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/215#xywh=1605,693,503,35",
+      "id": "https://hadro.github.io/woods-directory/0215_service:rbc:lcrbmrp:t8075:051_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "L. C. Speight, M. D. — 1227 Teche Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/215#xywh=1605,1054,502,39",
+      "id": "https://hadro.github.io/woods-directory/0215_service:rbc:lcrbmrp:t8075:051_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. J. T. Stocking — Residence, 1830 Toledano Street; Office: Johnson's Cut-Rate Pharmacy, corner Jackson and Magnolia",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/215#xywh=1646,1235,426,37",
+      "id": "https://hadro.github.io/woods-directory/0215_service:rbc:lcrbmrp:t8075:051_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Adams' Shaving Parlor — 1507 Gasquet Street, Bet. Howard and Villere Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/215#xywh=1297,2780,911,44",
+      "id": "https://hadro.github.io/woods-directory/0215_service:rbc:lcrbmrp:t8075:051_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0215_service:rbc:lcrbmrp:t8075:051_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

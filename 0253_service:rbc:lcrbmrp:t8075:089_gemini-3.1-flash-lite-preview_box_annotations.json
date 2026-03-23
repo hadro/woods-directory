@@ -1,0 +1,18 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Astoria — 235-237 S. RAMPART STREET, NEW ORLEANS, LA.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/253#xywh=885,1829,956,157",
+      "id": "https://hadro.github.io/woods-directory/0253_service:rbc:lcrbmrp:t8075:089_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0253_service:rbc:lcrbmrp:t8075:089_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

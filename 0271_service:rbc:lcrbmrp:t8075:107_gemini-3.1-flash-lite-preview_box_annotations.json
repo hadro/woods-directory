@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Success Restaurant and Confectionery — 1428 CANAL STREET, NEW ORLEANS, LA.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/271#xywh=541,1279,1598,107",
+      "id": "https://hadro.github.io/woods-directory/0271_service:rbc:lcrbmrp:t8075:107_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Paragon Printing Office — 2850 DRYADES STREET, NEW ORLEANS, LA",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/271#xywh=522,2798,1677,144",
+      "id": "https://hadro.github.io/woods-directory/0271_service:rbc:lcrbmrp:t8075:107_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0271_service:rbc:lcrbmrp:t8075:107_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

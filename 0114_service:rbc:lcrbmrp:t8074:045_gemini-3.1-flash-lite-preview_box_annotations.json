@@ -1,0 +1,150 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Albertine D. Francis — 4911 Coliseum Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/114#xywh=665,354,608,44",
+      "id": "https://hadro.github.io/woods-directory/0114_service:rbc:lcrbmrp:t8074:045_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Louise Green — 2111 Fourth Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/114#xywh=735,573,461,36",
+      "id": "https://hadro.github.io/woods-directory/0114_service:rbc:lcrbmrp:t8074:045_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Eva Gorham — 825 Nunez St., Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/114#xywh=751,739,428,40",
+      "id": "https://hadro.github.io/woods-directory/0114_service:rbc:lcrbmrp:t8074:045_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Marie V. Harris — 2214 Second Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/114#xywh=713,908,507,43",
+      "id": "https://hadro.github.io/woods-directory/0114_service:rbc:lcrbmrp:t8074:045_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Margaret Hatchan — 2321 Seventh Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/114#xywh=751,1081,432,37",
+      "id": "https://hadro.github.io/woods-directory/0114_service:rbc:lcrbmrp:t8074:045_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss B. M. Hamilton — 2066 St. Andrew Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/114#xywh=718,1294,502,38",
+      "id": "https://hadro.github.io/woods-directory/0114_service:rbc:lcrbmrp:t8074:045_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. R. B. Hickey — 2325 Second Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/114#xywh=754,1508,424,39",
+      "id": "https://hadro.github.io/woods-directory/0114_service:rbc:lcrbmrp:t8074:045_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Lottie McDonald — 2107 Delechaise Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/114#xywh=1013,3089,847,44",
+      "id": "https://hadro.github.io/woods-directory/0114_service:rbc:lcrbmrp:t8074:045_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Bertha Hobbs — 120 N. Robertson Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/114#xywh=1659,334,462,47",
+      "id": "https://hadro.github.io/woods-directory/0114_service:rbc:lcrbmrp:t8074:045_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Emeline Hughes — 1021 Valence St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/114#xywh=1632,550,516,45",
+      "id": "https://hadro.github.io/woods-directory/0114_service:rbc:lcrbmrp:t8074:045_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Angie Lefeb — 2912 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/114#xywh=1677,769,430,39",
+      "id": "https://hadro.github.io/woods-directory/0114_service:rbc:lcrbmrp:t8074:045_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Olga Lucas — 537 S. Dorgenois St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/114#xywh=1694,985,395,35",
+      "id": "https://hadro.github.io/woods-directory/0114_service:rbc:lcrbmrp:t8074:045_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. E. McKee — 2113 Iberville Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/114#xywh=1717,1290,354,36",
+      "id": "https://hadro.github.io/woods-directory/0114_service:rbc:lcrbmrp:t8074:045_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0114_service:rbc:lcrbmrp:t8074:045_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

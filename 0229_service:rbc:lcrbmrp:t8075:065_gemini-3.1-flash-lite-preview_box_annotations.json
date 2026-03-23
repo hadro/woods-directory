@@ -1,0 +1,40 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Geddes & Moss Undertaking & Embalming Co. — 2128 Jackson Avenue, bet. Franklin and Liberty, New Orleans",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/229#xywh=948,454,813,90",
+      "id": "https://hadro.github.io/woods-directory/0229_service:rbc:lcrbmrp:t8075:065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Crusader — 1344 North Stricker Street, Baltimore, MD",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/229#xywh=491,2714,738,79",
+      "id": "https://hadro.github.io/woods-directory/0229_service:rbc:lcrbmrp:t8075:065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Benj. H. Frazier — 535 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/229#xywh=1351,3061,885,61",
+      "id": "https://hadro.github.io/woods-directory/0229_service:rbc:lcrbmrp:t8075:065_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0229_service:rbc:lcrbmrp:t8075:065_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

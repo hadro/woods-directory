@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Guillaume College — 407 Pythian Temple, New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/257#xywh=647,1599,1440,119",
+      "id": "https://hadro.github.io/woods-directory/0257_service:rbc:lcrbmrp:t8075:093_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Trinity Church",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/257#xywh=1318,2279,880,125",
+      "id": "https://hadro.github.io/woods-directory/0257_service:rbc:lcrbmrp:t8075:093_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0257_service:rbc:lcrbmrp:t8075:093_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

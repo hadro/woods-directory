@@ -1,0 +1,62 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Sadie Kenan — 1815 DRYADES ST. NEW ORLEANS, LA.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/223#xywh=948,319,1191,94",
+      "id": "https://hadro.github.io/woods-directory/0223_service:rbc:lcrbmrp:t8075:059_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "JAS. R. GRANT — 1833 FOUCHER STREET",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/223#xywh=491,1017,703,70",
+      "id": "https://hadro.github.io/woods-directory/0223_service:rbc:lcrbmrp:t8075:059_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Susie A. Carter — 2211 PHILIP STREET",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/223#xywh=1058,1887,1012,72",
+      "id": "https://hadro.github.io/woods-directory/0223_service:rbc:lcrbmrp:t8075:059_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Robt. U. Barrois — Cor. St. Philip and Marais Sts., New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/223#xywh=707,2666,1197,134",
+      "id": "https://hadro.github.io/woods-directory/0223_service:rbc:lcrbmrp:t8075:059_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. S. CARTER — 2236 DRYADES STREET, New Orleans",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/223#xywh=1468,1054,617,61",
+      "id": "https://hadro.github.io/woods-directory/0223_service:rbc:lcrbmrp:t8075:059_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0223_service:rbc:lcrbmrp:t8075:059_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

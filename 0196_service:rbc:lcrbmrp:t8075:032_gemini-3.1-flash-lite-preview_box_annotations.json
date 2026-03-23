@@ -1,0 +1,359 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "VIOLET AID, H. H. R. — corner Homer and Verret streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=219,319,883,37",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "UNITY, H. H. R. — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=223,455,877,37",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "SOLID ROCK, H. H. R. — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=220,591,880,37",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "NAOMI, H. H. R. — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=220,817,880,37",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "MAGNOLIA BLOSSOM, H. H. R. — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=263,772,801,37",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "DAUGHTERS OF ISRAEL, H. H. R. — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=220,952,877,37",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "MIRIAM HOUSEHOLD — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=220,1086,880,36",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "PORTERS HOUSEHOLD No. 3 — 527 S. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=214,1494,883,34",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "EUREKA GRAND LODGE, F. AND A. M.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=220,1685,882,37",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "PRIDE OF ALGIERS LODGE No. 102 — Homer and Verret streets, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=225,1775,872,36",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "RICHMOND LODGE No. 1 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=223,2268,879,41",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "BERRY LODGE No. 2 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=223,2448,881,43",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "STRINGER LODGE No. 3 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=224,2583,878,43",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "ST. LUKE LODGE No. 4 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=220,2762,884,45",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "TUSCAN LODGE No. 5 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=223,2989,879,44",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "GILBERT LODGE No. 6 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=223,3171,880,40",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "DE GRUY LODGE No. 7 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=1215,322,880,36",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "MT. OLIVE LODGE No. 21 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=1223,513,875,35",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "VERA CRUZ LODGE No. 24 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=1218,704,877,36",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "OLYMPIA LODGE No. 125 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=1215,1254,884,34",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "AMOS LODGE — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=1224,1720,871,35",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "DAVID TEMPLE LODGE — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=1224,1865,875,33",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "KING SOLOMON LODGE — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=1224,2000,875,35",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "PLATTA TEMPLE, O. M. S. — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=1224,2136,874,37",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "GETHESEMENE CHAPTER, R. A. M. — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=1223,2272,876,36",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "CONSTANTINE COMMANDERY, K. T., No. 1 — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=1224,2405,874,37",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "GODFREY COMMANDERY, K. T., No. 3 — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=1222,2539,882,43",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "RED CROSS COMMANDERY, K. T. — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=1224,2676,876,39",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "ROYAL ENCAMPMENT — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=1222,2812,878,39",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "EZRA CHAPTER, R. A. M., No. 1 — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=1224,2949,874,35",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "ALPHA CHAPTER, R. A. M., No. 2 — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=1224,3083,874,37",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "EUREKA CHAPTER, R. A. M., No. 3 — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/196#xywh=1224,3219,874,37",
+      "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/31"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0196_service:rbc:lcrbmrp:t8075:032_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

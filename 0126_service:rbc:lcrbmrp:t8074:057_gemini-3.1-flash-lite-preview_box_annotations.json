@@ -1,0 +1,172 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Paul Thomas — 1121 Columbus Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/126#xywh=780,337,319,35",
+      "id": "https://hadro.github.io/woods-directory/0126_service:rbc:lcrbmrp:t8074:057_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Henry Wallace — 1819 St. Anthony Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/126#xywh=753,548,374,43",
+      "id": "https://hadro.github.io/woods-directory/0126_service:rbc:lcrbmrp:t8074:057_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Andrew J. Williams — 1933 Foucher St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/126#xywh=702,718,484,43",
+      "id": "https://hadro.github.io/woods-directory/0126_service:rbc:lcrbmrp:t8074:057_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Uptown Pool and Billiard Room — 4831-33 Coliseum Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/126#xywh=560,972,784,56",
+      "id": "https://hadro.github.io/woods-directory/0126_service:rbc:lcrbmrp:t8074:057_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Business Journal Printing House — Pythian Temple, Gravier and Saratoga Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/126#xywh=516,1232,873,56",
+      "id": "https://hadro.github.io/woods-directory/0126_service:rbc:lcrbmrp:t8074:057_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. H. Lassere — 1414 St. Philip Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/126#xywh=785,1410,328,37",
+      "id": "https://hadro.github.io/woods-directory/0126_service:rbc:lcrbmrp:t8074:057_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. N. Cheri — 1301 St. Philip Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/126#xywh=1718,318,294,39",
+      "id": "https://hadro.github.io/woods-directory/0126_service:rbc:lcrbmrp:t8074:057_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Messenger Office Job Printing — 1013 Julia Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/126#xywh=1448,487,809,41",
+      "id": "https://hadro.github.io/woods-directory/0126_service:rbc:lcrbmrp:t8074:057_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Optic Printing House — 1940 Philip Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/126#xywh=1613,658,502,38",
+      "id": "https://hadro.github.io/woods-directory/0126_service:rbc:lcrbmrp:t8074:057_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Orleans Printing Co. — 149-151 Elk Place",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/126#xywh=1621,828,489,39",
+      "id": "https://hadro.github.io/woods-directory/0126_service:rbc:lcrbmrp:t8074:057_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Paragon Printing Co. — 2850 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/126#xywh=1616,998,505,41",
+      "id": "https://hadro.github.io/woods-directory/0126_service:rbc:lcrbmrp:t8074:057_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Phoenix Printery — 309 Dryades St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/126#xywh=1613,1180,511,39",
+      "id": "https://hadro.github.io/woods-directory/0126_service:rbc:lcrbmrp:t8074:057_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "San Jacinto Press — 221 S. Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/126#xywh=1662,1370,420,36",
+      "id": "https://hadro.github.io/woods-directory/0126_service:rbc:lcrbmrp:t8074:057_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Southern Age Printing Office — 7716-7718 Maple St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/126#xywh=1486,1560,774,47",
+      "id": "https://hadro.github.io/woods-directory/0126_service:rbc:lcrbmrp:t8074:057_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "McCarty's Original Cleaning, Dyeing, Repairing and Pressing Works — 2503 Carondelet Street, near Second",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/126#xywh=688,3082,1505,58",
+      "id": "https://hadro.github.io/woods-directory/0126_service:rbc:lcrbmrp:t8074:057_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0126_service:rbc:lcrbmrp:t8074:057_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

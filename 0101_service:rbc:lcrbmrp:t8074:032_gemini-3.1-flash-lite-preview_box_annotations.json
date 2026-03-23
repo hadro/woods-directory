@@ -1,0 +1,172 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tuskegee Pressing Club — 3441 Magnolia Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/101#xywh=1209,414,759,37",
+      "id": "https://hadro.github.io/woods-directory/0101_service:rbc:lcrbmrp:t8074:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Woods' Cleaning, Pressing and Dye Works — 2016 Prytania Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/101#xywh=1342,550,495,37",
+      "id": "https://hadro.github.io/woods-directory/0101_service:rbc:lcrbmrp:t8074:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wm. Saunders — 330 Dauphine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/101#xywh=472,627,373,34",
+      "id": "https://hadro.github.io/woods-directory/0101_service:rbc:lcrbmrp:t8074:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Two Brothers' Cleaning and Pressing Club — 3003 S. Rampart",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/101#xywh=362,797,592,39",
+      "id": "https://hadro.github.io/woods-directory/0101_service:rbc:lcrbmrp:t8074:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Up-to-date Pressing Club — 935 Kerlerec Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/101#xywh=418,889,479,32",
+      "id": "https://hadro.github.io/woods-directory/0101_service:rbc:lcrbmrp:t8074:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "R. G. Washington — 201 Millaudon Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/101#xywh=1259,969,665,37",
+      "id": "https://hadro.github.io/woods-directory/0101_service:rbc:lcrbmrp:t8074:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Claiborne Dye Works — 109 S. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/101#xywh=1302,1057,570,35",
+      "id": "https://hadro.github.io/woods-directory/0101_service:rbc:lcrbmrp:t8074:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "White Star Cleaning & Pressing Club — 339 Burgundy Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/101#xywh=273,1185,776,37",
+      "id": "https://hadro.github.io/woods-directory/0101_service:rbc:lcrbmrp:t8074:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Excelsior Pressing Club — 934 N. Robertson Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/101#xywh=1298,1275,578,35",
+      "id": "https://hadro.github.io/woods-directory/0101_service:rbc:lcrbmrp:t8074:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Arthur Wilson — 619 Commercial Place",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/101#xywh=1290,1398,599,37",
+      "id": "https://hadro.github.io/woods-directory/0101_service:rbc:lcrbmrp:t8074:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Idaho Pressing Club — 1636 Toledano Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/101#xywh=1334,1489,499,37",
+      "id": "https://hadro.github.io/woods-directory/0101_service:rbc:lcrbmrp:t8074:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Two Brothers' Pressing Club — 702 Julia Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/101#xywh=1178,1612,821,42",
+      "id": "https://hadro.github.io/woods-directory/0101_service:rbc:lcrbmrp:t8074:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The \"Logical Point\" Cleaning and Pressing Club — 1521 N. Dupre St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/101#xywh=1152,1704,877,38",
+      "id": "https://hadro.github.io/woods-directory/0101_service:rbc:lcrbmrp:t8074:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Penny Store — Lapeyrouse Street, Corner Prieur",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/101#xywh=407,2070,1431,256",
+      "id": "https://hadro.github.io/woods-directory/0101_service:rbc:lcrbmrp:t8074:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/101#xywh=241,3327,1766,39",
+      "id": "https://hadro.github.io/woods-directory/0101_service:rbc:lcrbmrp:t8074:032_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0101_service:rbc:lcrbmrp:t8074:032_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

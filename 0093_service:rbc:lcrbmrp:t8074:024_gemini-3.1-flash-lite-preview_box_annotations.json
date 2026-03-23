@@ -1,0 +1,117 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Allen T. Woods — 1823 Seventh Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/93#xywh=440,701,385,35",
+      "id": "https://hadro.github.io/woods-directory/0093_service:rbc:lcrbmrp:t8074:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Frank Adams — 2914 Washington Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/93#xywh=476,1099,315,34",
+      "id": "https://hadro.github.io/woods-directory/0093_service:rbc:lcrbmrp:t8074:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Edward Gaudet — 4738 Magazine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/93#xywh=458,1381,355,35",
+      "id": "https://hadro.github.io/woods-directory/0093_service:rbc:lcrbmrp:t8074:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Edward J. Langhorne — 2220 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/93#xywh=386,1563,500,39",
+      "id": "https://hadro.github.io/woods-directory/0093_service:rbc:lcrbmrp:t8074:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Powells Ball-Bearing Auto Creeper — 702 Julia Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/93#xywh=1170,669,792,37",
+      "id": "https://hadro.github.io/woods-directory/0093_service:rbc:lcrbmrp:t8074:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Emile G. Reiss — 1522 Mandeville Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/93#xywh=1203,929,728,39",
+      "id": "https://hadro.github.io/woods-directory/0093_service:rbc:lcrbmrp:t8074:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "De Verges Orchestra — 3902 Perrier Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/93#xywh=1319,1189,497,37",
+      "id": "https://hadro.github.io/woods-directory/0093_service:rbc:lcrbmrp:t8074:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Excelsior Brass Band & Orchestra — 1804 St. Anthony Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/93#xywh=1175,1359,781,39",
+      "id": "https://hadro.github.io/woods-directory/0093_service:rbc:lcrbmrp:t8074:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Louisiana Orchestra — 1035 Touro Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/93#xywh=1338,1527,460,35",
+      "id": "https://hadro.github.io/woods-directory/0093_service:rbc:lcrbmrp:t8074:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/93#xywh=217,3297,1764,39",
+      "id": "https://hadro.github.io/woods-directory/0093_service:rbc:lcrbmrp:t8074:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0093_service:rbc:lcrbmrp:t8074:024_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

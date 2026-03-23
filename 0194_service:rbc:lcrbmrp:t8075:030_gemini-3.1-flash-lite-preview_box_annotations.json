@@ -1,0 +1,348 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "GUIDING STAR LODGE No. 176 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=245,334,881,37",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LINCOLN LODGE No. 179 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=248,516,881,36",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "DAVID LODGE No. 187 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=248,697,881,37",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "MONMOTH LODGE No. 190 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=251,878,878,35",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "PROCLES LODGE No. 193 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=251,1057,878,38",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "NAXILLUS LODGE No. 194 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=253,1236,873,43",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "DAMON CORD OF LOVE — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=251,1739,881,34",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "STAR OF CALANTHE — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=254,1875,876,36",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "SISTERS OF SYRACUSE — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=251,2055,879,34",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "DIAMOND STONE LODGE No. 7334 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=254,2336,875,34",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "JOHN AND JACOB LODGE No. 2482 — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=255,2697,871,36",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "ORLEANS PATRIARCHY No. 7 — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=254,3059,878,35",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LOUISIANA PATRIARCHY No. 7334 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=254,3194,875,37",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "BUTLER LODGE No. 1336 — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=1240,330,886,42",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "EMBLEM PROGRESS LODGE No. 1507 — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=1248,478,880,43",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "P. G. M. COUNCIL — Corner Homer and Verret streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=1248,614,876,49",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "P. G. AND M. COUNCIL No. 30 — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=1248,748,880,50",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "PRIDE OF LOUISIANA No. 1529 — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=1253,898,875,41",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "O. P. DUNN LODGE No. 1548 — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=1248,1045,880,44",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "CRESCENT LODGE No. 1646 — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=1252,1191,878,45",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "PRIDE OF JEFFERSON LODGE No. 1679 — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=1252,1328,881,45",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "PRIDE OF NEWCOMB — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=1254,1465,870,41",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "PRIDE OF ORLEANS — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=1254,1602,874,40",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LA CREOLE LODGE No. 1918 — Masonic and Odd Fellows Hall, 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=1254,1778,875,49",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "ISRAEL LODGE No. 1971 — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=1254,2191,880,40",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "MAGNOLIA LODGE 1990 — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=1257,2324,877,44",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "MT. CATHERINE LODGE No. 5743 — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=1257,2462,877,44",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "NEWCOMB LODGE No. 7023 — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=1257,2596,871,44",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "GOOD INTENT LODGE — Corner Homer and Verret streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=1256,2963,873,36",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "BROOKLYN LODGE — Corner Homer and Verret streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=1257,3098,873,37",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "RELIEF, H. H. R. — Corner Homer and Verret streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/194#xywh=1257,3233,880,44",
+      "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/30"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0194_service:rbc:lcrbmrp:t8075:030_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

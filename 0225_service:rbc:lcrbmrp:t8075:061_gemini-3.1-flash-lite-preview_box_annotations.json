@@ -1,0 +1,62 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Simeons Sign Studio — 149 Elk Place",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/225#xywh=1781,964,477,47",
+      "id": "https://hadro.github.io/woods-directory/0225_service:rbc:lcrbmrp:t8075:061_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Floyd Studio — 2125 Dryades Street (Near Jackson Avenue)",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/225#xywh=626,1199,1429,176",
+      "id": "https://hadro.github.io/woods-directory/0225_service:rbc:lcrbmrp:t8075:061_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. E. Roberson — 2418 South Liberty Street, New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/225#xywh=494,1877,1713,178",
+      "id": "https://hadro.github.io/woods-directory/0225_service:rbc:lcrbmrp:t8075:061_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Welch's Frame Shop — 3814 Perrier Street, New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/225#xywh=560,2642,628,48",
+      "id": "https://hadro.github.io/woods-directory/0225_service:rbc:lcrbmrp:t8075:061_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Patrick Prescott — 336 Bourbon Street, New Orleans",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/225#xywh=575,2777,587,98",
+      "id": "https://hadro.github.io/woods-directory/0225_service:rbc:lcrbmrp:t8075:061_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0225_service:rbc:lcrbmrp:t8075:061_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

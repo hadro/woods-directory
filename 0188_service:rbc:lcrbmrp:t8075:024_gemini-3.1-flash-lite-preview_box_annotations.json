@@ -1,0 +1,370 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Longshoremen Protective Union B. A. — 2059 Jackson avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=274,1928,276,31",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Love and Friendship — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=228,886,878,35",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Love and Friendship B. A. — Coliseum near Valence",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=228,1067,881,34",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "L'Utilite B. A. — 1816 N. Robertson street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=228,1204,878,35",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Male and Female B. A. — Coliseum near Valence",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=228,1291,878,38",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Men's Friendship B. A. — 2241 S. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=234,1429,866,34",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Modesty B. A. — 1816 N. Robertson street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=230,1562,875,41",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Morning Glory B. A. — 922 N. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=228,1651,879,42",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Myrtle Wreath Building Committee — 2418 Louisiana avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=510,178,1324,47",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Daughters of Zion B. A. — 219 N. Derbigny street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=228,1965,881,44",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "New Ladies St. Michael B. A. — 922 N. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=225,2509,886,43",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Orleans Progress — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=225,2643,880,46",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Plasterers' Local — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=221,2781,879,42",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Prince of Peace B. A. — Coliseum near Valence",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=226,2916,876,40",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Progressive Friends B. A. — Friends of Hope Hall, 922 N. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=221,3050,879,45",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Providence B. A. — 1422 Ursuline street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=1224,526,886,50",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Andrews Society — 919 Cambronne street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=1227,617,883,46",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Ann B. A. — 1607 St. Philip street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=1230,752,885,51",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Anthony B. A. — 1479 N. Robertson street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=1225,841,884,51",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Barbe B. A. — 1607 St. Philip street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=1228,976,881,51",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Clotilde B. A. — 1607 St. Philip street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=1228,1066,881,54",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Dominic B. A. — 919 Cambronne street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=1230,1158,876,48",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Dominic's Willing Workers — 919 Cambronne street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=1227,1295,879,47",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Elizabeth B. A. — Camp near Valence streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=1228,1431,879,48",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Francis D'Assisse B. A. — 922 N. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=1227,1566,879,45",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Helene B. A. — 1479 N. Robertson street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=1230,1700,879,50",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Marguerite B. A. — 1479 N. Robertson street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=1227,1838,879,46",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Salvator B. A. — 1422 Ursuline street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=1225,1974,879,47",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Scalemen B. A. — 1422 Ursuline street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=1225,2109,881,47",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Screwmen B. A. — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=1224,2245,877,46",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Security B. M. A. A. — 1460 N. Derbigny street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=1224,2697,871,41",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Seven Stars of Consolidation — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=1222,2833,873,39",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Seventh Ward Educational League — 1460 N. Derbigny street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/188#xywh=1265,3104,834,43",
+      "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json/entry/32"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0188_service:rbc:lcrbmrp:t8075:024_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

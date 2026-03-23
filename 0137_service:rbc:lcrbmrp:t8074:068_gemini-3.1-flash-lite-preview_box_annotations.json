@@ -1,0 +1,172 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. M. Jones — 2221 Third Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/137#xywh=456,340,297,35",
+      "id": "https://hadro.github.io/woods-directory/0137_service:rbc:lcrbmrp:t8074:068_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. Lang — 4601 Magazine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/137#xywh=496,510,213,36",
+      "id": "https://hadro.github.io/woods-directory/0137_service:rbc:lcrbmrp:t8074:068_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jos. Mitchell — 1557 Gasquet Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/137#xywh=446,680,319,38",
+      "id": "https://hadro.github.io/woods-directory/0137_service:rbc:lcrbmrp:t8074:068_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Henry J. Pearl — 2139 Delachaise Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/137#xywh=422,850,371,38",
+      "id": "https://hadro.github.io/woods-directory/0137_service:rbc:lcrbmrp:t8074:068_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "John Peterson — 1910 Constantinople Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/137#xywh=430,1022,351,34",
+      "id": "https://hadro.github.io/woods-directory/0137_service:rbc:lcrbmrp:t8074:068_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. H. Petty — 3000 Nashville Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/137#xywh=462,1190,293,38",
+      "id": "https://hadro.github.io/woods-directory/0137_service:rbc:lcrbmrp:t8074:068_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Emile A. Richardson — 2125 Toledano Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/137#xywh=358,1403,498,41",
+      "id": "https://hadro.github.io/woods-directory/0137_service:rbc:lcrbmrp:t8074:068_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Smith & Bradley — 128 N. Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/137#xywh=1331,343,407,42",
+      "id": "https://hadro.github.io/woods-directory/0137_service:rbc:lcrbmrp:t8074:068_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. Smith — 128 N. Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/137#xywh=1415,513,240,41",
+      "id": "https://hadro.github.io/woods-directory/0137_service:rbc:lcrbmrp:t8074:068_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Albert Toca — Corner Annette and Urquhart Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/137#xywh=1385,686,302,38",
+      "id": "https://hadro.github.io/woods-directory/0137_service:rbc:lcrbmrp:t8074:068_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Thos. Williams — 2304 First Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/137#xywh=1353,900,366,38",
+      "id": "https://hadro.github.io/woods-directory/0137_service:rbc:lcrbmrp:t8074:068_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. D. Wilson — 2233 First Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/137#xywh=1379,1071,315,39",
+      "id": "https://hadro.github.io/woods-directory/0137_service:rbc:lcrbmrp:t8074:068_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "H. J. Moore — 2725 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/137#xywh=1385,1241,304,38",
+      "id": "https://hadro.github.io/woods-directory/0137_service:rbc:lcrbmrp:t8074:068_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "H. Geo. Davenport — 2723 Baronne Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/137#xywh=386,2902,1383,117",
+      "id": "https://hadro.github.io/woods-directory/0137_service:rbc:lcrbmrp:t8074:068_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/137#xywh=199,3296,1755,60",
+      "id": "https://hadro.github.io/woods-directory/0137_service:rbc:lcrbmrp:t8074:068_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0137_service:rbc:lcrbmrp:t8074:068_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

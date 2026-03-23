@@ -1,0 +1,161 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/234#xywh=275,172,1777,36",
+      "id": "https://hadro.github.io/woods-directory/0234_service:rbc:lcrbmrp:t8075:070_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Grace D. Brooks — 2418 S. Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/234#xywh=431,373,524,33",
+      "id": "https://hadro.github.io/woods-directory/0234_service:rbc:lcrbmrp:t8075:070_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "R. Caldwell — 2013-2015 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/234#xywh=550,634,282,34",
+      "id": "https://hadro.github.io/woods-directory/0234_service:rbc:lcrbmrp:t8075:070_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. C. J. Sylvester — 2623 Banks Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/234#xywh=452,803,486,39",
+      "id": "https://hadro.github.io/woods-directory/0234_service:rbc:lcrbmrp:t8075:070_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Roscoe Williams — 3419 Saratoga Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/234#xywh=495,1120,394,35",
+      "id": "https://hadro.github.io/woods-directory/0234_service:rbc:lcrbmrp:t8075:070_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Logical Point Horse Clipping Shop — S. Rampart, cor. Washington Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/234#xywh=294,1381,797,39",
+      "id": "https://hadro.github.io/woods-directory/0234_service:rbc:lcrbmrp:t8075:070_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. P. Brown — 730 Louisiana Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/234#xywh=533,1640,311,35",
+      "id": "https://hadro.github.io/woods-directory/0234_service:rbc:lcrbmrp:t8075:070_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cobette & Poche — 411 N. Peters St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/234#xywh=489,1810,402,35",
+      "id": "https://hadro.github.io/woods-directory/0234_service:rbc:lcrbmrp:t8075:070_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "L. P. Dupre and D. Dupre — 2009 Valence Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/234#xywh=388,2004,604,39",
+      "id": "https://hadro.github.io/woods-directory/0234_service:rbc:lcrbmrp:t8075:070_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "George U. Maury — 1611 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/234#xywh=478,2378,425,36",
+      "id": "https://hadro.github.io/woods-directory/0234_service:rbc:lcrbmrp:t8075:070_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "C. Wilson — Corner Short and Hickory",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/234#xywh=571,2603,238,32",
+      "id": "https://hadro.github.io/woods-directory/0234_service:rbc:lcrbmrp:t8075:070_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Astoria Hotel and Restaurant — 235-237 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/234#xywh=321,2932,741,32",
+      "id": "https://hadro.github.io/woods-directory/0234_service:rbc:lcrbmrp:t8075:070_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago Hotel and Restaurant — 204-206 S. Rampart",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/234#xywh=344,3147,693,36",
+      "id": "https://hadro.github.io/woods-directory/0234_service:rbc:lcrbmrp:t8075:070_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Woods Directory — 1823 Seventh Street, New Orleans",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/234#xywh=1228,2287,847,36",
+      "id": "https://hadro.github.io/woods-directory/0234_service:rbc:lcrbmrp:t8075:070_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0234_service:rbc:lcrbmrp:t8075:070_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

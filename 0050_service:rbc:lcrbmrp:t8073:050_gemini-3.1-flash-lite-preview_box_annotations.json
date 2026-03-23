@@ -1,0 +1,51 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "D. W. Dooley — 2815 South Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/50#xywh=1273,1341,715,71",
+      "id": "https://hadro.github.io/woods-directory/0050_service:rbc:lcrbmrp:t8073:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Velvet Ice Cream Manufactory — 2126 Melpomene St., corner So. Franklin",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/50#xywh=401,549,1545,89",
+      "id": "https://hadro.github.io/woods-directory/0050_service:rbc:lcrbmrp:t8073:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Joseph Narcisse — 930 Kerlerec St., New Orleans",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/50#xywh=299,1187,796,85",
+      "id": "https://hadro.github.io/woods-directory/0050_service:rbc:lcrbmrp:t8073:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Nelson Drug Store — Corner Oak and Joliet Streets, New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/50#xywh=285,1996,1754,157",
+      "id": "https://hadro.github.io/woods-directory/0050_service:rbc:lcrbmrp:t8073:050_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0050_service:rbc:lcrbmrp:t8073:050_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

@@ -1,0 +1,51 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Joseph Wilkins — 121 N. Derbigny Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/267#xywh=763,284,1163,156",
+      "id": "https://hadro.github.io/woods-directory/0267_service:rbc:lcrbmrp:t8075:103_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Clement Charbonnet — 2645 Governor Nichols Street, New Orleans, LA",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/267#xywh=413,1079,1873,179",
+      "id": "https://hadro.github.io/woods-directory/0267_service:rbc:lcrbmrp:t8075:103_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Capt. W. T. M. Grant, Sr. — 331 Carondelet Street 3rd Floor, New Orleans, LA",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/267#xywh=631,2036,1447,110",
+      "id": "https://hadro.github.io/woods-directory/0267_service:rbc:lcrbmrp:t8075:103_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jno. Cooil, Lee Washington — 1819 General Taylor St. and 2617 Saratoga Street, New Orleans, LA",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/267#xywh=1453,2613,755,86",
+      "id": "https://hadro.github.io/woods-directory/0267_service:rbc:lcrbmrp:t8075:103_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0267_service:rbc:lcrbmrp:t8075:103_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

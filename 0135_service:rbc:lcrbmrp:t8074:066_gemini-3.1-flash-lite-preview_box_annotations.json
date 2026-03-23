@@ -1,0 +1,326 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alex. Dubois — 210 S. Roman Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/135#xywh=464,358,315,36",
+      "id": "https://hadro.github.io/woods-directory/0135_service:rbc:lcrbmrp:t8074:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Gustave Morales — 1423 St. Claude Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/135#xywh=418,527,416,41",
+      "id": "https://hadro.github.io/woods-directory/0135_service:rbc:lcrbmrp:t8074:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. Reshord — Lincoln Park, Carrollton Avenue and Oleander Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/135#xywh=486,700,274,38",
+      "id": "https://hadro.github.io/woods-directory/0135_service:rbc:lcrbmrp:t8074:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. Silvau, Sr. — 807 Howard Avenue; Residence: 2714 Second Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/135#xywh=470,918,317,36",
+      "id": "https://hadro.github.io/woods-directory/0135_service:rbc:lcrbmrp:t8074:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Harry Steele & Sons — 1919 First St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/135#xywh=365,1226,512,36",
+      "id": "https://hadro.github.io/woods-directory/0135_service:rbc:lcrbmrp:t8074:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Blandin-LeBlanc Co., Ltd. — 1137 Hospital St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/135#xywh=258,1564,756,38",
+      "id": "https://hadro.github.io/woods-directory/0135_service:rbc:lcrbmrp:t8074:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Boyer & Taylor Co., Ltd. — 1309 St. Philip St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/135#xywh=300,1734,648,40",
+      "id": "https://hadro.github.io/woods-directory/0135_service:rbc:lcrbmrp:t8074:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Geo. D. Geddes Undertaking and Embalming Company — 2826 S. Rampart",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/135#xywh=232,1904,792,36",
+      "id": "https://hadro.github.io/woods-directory/0135_service:rbc:lcrbmrp:t8074:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Geddes & Moss — 2128 Jackson Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/135#xywh=427,2073,393,39",
+      "id": "https://hadro.github.io/woods-directory/0135_service:rbc:lcrbmrp:t8074:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Daniel E. Henderson — 324 Diana Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/135#xywh=365,2243,516,39",
+      "id": "https://hadro.github.io/woods-directory/0135_service:rbc:lcrbmrp:t8074:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Emile Labat — N. Rampart and Barracks Sts.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/135#xywh=460,2458,320,38",
+      "id": "https://hadro.github.io/woods-directory/0135_service:rbc:lcrbmrp:t8074:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Oscar L. Muh — 1016 Touro St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/135#xywh=433,2718,372,36",
+      "id": "https://hadro.github.io/woods-directory/0135_service:rbc:lcrbmrp:t8074:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "D. W. Rhodes — 1426-1428 Perdido Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/135#xywh=449,2888,336,36",
+      "id": "https://hadro.github.io/woods-directory/0135_service:rbc:lcrbmrp:t8074:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Henry Armand — 1514 N. Roman St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/135#xywh=1370,364,365,39",
+      "id": "https://hadro.github.io/woods-directory/0135_service:rbc:lcrbmrp:t8074:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Green Andrews — 2026 Painter Street; Stand: Iberville and Bourbon Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/135#xywh=1366,531,375,44",
+      "id": "https://hadro.github.io/woods-directory/0135_service:rbc:lcrbmrp:t8074:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "John Armstrong — 713 Upperline Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/135#xywh=1353,748,394,43",
+      "id": "https://hadro.github.io/woods-directory/0135_service:rbc:lcrbmrp:t8074:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "H. Bernard — 2617 Conti Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/135#xywh=1401,918,298,42",
+      "id": "https://hadro.github.io/woods-directory/0135_service:rbc:lcrbmrp:t8074:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "O. R. Brown — 400 Austerlitz Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/135#xywh=1392,1087,318,44",
+      "id": "https://hadro.github.io/woods-directory/0135_service:rbc:lcrbmrp:t8074:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Henry Butler — 1800 Dryades Street; Stand: Felicity and Dryades Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/135#xywh=1378,1261,347,38",
+      "id": "https://hadro.github.io/woods-directory/0135_service:rbc:lcrbmrp:t8074:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Central Furniture Transfer Co. — 2400 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/135#xywh=1169,1518,763,39",
+      "id": "https://hadro.github.io/woods-directory/0135_service:rbc:lcrbmrp:t8074:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Scott Claiborne — 2530 Delachaise Street; Stand: Corner Felicity and Dryades",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/135#xywh=1361,1689,379,35",
+      "id": "https://hadro.github.io/woods-directory/0135_service:rbc:lcrbmrp:t8074:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Joe Davis — 2219 Philip Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/135#xywh=1419,1904,257,36",
+      "id": "https://hadro.github.io/woods-directory/0135_service:rbc:lcrbmrp:t8074:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Wm. Duplessis — 2217 Upperline Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/135#xywh=1359,2073,372,39",
+      "id": "https://hadro.github.io/woods-directory/0135_service:rbc:lcrbmrp:t8074:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fred. Edinburgh — 1919 St. Andrew Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/135#xywh=1343,2243,405,36",
+      "id": "https://hadro.github.io/woods-directory/0135_service:rbc:lcrbmrp:t8074:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "L. Evans — 328 S. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/135#xywh=1428,2410,238,42",
+      "id": "https://hadro.github.io/woods-directory/0135_service:rbc:lcrbmrp:t8074:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Joseph Francisco — 2021 Amelia Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/135#xywh=1337,2580,420,36",
+      "id": "https://hadro.github.io/woods-directory/0135_service:rbc:lcrbmrp:t8074:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "M. J. Frazier — 2225 Bourbon Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/135#xywh=1376,2750,347,36",
+      "id": "https://hadro.github.io/woods-directory/0135_service:rbc:lcrbmrp:t8074:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. D. Hayden — 1921 Toledano Street; Stand: 112 Carondelet Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/135#xywh=1385,2916,319,43",
+      "id": "https://hadro.github.io/woods-directory/0135_service:rbc:lcrbmrp:t8074:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/135#xywh=1255,2501,585,35",
+      "id": "https://hadro.github.io/woods-directory/0135_service:rbc:lcrbmrp:t8074:066_gemini-3.1-flash-lite-preview_box_annotations.json/entry/28"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0135_service:rbc:lcrbmrp:t8074:066_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

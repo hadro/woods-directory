@@ -1,0 +1,139 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/252#xywh=307,195,1774,43",
+      "id": "https://hadro.github.io/woods-directory/0252_service:rbc:lcrbmrp:t8075:088_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Messenger Office Job Printing — 1013 Julia Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/252#xywh=322,400,818,39",
+      "id": "https://hadro.github.io/woods-directory/0252_service:rbc:lcrbmrp:t8075:088_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Optic Printing House — 1940 Philip Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/252#xywh=474,570,504,39",
+      "id": "https://hadro.github.io/woods-directory/0252_service:rbc:lcrbmrp:t8075:088_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Orleans Printing Co. — 149-151 Elk Place",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/252#xywh=476,739,496,37",
+      "id": "https://hadro.github.io/woods-directory/0252_service:rbc:lcrbmrp:t8075:088_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Paragon Printshop — 2850 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/252#xywh=770,1619,862,49",
+      "id": "https://hadro.github.io/woods-directory/0252_service:rbc:lcrbmrp:t8075:088_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Phoenix Printery — 1009 Gravier Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/252#xywh=755,2762,1361,85",
+      "id": "https://hadro.github.io/woods-directory/0252_service:rbc:lcrbmrp:t8075:088_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "San Jacinto Press — 221 S. Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/252#xywh=1450,734,419,37",
+      "id": "https://hadro.github.io/woods-directory/0252_service:rbc:lcrbmrp:t8075:088_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Straight University — 2420 Canal Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/252#xywh=331,1105,1727,125",
+      "id": "https://hadro.github.io/woods-directory/0252_service:rbc:lcrbmrp:t8075:088_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Master Tailors — 109 S. Claiborne Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/252#xywh=295,1963,876,58",
+      "id": "https://hadro.github.io/woods-directory/0252_service:rbc:lcrbmrp:t8075:088_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fine Shoes — 1035 Kerlerec Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/252#xywh=1426,2485,489,44",
+      "id": "https://hadro.github.io/woods-directory/0252_service:rbc:lcrbmrp:t8075:088_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Phenix Printery — 309 Dryades St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/252#xywh=443,2684,364,42",
+      "id": "https://hadro.github.io/woods-directory/0252_service:rbc:lcrbmrp:t8075:088_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Joe Narcisse",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/252#xywh=1267,1869,791,86",
+      "id": "https://hadro.github.io/woods-directory/0252_service:rbc:lcrbmrp:t8075:088_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0252_service:rbc:lcrbmrp:t8075:088_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "M. R. Hite — 4616 S. Liberty Street, New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/247#xywh=1286,355,1049,197",
+      "id": "https://hadro.github.io/woods-directory/0247_service:rbc:lcrbmrp:t8075:083_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0247_service:rbc:lcrbmrp:t8075:083_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

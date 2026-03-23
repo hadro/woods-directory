@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bank of Mound Bayou — Mound Bayou, Miss.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/49#xywh=608,2343,1756,142",
+      "id": "https://hadro.github.io/woods-directory/0049_service:rbc:lcrbmrp:t8073:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "F. A. Mix — 1000 Perdido St., New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/49#xywh=1179,3275,591,61",
+      "id": "https://hadro.github.io/woods-directory/0049_service:rbc:lcrbmrp:t8073:049_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0049_service:rbc:lcrbmrp:t8073:049_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

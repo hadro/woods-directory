@@ -1,0 +1,40 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Joseph Dejoie's Cut-Rate Pharmacy — Cor. Seventh and S. Rampart Sts.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/104#xywh=563,511,1761,68",
+      "id": "https://hadro.github.io/woods-directory/0104_service:rbc:lcrbmrp:t8074:035_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Creighton's Imperial Drug Store — Cor. S. Franklin and Terpsichore Streets, New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/104#xywh=897,1234,1133,98",
+      "id": "https://hadro.github.io/woods-directory/0104_service:rbc:lcrbmrp:t8074:035_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Nelson Drug Store — Cor. Oak and Joliet Sts., New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/104#xywh=628,1860,1661,140",
+      "id": "https://hadro.github.io/woods-directory/0104_service:rbc:lcrbmrp:t8074:035_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0104_service:rbc:lcrbmrp:t8074:035_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

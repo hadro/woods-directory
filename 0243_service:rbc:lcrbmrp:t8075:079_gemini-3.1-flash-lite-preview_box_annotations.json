@@ -1,0 +1,18 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "James S. White Company — Knickerbocker Building, 178 Tremont Street, Boston, Mass.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/243#xywh=496,1911,1689,65",
+      "id": "https://hadro.github.io/woods-directory/0243_service:rbc:lcrbmrp:t8075:079_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0243_service:rbc:lcrbmrp:t8075:079_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

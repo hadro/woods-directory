@@ -1,0 +1,260 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. Thos. H. Mims — 2624 Tulane Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/107#xywh=395,373,488,34",
+      "id": "https://hadro.github.io/woods-directory/0107_service:rbc:lcrbmrp:t8074:038_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "I. E. Mullon, M. D. — 405 Pythian Temple, Gravier and Saratoga Sts.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/107#xywh=401,864,471,37",
+      "id": "https://hadro.github.io/woods-directory/0107_service:rbc:lcrbmrp:t8074:038_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. T. Newman, M. D. — 1402 Canal Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/107#xywh=382,1123,570,40",
+      "id": "https://hadro.github.io/woods-directory/0107_service:rbc:lcrbmrp:t8074:038_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. J. W. Thomas — 120 S. Robertson Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/107#xywh=421,1522,437,35",
+      "id": "https://hadro.github.io/woods-directory/0107_service:rbc:lcrbmrp:t8074:038_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. E. Chas. Thornhill — Baumann's Pharmacy, Third and Howard Sts.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/107#xywh=348,1780,588,38",
+      "id": "https://hadro.github.io/woods-directory/0107_service:rbc:lcrbmrp:t8074:038_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chas. W. Vance, M. D. — 1309 St. Anthony Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/107#xywh=362,2223,553,38",
+      "id": "https://hadro.github.io/woods-directory/0107_service:rbc:lcrbmrp:t8074:038_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "R. J. Vining, M. D. — 3000 South Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/107#xywh=404,2618,465,38",
+      "id": "https://hadro.github.io/woods-directory/0107_service:rbc:lcrbmrp:t8074:038_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "P. O. Wailes, M. D. — Green's Drug Store, 1225 Teche Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/107#xywh=389,2844,486,35",
+      "id": "https://hadro.github.io/woods-directory/0107_service:rbc:lcrbmrp:t8074:038_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "John V. Harris & Son — 2425 Conti Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/107#xywh=1306,415,529,42",
+      "id": "https://hadro.github.io/woods-directory/0107_service:rbc:lcrbmrp:t8074:038_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alfred Williams — 226 Decatur Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/107#xywh=1375,633,405,39",
+      "id": "https://hadro.github.io/woods-directory/0107_service:rbc:lcrbmrp:t8074:038_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Elizabeth Armstrong — 2118 Seventh Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/107#xywh=1255,940,625,38",
+      "id": "https://hadro.github.io/woods-directory/0107_service:rbc:lcrbmrp:t8074:038_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lizzie M. Banks — 8439 Poplar Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/107#xywh=1365,1109,404,38",
+      "id": "https://hadro.github.io/woods-directory/0107_service:rbc:lcrbmrp:t8074:038_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. N. B. Bell — 1712 Iberville Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/107#xywh=1380,1280,372,35",
+      "id": "https://hadro.github.io/woods-directory/0107_service:rbc:lcrbmrp:t8074:038_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bernedette E. Boucree — 4830 Perrier St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/107#xywh=1292,1492,552,42",
+      "id": "https://hadro.github.io/woods-directory/0107_service:rbc:lcrbmrp:t8074:038_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Oliva Boutta-Gauff — 1119 Dufossat Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/107#xywh=1283,1664,571,34",
+      "id": "https://hadro.github.io/woods-directory/0107_service:rbc:lcrbmrp:t8074:038_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Mary M. Bryant — 338 Audubon Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/107#xywh=1311,1836,513,37",
+      "id": "https://hadro.github.io/woods-directory/0107_service:rbc:lcrbmrp:t8074:038_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Marie Campher — 4520 Constance Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/107#xywh=1317,2005,500,37",
+      "id": "https://hadro.github.io/woods-directory/0107_service:rbc:lcrbmrp:t8074:038_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Alice Carrington — 2613 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/107#xywh=1301,2174,533,38",
+      "id": "https://hadro.github.io/woods-directory/0107_service:rbc:lcrbmrp:t8074:038_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. A. V. Coleman — 2027 Sixth Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/107#xywh=1318,2344,492,38",
+      "id": "https://hadro.github.io/woods-directory/0107_service:rbc:lcrbmrp:t8074:038_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. N. J. Dennis — 2529 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/107#xywh=1337,2514,463,35",
+      "id": "https://hadro.github.io/woods-directory/0107_service:rbc:lcrbmrp:t8074:038_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Geo. Dubuclet — 1028 Orleans Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/107#xywh=1337,2682,457,35",
+      "id": "https://hadro.github.io/woods-directory/0107_service:rbc:lcrbmrp:t8074:038_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Natille R. Duncan — 2116 Second Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/107#xywh=1278,2851,569,38",
+      "id": "https://hadro.github.io/woods-directory/0107_service:rbc:lcrbmrp:t8074:038_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. L. Duvernay — 2033 Seventh Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/107#xywh=1357,3021,411,34",
+      "id": "https://hadro.github.io/woods-directory/0107_service:rbc:lcrbmrp:t8074:038_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0107_service:rbc:lcrbmrp:t8074:038_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

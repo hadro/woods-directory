@@ -1,0 +1,139 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/222#xywh=302,198,1779,39",
+      "id": "https://hadro.github.io/woods-directory/0222_service:rbc:lcrbmrp:t8075:058_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Nelson Drug Store — Cor. Oak and Joliet",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/222#xywh=448,395,574,43",
+      "id": "https://hadro.github.io/woods-directory/0222_service:rbc:lcrbmrp:t8075:058_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "People's Drug Store — 624 Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/222#xywh=484,568,470,38",
+      "id": "https://hadro.github.io/woods-directory/0222_service:rbc:lcrbmrp:t8075:058_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "20th Century Educational and Industrial Congress — 2823 Howard Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/222#xywh=447,986,552,36",
+      "id": "https://hadro.github.io/woods-directory/0222_service:rbc:lcrbmrp:t8075:058_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Edw. Collins — 1631 Nunez Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/222#xywh=570,1219,301,35",
+      "id": "https://hadro.github.io/woods-directory/0222_service:rbc:lcrbmrp:t8075:058_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Theo. Evans — 131 S. Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/222#xywh=572,1389,297,35",
+      "id": "https://hadro.github.io/woods-directory/0222_service:rbc:lcrbmrp:t8075:058_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "David W. McKay — 2109 Delachaise Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/222#xywh=508,1558,433,39",
+      "id": "https://hadro.github.io/woods-directory/0222_service:rbc:lcrbmrp:t8075:058_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Leona Kohlman — 410 Homer Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/222#xywh=1404,409,498,34",
+      "id": "https://hadro.github.io/woods-directory/0222_service:rbc:lcrbmrp:t8075:058_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Maude Kohlman — 410 Homer Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/222#xywh=1402,588,503,38",
+      "id": "https://hadro.github.io/woods-directory/0222_service:rbc:lcrbmrp:t8075:058_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Theresa Kohlman — 410 Homer Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/222#xywh=1391,783,525,34",
+      "id": "https://hadro.github.io/woods-directory/0222_service:rbc:lcrbmrp:t8075:058_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Colored Y. M. C. A. Employment Bureau — 2220 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/222#xywh=1264,1076,790,36",
+      "id": "https://hadro.github.io/woods-directory/0222_service:rbc:lcrbmrp:t8075:058_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Andrew Green Grocery Company, Ltd. — Corner THIRD AND HOWARD STREETS",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/222#xywh=450,2692,1468,147",
+      "id": "https://hadro.github.io/woods-directory/0222_service:rbc:lcrbmrp:t8075:058_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0222_service:rbc:lcrbmrp:t8075:058_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

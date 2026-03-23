@@ -1,0 +1,326 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Sarah Caston Olivier — 3218 Carondelet Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/109#xywh=331,351,608,35",
+      "id": "https://hadro.github.io/woods-directory/0109_service:rbc:lcrbmrp:t8074:040_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Margaret E. Palmer — 2203 Delechaise Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/109#xywh=331,567,605,38",
+      "id": "https://hadro.github.io/woods-directory/0109_service:rbc:lcrbmrp:t8074:040_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Emma A. Petty — 4823 Constance Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/109#xywh=387,738,501,37",
+      "id": "https://hadro.github.io/woods-directory/0109_service:rbc:lcrbmrp:t8074:040_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. P. Prescott — 3814 Perrier Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/109#xywh=435,909,399,35",
+      "id": "https://hadro.github.io/woods-directory/0109_service:rbc:lcrbmrp:t8074:040_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. A. L. Reese — 2823 Howard Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/109#xywh=427,1124,416,37",
+      "id": "https://hadro.github.io/woods-directory/0109_service:rbc:lcrbmrp:t8074:040_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Emma Rose-Harrall — 2722 Willow Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/109#xywh=346,1293,579,39",
+      "id": "https://hadro.github.io/woods-directory/0109_service:rbc:lcrbmrp:t8074:040_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Ella Lee Rose — 2318 Toledano Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/109#xywh=392,1462,492,41",
+      "id": "https://hadro.github.io/woods-directory/0109_service:rbc:lcrbmrp:t8074:040_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Mary Roussell — 2210 Louisiana Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/109#xywh=393,1633,486,37",
+      "id": "https://hadro.github.io/woods-directory/0109_service:rbc:lcrbmrp:t8074:040_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Josephine Scott-Jones — 1621 St. Philip Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/109#xywh=315,1803,638,38",
+      "id": "https://hadro.github.io/woods-directory/0109_service:rbc:lcrbmrp:t8074:040_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Bertha E. Steele — 1919 First Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/109#xywh=416,1973,438,37",
+      "id": "https://hadro.github.io/woods-directory/0109_service:rbc:lcrbmrp:t8074:040_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ida Sharpe — 227 S. Johnson Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/109#xywh=433,2142,398,39",
+      "id": "https://hadro.github.io/woods-directory/0109_service:rbc:lcrbmrp:t8074:040_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Florence Steele-Daniels — 2918 First Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/109#xywh=283,2312,704,37",
+      "id": "https://hadro.github.io/woods-directory/0109_service:rbc:lcrbmrp:t8074:040_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Misses Theriot — 1819 Fern Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/109#xywh=449,2482,363,37",
+      "id": "https://hadro.github.io/woods-directory/0109_service:rbc:lcrbmrp:t8074:040_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Cora Vignes-Wilson — 927 Bienville Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/109#xywh=323,2686,615,39",
+      "id": "https://hadro.github.io/woods-directory/0109_service:rbc:lcrbmrp:t8074:040_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Virginia Wethers — 2223 Clara Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/109#xywh=354,3003,545,38",
+      "id": "https://hadro.github.io/woods-directory/0109_service:rbc:lcrbmrp:t8074:040_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/109#xywh=208,3327,1767,45",
+      "id": "https://hadro.github.io/woods-directory/0109_service:rbc:lcrbmrp:t8074:040_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Lillie Williams — 617 Valmont Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/109#xywh=1320,354,495,45",
+      "id": "https://hadro.github.io/woods-directory/0109_service:rbc:lcrbmrp:t8074:040_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ethel Woods — 2420 Howard Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/109#xywh=1335,526,464,42",
+      "id": "https://hadro.github.io/woods-directory/0109_service:rbc:lcrbmrp:t8074:040_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Kate Young-Levy — 4218 Clara Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/109#xywh=1296,693,539,47",
+      "id": "https://hadro.github.io/woods-directory/0109_service:rbc:lcrbmrp:t8074:040_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Robert U. Barrois — St. Philip & Marais Sts.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/109#xywh=1341,954,446,44",
+      "id": "https://hadro.github.io/woods-directory/0109_service:rbc:lcrbmrp:t8074:040_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Albert Baumann — Third & Howard Sts.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/109#xywh=1362,1174,399,38",
+      "id": "https://hadro.github.io/woods-directory/0109_service:rbc:lcrbmrp:t8074:040_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Creighton's Imperial Drug Store — Corner S. Franklin & Terpsichore Sts.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/109#xywh=1171,1383,789,46",
+      "id": "https://hadro.github.io/woods-directory/0109_service:rbc:lcrbmrp:t8074:040_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jos. Dejoie — 3000 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/109#xywh=1424,1605,280,38",
+      "id": "https://hadro.github.io/woods-directory/0109_service:rbc:lcrbmrp:t8074:040_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LaBranche's Cut-Rate Pharmacy — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/109#xywh=1186,1815,748,44",
+      "id": "https://hadro.github.io/woods-directory/0109_service:rbc:lcrbmrp:t8074:040_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Nelson Drug Store — Cor. Oak & Joliet",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/109#xywh=1289,2033,541,42",
+      "id": "https://hadro.github.io/woods-directory/0109_service:rbc:lcrbmrp:t8074:040_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "People's Drug Store — 624 Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/109#xywh=1312,2201,496,44",
+      "id": "https://hadro.github.io/woods-directory/0109_service:rbc:lcrbmrp:t8074:040_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Rev. A. L. Reese — 2823 Howard Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/109#xywh=1334,2499,455,38",
+      "id": "https://hadro.github.io/woods-directory/0109_service:rbc:lcrbmrp:t8074:040_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Theo. Evans — 131 S. Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/109#xywh=1402,2792,308,37",
+      "id": "https://hadro.github.io/woods-directory/0109_service:rbc:lcrbmrp:t8074:040_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "David W. McKay — 2109 Delechaise Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/109#xywh=1353,2962,402,38",
+      "id": "https://hadro.github.io/woods-directory/0109_service:rbc:lcrbmrp:t8074:040_gemini-3.1-flash-lite-preview_box_annotations.json/entry/28"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0109_service:rbc:lcrbmrp:t8074:040_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

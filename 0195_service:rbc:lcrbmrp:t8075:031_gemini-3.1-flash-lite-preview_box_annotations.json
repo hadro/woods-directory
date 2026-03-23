@@ -1,0 +1,51 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Margaret M. Maurice — 1419 Burdette Street, New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/195#xywh=450,1595,1693,135",
+      "id": "https://hadro.github.io/woods-directory/0195_service:rbc:lcrbmrp:t8075:031_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "UNGER, MRS. LIZZIE — 1419 St. Ann street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/195#xywh=2481,3184,41,39",
+      "id": "https://hadro.github.io/woods-directory/0195_service:rbc:lcrbmrp:t8075:031_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "OFNER, MRS. LIZZIE — 1823 St. Bernard Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/195#xywh=2486,1764,36,42",
+      "id": "https://hadro.github.io/woods-directory/0195_service:rbc:lcrbmrp:t8075:031_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "BERNARD, MRS. LIZZIE — 1823 St. Bernard Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/195#xywh=2486,2264,36,42",
+      "id": "https://hadro.github.io/woods-directory/0195_service:rbc:lcrbmrp:t8075:031_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0195_service:rbc:lcrbmrp:t8075:031_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

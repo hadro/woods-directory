@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Antique Shop",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/92#xywh=688,1806,801,51",
+      "id": "https://hadro.github.io/woods-directory/0092_service:rbc:lcrbmrp:t8074:023_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Bru",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/92#xywh=1181,2503,1063,231",
+      "id": "https://hadro.github.io/woods-directory/0092_service:rbc:lcrbmrp:t8074:023_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0092_service:rbc:lcrbmrp:t8074:023_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

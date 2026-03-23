@@ -1,0 +1,260 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Augustine Eaves — 809 Jena Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/108#xywh=748,359,515,49",
+      "id": "https://hadro.github.io/woods-directory/0108_service:rbc:lcrbmrp:t8074:039_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. M. W. English — 1830 Toledano Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/108#xywh=759,528,472,47",
+      "id": "https://hadro.github.io/woods-directory/0108_service:rbc:lcrbmrp:t8074:039_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Mildred Ewell — 2025 First Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/108#xywh=778,697,462,48",
+      "id": "https://hadro.github.io/woods-directory/0108_service:rbc:lcrbmrp:t8074:039_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Fabiola E. Franklin — 2334 Iberville Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/108#xywh=703,861,621,57",
+      "id": "https://hadro.github.io/woods-directory/0108_service:rbc:lcrbmrp:t8074:039_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Victoria Gaspard — 1306 Frenchmen Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/108#xywh=757,1033,517,52",
+      "id": "https://hadro.github.io/woods-directory/0108_service:rbc:lcrbmrp:t8074:039_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mayme A. Gates — 1218 Adams Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/108#xywh=759,1207,552,45",
+      "id": "https://hadro.github.io/woods-directory/0108_service:rbc:lcrbmrp:t8074:039_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Laura Gauff-Watkins — 1119 Dufossat Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/108#xywh=711,1374,618,49",
+      "id": "https://hadro.github.io/woods-directory/0108_service:rbc:lcrbmrp:t8074:039_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Lettie Green — 112 N. Galvez Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/108#xywh=791,1545,458,44",
+      "id": "https://hadro.github.io/woods-directory/0108_service:rbc:lcrbmrp:t8074:039_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. D. P. Hale — 303 S. Roman Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/108#xywh=826,1715,394,40",
+      "id": "https://hadro.github.io/woods-directory/0108_service:rbc:lcrbmrp:t8074:039_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Lena Remy-Hernandez — 1119 Valence Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/108#xywh=700,1881,646,49",
+      "id": "https://hadro.github.io/woods-directory/0108_service:rbc:lcrbmrp:t8074:039_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Deborah Holt — 7320 Elm Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/108#xywh=796,2147,462,37",
+      "id": "https://hadro.github.io/woods-directory/0108_service:rbc:lcrbmrp:t8074:039_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Welch's Frame Shop — 336 Bourbon Street, New Orleans",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/108#xywh=671,2502,730,117",
+      "id": "https://hadro.github.io/woods-directory/0108_service:rbc:lcrbmrp:t8074:039_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Phille Jackson — 3109 S. Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/108#xywh=1697,339,513,42",
+      "id": "https://hadro.github.io/woods-directory/0108_service:rbc:lcrbmrp:t8074:039_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. W. A. Jackson — 927 Valence Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/108#xywh=1690,510,480,40",
+      "id": "https://hadro.github.io/woods-directory/0108_service:rbc:lcrbmrp:t8074:039_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. M. Johnson — 2230 Saratoga Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/108#xywh=1737,727,399,40",
+      "id": "https://hadro.github.io/woods-directory/0108_service:rbc:lcrbmrp:t8074:039_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Cecile Jones — 3412 Burdette Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/108#xywh=1730,897,419,37",
+      "id": "https://hadro.github.io/woods-directory/0108_service:rbc:lcrbmrp:t8074:039_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Ida R. Lee — 2119 Iberville Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/108#xywh=1740,1113,396,37",
+      "id": "https://hadro.github.io/woods-directory/0108_service:rbc:lcrbmrp:t8074:039_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Pauline Lee — 2119 Iberville Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/108#xywh=1740,1433,406,34",
+      "id": "https://hadro.github.io/woods-directory/0108_service:rbc:lcrbmrp:t8074:039_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Ella Martin — 3727 Willow Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/108#xywh=1751,1601,400,37",
+      "id": "https://hadro.github.io/woods-directory/0108_service:rbc:lcrbmrp:t8074:039_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Nellie Martin — 2316 Milan Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/108#xywh=1715,1771,464,37",
+      "id": "https://hadro.github.io/woods-directory/0108_service:rbc:lcrbmrp:t8074:039_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. M. C. Merritt — 3018 Saratoga Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/108#xywh=1737,1943,428,37",
+      "id": "https://hadro.github.io/woods-directory/0108_service:rbc:lcrbmrp:t8074:039_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Chas. Moore — 2529 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/108#xywh=1722,2114,451,36",
+      "id": "https://hadro.github.io/woods-directory/0108_service:rbc:lcrbmrp:t8074:039_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Robt. U. Barrois — Cor. St. Philip and Marais Sts., New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/108#xywh=1548,2576,802,65",
+      "id": "https://hadro.github.io/woods-directory/0108_service:rbc:lcrbmrp:t8074:039_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0108_service:rbc:lcrbmrp:t8074:039_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

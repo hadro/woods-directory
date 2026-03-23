@@ -1,0 +1,293 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/210#xywh=316,207,1783,44",
+      "id": "https://hadro.github.io/woods-directory/0210_service:rbc:lcrbmrp:t8075:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Geo. DeRoussell — 6049 Magazine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/210#xywh=550,409,384,34",
+      "id": "https://hadro.github.io/woods-directory/0210_service:rbc:lcrbmrp:t8075:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dorsey's Dry Cleaning and Pressing Works — 703 Teche Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/210#xywh=303,624,885,39",
+      "id": "https://hadro.github.io/woods-directory/0210_service:rbc:lcrbmrp:t8075:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Eagle Cleaning and Pressing Club — Clio and Howard Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/210#xywh=347,885,788,36",
+      "id": "https://hadro.github.io/woods-directory/0210_service:rbc:lcrbmrp:t8075:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Empire Dry Cleaning Works — 1729 St. Charles Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/210#xywh=400,1099,683,39",
+      "id": "https://hadro.github.io/woods-directory/0210_service:rbc:lcrbmrp:t8075:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "French Benzil Dry Cleaning Co. — 5010 Prytania Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/210#xywh=348,1313,784,39",
+      "id": "https://hadro.github.io/woods-directory/0210_service:rbc:lcrbmrp:t8075:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Economical Cleaning & Pressing Club — 2702 Milan Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/210#xywh=301,1527,882,39",
+      "id": "https://hadro.github.io/woods-directory/0210_service:rbc:lcrbmrp:t8075:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Economical Tailoring, Cleaning and Pressing — 238 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/210#xywh=319,1743,845,39",
+      "id": "https://hadro.github.io/woods-directory/0210_service:rbc:lcrbmrp:t8075:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Excelsior Pressing Club — 934 N. Robertson Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/210#xywh=454,2003,558,37",
+      "id": "https://hadro.github.io/woods-directory/0210_service:rbc:lcrbmrp:t8075:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. J. Fontenot — 4406 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/210#xywh=560,2217,340,36",
+      "id": "https://hadro.github.io/woods-directory/0210_service:rbc:lcrbmrp:t8075:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Louis Foster — 1937 Valence Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/210#xywh=577,2433,308,35",
+      "id": "https://hadro.github.io/woods-directory/0210_service:rbc:lcrbmrp:t8075:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Good Luck Cleaning and Pressing Club — 1627 St. Anthony Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/210#xywh=288,2647,885,39",
+      "id": "https://hadro.github.io/woods-directory/0210_service:rbc:lcrbmrp:t8075:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Gem Pressing Club — 2856 Magazine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/210#xywh=495,2863,467,37",
+      "id": "https://hadro.github.io/woods-directory/0210_service:rbc:lcrbmrp:t8075:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Great Central Pressing Club — 534 Dauphine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/210#xywh=388,3033,688,39",
+      "id": "https://hadro.github.io/woods-directory/0210_service:rbc:lcrbmrp:t8075:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Haynes Cleaning Co. — 6320 Hurst Street, near Calhoun",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/210#xywh=1426,411,503,39",
+      "id": "https://hadro.github.io/woods-directory/0210_service:rbc:lcrbmrp:t8075:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Idaho Pressing Club — 3217 Carondelet Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/210#xywh=1430,628,488,36",
+      "id": "https://hadro.github.io/woods-directory/0210_service:rbc:lcrbmrp:t8075:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "K. C. Jones Pressing Club — Calliope and Camp Streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/210#xywh=1338,886,675,43",
+      "id": "https://hadro.github.io/woods-directory/0210_service:rbc:lcrbmrp:t8075:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sam Jones — 1912 Melpomene Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/210#xywh=1540,1103,268,35",
+      "id": "https://hadro.github.io/woods-directory/0210_service:rbc:lcrbmrp:t8075:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "B. Lafourche — 611 Julia Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/210#xywh=1517,1273,309,34",
+      "id": "https://hadro.github.io/woods-directory/0210_service:rbc:lcrbmrp:t8075:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. Lewis — 4315 Magnolia Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/210#xywh=1564,1535,215,34",
+      "id": "https://hadro.github.io/woods-directory/0210_service:rbc:lcrbmrp:t8075:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Master Tailors — 109 S. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/210#xywh=1499,1702,341,36",
+      "id": "https://hadro.github.io/woods-directory/0210_service:rbc:lcrbmrp:t8075:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. B. Mayes — 4015 Baronne St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/210#xywh=1526,1965,282,37",
+      "id": "https://hadro.github.io/woods-directory/0210_service:rbc:lcrbmrp:t8075:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "E. Winston McCarty — 2503 Carondelet Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/210#xywh=1422,2181,492,36",
+      "id": "https://hadro.github.io/woods-directory/0210_service:rbc:lcrbmrp:t8075:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Olympia Steam Cleaning and Pressing Club — 8208 Oak Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/210#xywh=1227,2395,887,39",
+      "id": "https://hadro.github.io/woods-directory/0210_service:rbc:lcrbmrp:t8075:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Original Pressing Club — 834 Bienville St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/210#xywh=1402,2677,529,39",
+      "id": "https://hadro.github.io/woods-directory/0210_service:rbc:lcrbmrp:t8075:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Orleans Classible Place — 2420 St. Thomas Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/210#xywh=1393,3062,534,35",
+      "id": "https://hadro.github.io/woods-directory/0210_service:rbc:lcrbmrp:t8075:046_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0210_service:rbc:lcrbmrp:t8075:046_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

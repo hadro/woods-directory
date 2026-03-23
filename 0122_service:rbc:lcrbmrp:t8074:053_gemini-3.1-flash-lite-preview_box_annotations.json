@@ -1,0 +1,172 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Beatrice Houston — 7522 Oak Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/122#xywh=705,355,520,42",
+      "id": "https://hadro.github.io/woods-directory/0122_service:rbc:lcrbmrp:t8074:053_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. B. M. Hubbard — 1110 Dublin St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/122#xywh=732,523,466,44",
+      "id": "https://hadro.github.io/woods-directory/0122_service:rbc:lcrbmrp:t8074:053_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Marietta O. Knox — 3716 Camp Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/122#xywh=685,696,562,36",
+      "id": "https://hadro.github.io/woods-directory/0122_service:rbc:lcrbmrp:t8074:053_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Margaret Marshall-Maurice — 1419 Burdette Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/122#xywh=603,904,733,49",
+      "id": "https://hadro.github.io/woods-directory/0122_service:rbc:lcrbmrp:t8074:053_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Elvira M. Mason — 2536 Tulane Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/122#xywh=716,1246,509,36",
+      "id": "https://hadro.github.io/woods-directory/0122_service:rbc:lcrbmrp:t8074:053_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. W. T. Nesbitt — 315 S. Roman Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/122#xywh=740,1415,465,36",
+      "id": "https://hadro.github.io/woods-directory/0122_service:rbc:lcrbmrp:t8074:053_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. J. Nickerson — 120 N. Galvez St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/122#xywh=773,1585,399,37",
+      "id": "https://hadro.github.io/woods-directory/0122_service:rbc:lcrbmrp:t8074:053_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Margaret M. Maurice — 1419 Burdette St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/122#xywh=806,2975,1289,56",
+      "id": "https://hadro.github.io/woods-directory/0122_service:rbc:lcrbmrp:t8074:053_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Louise M. Scott — 1621 St. Philip Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/122#xywh=1634,340,498,43",
+      "id": "https://hadro.github.io/woods-directory/0122_service:rbc:lcrbmrp:t8074:053_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Ophelia A. Smith — 1917 First Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/122#xywh=1628,511,514,41",
+      "id": "https://hadro.github.io/woods-directory/0122_service:rbc:lcrbmrp:t8074:053_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dow L. Taylor — 2204 S. Franklin Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/122#xywh=1707,682,359,39",
+      "id": "https://hadro.github.io/woods-directory/0122_service:rbc:lcrbmrp:t8074:053_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Camilla Todd — 1916 Seventh Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/122#xywh=1667,851,445,39",
+      "id": "https://hadro.github.io/woods-directory/0122_service:rbc:lcrbmrp:t8074:053_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Mary C. Thropay — 2230 St. Bernard Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/122#xywh=1631,1023,511,36",
+      "id": "https://hadro.github.io/woods-directory/0122_service:rbc:lcrbmrp:t8074:053_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss A. K. Verrett — 2535 Gravier Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/122#xywh=1678,1192,423,36",
+      "id": "https://hadro.github.io/woods-directory/0122_service:rbc:lcrbmrp:t8074:053_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Naomi J. Verrett — 2334 Iberville Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/122#xywh=1636,1362,508,37",
+      "id": "https://hadro.github.io/woods-directory/0122_service:rbc:lcrbmrp:t8074:053_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0122_service:rbc:lcrbmrp:t8074:053_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

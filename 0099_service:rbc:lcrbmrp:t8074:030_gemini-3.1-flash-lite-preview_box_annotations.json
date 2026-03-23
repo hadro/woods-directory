@@ -1,0 +1,227 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Joseph Smith & Son — 1812 Seventh Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/99#xywh=399,362,509,37",
+      "id": "https://hadro.github.io/woods-directory/0099_service:rbc:lcrbmrp:t8074:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "H. Williams — 2512 Third Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/99#xywh=498,532,323,37",
+      "id": "https://hadro.github.io/woods-directory/0099_service:rbc:lcrbmrp:t8074:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Thos. B. Wright — 1838 Hamilton Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/99#xywh=443,701,421,38",
+      "id": "https://hadro.github.io/woods-directory/0099_service:rbc:lcrbmrp:t8074:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "R. J. Johnson — 1832 Philip Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/99#xywh=471,965,358,34",
+      "id": "https://hadro.github.io/woods-directory/0099_service:rbc:lcrbmrp:t8074:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "S. Fournet & Bro. — 2827 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/99#xywh=418,1271,468,37",
+      "id": "https://hadro.github.io/woods-directory/0099_service:rbc:lcrbmrp:t8074:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "S. Allen — Alix & Bouny Sts., Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/99#xywh=541,1632,224,38",
+      "id": "https://hadro.github.io/woods-directory/0099_service:rbc:lcrbmrp:t8074:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "American Cleaning & Pressing Club — 1312 Carondelet Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/99#xywh=213,1799,877,42",
+      "id": "https://hadro.github.io/woods-directory/0099_service:rbc:lcrbmrp:t8074:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Henry Banks — Office & Shop; 134 N. Liberty St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/99#xywh=479,2017,339,38",
+      "id": "https://hadro.github.io/woods-directory/0099_service:rbc:lcrbmrp:t8074:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Brown's Pressing Club — 2909 Howard Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/99#xywh=361,2230,574,41",
+      "id": "https://hadro.github.io/woods-directory/0099_service:rbc:lcrbmrp:t8074:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Beauregard Pressing Club — 634 N. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/99#xywh=1269,452,634,42",
+      "id": "https://hadro.github.io/woods-directory/0099_service:rbc:lcrbmrp:t8074:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Canal Pressing Club — 1429 Canal Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/99#xywh=1337,667,496,44",
+      "id": "https://hadro.github.io/woods-directory/0099_service:rbc:lcrbmrp:t8074:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Detroit Pressing Club — 4601 Magazine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/99#xywh=1317,883,533,41",
+      "id": "https://hadro.github.io/woods-directory/0099_service:rbc:lcrbmrp:t8074:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Diamond Swell Cleaning & Pressing Club — 308 Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/99#xywh=1145,1100,880,39",
+      "id": "https://hadro.github.io/woods-directory/0099_service:rbc:lcrbmrp:t8074:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dorsey's Dry Cleaning & Pressing Works — 703 Teche Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/99#xywh=1190,1360,784,42",
+      "id": "https://hadro.github.io/woods-directory/0099_service:rbc:lcrbmrp:t8074:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Empire Dry Cleaning Works — 1729 St. Charles Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/99#xywh=1233,1622,697,38",
+      "id": "https://hadro.github.io/woods-directory/0099_service:rbc:lcrbmrp:t8074:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "French Benzil Dry Cleaning Co. — 5010 Prytania St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/99#xywh=1193,1838,776,38",
+      "id": "https://hadro.github.io/woods-directory/0099_service:rbc:lcrbmrp:t8074:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Gem Pressing Club — 2856 Magazine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/99#xywh=1337,2077,483,37",
+      "id": "https://hadro.github.io/woods-directory/0099_service:rbc:lcrbmrp:t8074:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Olympia Steam Cleaning & Pressing Club — 8208 Oak Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/99#xywh=1159,2269,841,38",
+      "id": "https://hadro.github.io/woods-directory/0099_service:rbc:lcrbmrp:t8074:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Geo. Colin Nicolas — Stalls 105-107 Treme Market; Residence 1618 Ursulines Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/99#xywh=417,2582,1383,131",
+      "id": "https://hadro.github.io/woods-directory/0099_service:rbc:lcrbmrp:t8074:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/99#xywh=223,3333,1768,43",
+      "id": "https://hadro.github.io/woods-directory/0099_service:rbc:lcrbmrp:t8074:030_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0099_service:rbc:lcrbmrp:t8074:030_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

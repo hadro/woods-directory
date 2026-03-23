@@ -1,0 +1,282 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "SILENCE B. M. A. A. — 1460 N. Derbigny street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/190#xywh=199,622,879,36",
+      "id": "https://hadro.github.io/woods-directory/0190_service:rbc:lcrbmrp:t8075:026_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "SILVER KEYS B. A. — 527 S. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/190#xywh=198,757,875,34",
+      "id": "https://hadro.github.io/woods-directory/0190_service:rbc:lcrbmrp:t8075:026_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "SODALITY OF B. V. M. — 919 Cambronne street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/190#xywh=198,891,877,37",
+      "id": "https://hadro.github.io/woods-directory/0190_service:rbc:lcrbmrp:t8075:026_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "SONS AND DAUGHTERS OF NOAH B. A. — Camp near Valence",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/190#xywh=198,1025,877,36",
+      "id": "https://hadro.github.io/woods-directory/0190_service:rbc:lcrbmrp:t8075:026_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "SONS OF LOUISIANA, JR., B. A. — 219 N. Derbigny street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/190#xywh=196,1162,877,39",
+      "id": "https://hadro.github.io/woods-directory/0190_service:rbc:lcrbmrp:t8075:026_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "STAVE CART HANDLERS — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/190#xywh=198,1297,871,34",
+      "id": "https://hadro.github.io/woods-directory/0190_service:rbc:lcrbmrp:t8075:026_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "TEAMSTERS AND LOADERS B. A. — 1116 Perdido street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/190#xywh=198,1434,852,32",
+      "id": "https://hadro.github.io/woods-directory/0190_service:rbc:lcrbmrp:t8075:026_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "UNITED SONS OF LIGHT B. M. A. A. — Forstall, between Chartres and Royal streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/190#xywh=196,1837,876,39",
+      "id": "https://hadro.github.io/woods-directory/0190_service:rbc:lcrbmrp:t8075:026_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "YOUNG FRIENDS OF CHARITY B. A. — 1471 N. Claiborne street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/190#xywh=195,2246,875,33",
+      "id": "https://hadro.github.io/woods-directory/0190_service:rbc:lcrbmrp:t8075:026_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "YOUNG FRIENDS OF HOPE B. A. — 922 N. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/190#xywh=198,2380,866,35",
+      "id": "https://hadro.github.io/woods-directory/0190_service:rbc:lcrbmrp:t8075:026_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "YOUNG MEN AID CLUB — 527 S. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/190#xywh=196,2513,871,39",
+      "id": "https://hadro.github.io/woods-directory/0190_service:rbc:lcrbmrp:t8075:026_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "YOUNG MEN HOPE B. A. — Howard and Tulane avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/190#xywh=194,2602,875,43",
+      "id": "https://hadro.github.io/woods-directory/0190_service:rbc:lcrbmrp:t8075:026_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "YOUNG MEN MUTUAL B. A. — 2711 S. Rampart street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/190#xywh=194,2736,875,44",
+      "id": "https://hadro.github.io/woods-directory/0190_service:rbc:lcrbmrp:t8075:026_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "YOUNG MEN OLYMPIA B. A. — 2241 S. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/190#xywh=195,2875,872,39",
+      "id": "https://hadro.github.io/woods-directory/0190_service:rbc:lcrbmrp:t8075:026_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "YOUNG MEN PROGRESS B. A. — Howard and Tulane avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/190#xywh=195,3009,877,39",
+      "id": "https://hadro.github.io/woods-directory/0190_service:rbc:lcrbmrp:t8075:026_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "YOUNG MEN SINCERITY B. M. A. A. — 922 N. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/190#xywh=193,3144,879,39",
+      "id": "https://hadro.github.io/woods-directory/0190_service:rbc:lcrbmrp:t8075:026_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "YOUNG MEN ST. MICHAEL B. A. — 922 N. Liberty street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/190#xywh=1202,624,872,42",
+      "id": "https://hadro.github.io/woods-directory/0190_service:rbc:lcrbmrp:t8075:026_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "YOUNG MEN VIDALIA, JR., B. A. — 219 N. Derbigny street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/190#xywh=1201,757,877,51",
+      "id": "https://hadro.github.io/woods-directory/0190_service:rbc:lcrbmrp:t8075:026_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "YOUNG MEN VIDALIA B. A. — 219 N. Derbigny street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/190#xywh=1201,1209,875,46",
+      "id": "https://hadro.github.io/woods-directory/0190_service:rbc:lcrbmrp:t8075:026_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "VENUS STAR B. A. — 1422 Ursuline street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/190#xywh=1200,1345,875,47",
+      "id": "https://hadro.github.io/woods-directory/0190_service:rbc:lcrbmrp:t8075:026_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "GRAND TEMPLE, COURT PATRONS OF HUSBANDRY — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/190#xywh=1195,1702,879,43",
+      "id": "https://hadro.github.io/woods-directory/0190_service:rbc:lcrbmrp:t8075:026_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "PURE IN HEART TEMPLE No. 1 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/190#xywh=1194,2426,879,38",
+      "id": "https://hadro.github.io/woods-directory/0190_service:rbc:lcrbmrp:t8075:026_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "LOVE AND FRIENDSHIP TEMPLE No. 2 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/190#xywh=1196,2836,869,32",
+      "id": "https://hadro.github.io/woods-directory/0190_service:rbc:lcrbmrp:t8075:026_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "GOLDEN RULE TEMPLE No. 3 — Pythian Temple, Gravier and Saratoga streets",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/190#xywh=1196,3060,869,36",
+      "id": "https://hadro.github.io/woods-directory/0190_service:rbc:lcrbmrp:t8075:026_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "QUEEN ESTHER TEMPLE No. 4",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/190#xywh=1194,3240,876,39",
+      "id": "https://hadro.github.io/woods-directory/0190_service:rbc:lcrbmrp:t8075:026_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0190_service:rbc:lcrbmrp:t8075:026_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

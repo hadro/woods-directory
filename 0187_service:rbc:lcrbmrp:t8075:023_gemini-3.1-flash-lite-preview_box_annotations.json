@@ -1,0 +1,18 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "DEJOIE'S Cut-Rate Pharmacy — 1832 DRYADES ST.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/187#xywh=443,587,1748,199",
+      "id": "https://hadro.github.io/woods-directory/0187_service:rbc:lcrbmrp:t8075:023_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0187_service:rbc:lcrbmrp:t8075:023_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

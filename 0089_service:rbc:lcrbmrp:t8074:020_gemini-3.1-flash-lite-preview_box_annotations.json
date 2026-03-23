@@ -1,0 +1,557 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Crown",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=158,336,1757,56",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Damon",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=158,393,1748,55",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "David",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=158,447,1704,57",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Garden District",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=159,504,1667,57",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Guiding Star",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=159,560,1664,57",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lincoln",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=158,617,1687,57",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Naxillus",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=158,673,1785,55",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Monmoth",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=156,731,1759,57",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Myrtle Wreath",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=159,789,1692,57",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pride of Louisiana",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=159,845,1786,57",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Procles",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=158,900,1718,63",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Zenith",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=162,959,1714,53",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Berry",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=164,1130,1543,54",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "DeGruy",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=164,1184,1670,56",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Gilbert",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=162,1240,1673,54",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mt. Olive",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=162,1294,1791,59",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Olympia",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=162,1352,1368,55",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Richmond",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=162,1411,1656,57",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Luke",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=162,1466,1744,56",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Stringer",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=158,1524,1760,54",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tuscan",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=159,1578,1750,58",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Vera Cruz",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=162,1636,1519,56",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Deborah Chapter",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=164,1693,1521,56",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Esther Chapter",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=166,1749,1622,54",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Martha Chapter",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=166,1807,1740,55",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Damon Cord of Love",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=165,1860,1484,59",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pride of Orleans",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=162,1918,1713,56",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sisters of Syracuse",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=164,1975,1765,54",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Star of Calathe",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=162,2031,1689,55",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Harion, H. H",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=164,2086,1384,57",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/29"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pride of Newcomb",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=162,2145,1472,55",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/30"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Quee nEsther",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=164,2201,1484,55",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/31"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Amas",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=159,2255,1695,58",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/32"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Diamond Stone",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=159,2311,1747,58",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/33"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Louisiana Patriarchy",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=165,2372,1393,50",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/34"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Almond Tie Cutters — 527 South Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=164,2616,1352,55",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/35"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Daughters of Tabor — 527 South Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=162,2671,1658,61",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/36"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Good Shepard — 527 South Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=163,2726,1369,59",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/37"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Golden Harp — 527 South Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=159,2786,1751,55",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/38"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Order of Good Samaritans — 527 South Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=159,2841,1379,56",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/39"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "St. Matthews Order — 527 South Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=159,2898,1756,57",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/40"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies Bakers — 527 South Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=159,2955,1412,57",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/41"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies of Jerusalem — 527 South Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=164,3011,1690,62",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/42"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies Pride of Louisiana — 527 South Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=164,3067,1712,56",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/43"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladies of Labor — 527 South Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=164,3123,1337,56",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/44"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mystical Lodge — 527 South Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=164,3179,1709,58",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/45"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Izekiel Tabernacle — 527 South Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=162,3235,1752,58",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/46"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Silver Keys — 527 South Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=162,3292,1783,57",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/47"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Success Co. No. 8 — 527 South Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=162,3348,1396,55",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/48"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "United Daughters Tabernacle — 527 South Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/89#xywh=162,3409,1659,48",
+      "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json/entry/49"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0089_service:rbc:lcrbmrp:t8074:020_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

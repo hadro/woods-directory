@@ -1,0 +1,172 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Marie Campher — 4520 Constance Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/217#xywh=673,375,497,40",
+      "id": "https://hadro.github.io/woods-directory/0217_service:rbc:lcrbmrp:t8075:053_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Stella Carey — 1627 Toledano Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/217#xywh=713,545,418,37",
+      "id": "https://hadro.github.io/woods-directory/0217_service:rbc:lcrbmrp:t8075:053_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Gertrude Carrick — 2849 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/217#xywh=662,716,523,34",
+      "id": "https://hadro.github.io/woods-directory/0217_service:rbc:lcrbmrp:t8075:053_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. J. Carter — 727 Lyon Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/217#xywh=749,885,345,36",
+      "id": "https://hadro.github.io/woods-directory/0217_service:rbc:lcrbmrp:t8075:053_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. A. V. Coleman — 4027 Sixth Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/217#xywh=683,1055,478,36",
+      "id": "https://hadro.github.io/woods-directory/0217_service:rbc:lcrbmrp:t8075:053_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Geo. Dubuclet — 1028 Orleans Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/217#xywh=688,1227,471,35",
+      "id": "https://hadro.github.io/woods-directory/0217_service:rbc:lcrbmrp:t8075:053_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Natille R. Duncan — 2116 Second Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/217#xywh=647,1396,547,35",
+      "id": "https://hadro.github.io/woods-directory/0217_service:rbc:lcrbmrp:t8075:053_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. L. Duvernay — 2033 Seventh Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/217#xywh=1649,407,412,36",
+      "id": "https://hadro.github.io/woods-directory/0217_service:rbc:lcrbmrp:t8075:053_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Isabelle V. Dugue — 2518 Cadiz Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/217#xywh=1591,677,540,37",
+      "id": "https://hadro.github.io/woods-directory/0217_service:rbc:lcrbmrp:t8075:053_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Augustine Eaves — 809 Jena Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/217#xywh=1600,846,517,39",
+      "id": "https://hadro.github.io/woods-directory/0217_service:rbc:lcrbmrp:t8075:053_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. L. B. Ellis — 1914 Palmyra Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/217#xywh=1683,1015,348,35",
+      "id": "https://hadro.github.io/woods-directory/0217_service:rbc:lcrbmrp:t8075:053_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. M. W. English — 1830 Toledano Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/217#xywh=1630,1187,458,36",
+      "id": "https://hadro.github.io/woods-directory/0217_service:rbc:lcrbmrp:t8075:053_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Mildred Ewell — 2025 First Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/217#xywh=1626,1356,471,34",
+      "id": "https://hadro.github.io/woods-directory/0217_service:rbc:lcrbmrp:t8075:053_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Fabiola E. Franklin — 2334 Iberville Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/217#xywh=1576,1528,569,33",
+      "id": "https://hadro.github.io/woods-directory/0217_service:rbc:lcrbmrp:t8075:053_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. R. O. Sanders — 2611 JOSEPHINE ST., NEAR MAGNOLIA.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/217#xywh=473,1862,1823,160",
+      "id": "https://hadro.github.io/woods-directory/0217_service:rbc:lcrbmrp:t8075:053_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0217_service:rbc:lcrbmrp:t8075:053_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

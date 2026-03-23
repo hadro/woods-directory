@@ -1,0 +1,51 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Sigur Pressing Club — 2110 THIRD STREET",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/259#xywh=454,332,1855,195",
+      "id": "https://hadro.github.io/woods-directory/0259_service:rbc:lcrbmrp:t8075:095_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Panama Dye Works — 4323 CARONDELET STREET",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/259#xywh=476,1835,885,85",
+      "id": "https://hadro.github.io/woods-directory/0259_service:rbc:lcrbmrp:t8075:095_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "CANAL PRESSING CLUB — 129 N. LIBERTY ST.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/259#xywh=1108,2713,1081,65",
+      "id": "https://hadro.github.io/woods-directory/0259_service:rbc:lcrbmrp:t8075:095_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "OVERLAND — 1133 Cadiz, Cor. Coliseum St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/259#xywh=1637,1877,368,45",
+      "id": "https://hadro.github.io/woods-directory/0259_service:rbc:lcrbmrp:t8075:095_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0259_service:rbc:lcrbmrp:t8075:095_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

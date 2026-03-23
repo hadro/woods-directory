@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Porters Exchange — 1000 Perdido Street, corner Dryades",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/255#xywh=431,316,1818,183",
+      "id": "https://hadro.github.io/woods-directory/0255_service:rbc:lcrbmrp:t8075:091_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Pine Grove Realty Co., Inc. — 112 PYTHIAN TEMPLE BLDG.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/255#xywh=579,2037,1544,181",
+      "id": "https://hadro.github.io/woods-directory/0255_service:rbc:lcrbmrp:t8075:091_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0255_service:rbc:lcrbmrp:t8075:091_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

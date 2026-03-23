@@ -1,0 +1,205 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Cora Quiney — 2023 Seventh Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/25#xywh=704,1302,460,42",
+      "id": "https://hadro.github.io/woods-directory/0025_service:rbc:lcrbmrp:t8073:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Florence Reed — 2526 Eight Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/25#xywh=689,1470,497,40",
+      "id": "https://hadro.github.io/woods-directory/0025_service:rbc:lcrbmrp:t8073:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss M. Louise Seeberry — 2834 Howard Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/25#xywh=625,1681,627,43",
+      "id": "https://hadro.github.io/woods-directory/0025_service:rbc:lcrbmrp:t8073:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Florence Smith — 4114 Willow Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/25#xywh=668,1905,535,41",
+      "id": "https://hadro.github.io/woods-directory/0025_service:rbc:lcrbmrp:t8073:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Louise T. Thornhill — 1713 Bienville Ave",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/25#xywh=624,2083,647,42",
+      "id": "https://hadro.github.io/woods-directory/0025_service:rbc:lcrbmrp:t8073:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. R. E. Williams — 2512 Third St",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/25#xywh=679,2263,524,40",
+      "id": "https://hadro.github.io/woods-directory/0025_service:rbc:lcrbmrp:t8073:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Lottie Wilson — 2130 Josephine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/25#xywh=691,2430,491,42",
+      "id": "https://hadro.github.io/woods-directory/0025_service:rbc:lcrbmrp:t8073:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Emma Woodson — 539 Verrett Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/25#xywh=659,2641,563,44",
+      "id": "https://hadro.github.io/woods-directory/0025_service:rbc:lcrbmrp:t8073:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "R. Caldwell — 2013-2015 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/25#xywh=779,2950,317,41",
+      "id": "https://hadro.github.io/woods-directory/0025_service:rbc:lcrbmrp:t8073:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mme. M. C. Turner — 1433 Canal Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/25#xywh=685,3133,522,43",
+      "id": "https://hadro.github.io/woods-directory/0025_service:rbc:lcrbmrp:t8073:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Cobette & Poche — 411 N. Peters St",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/25#xywh=1656,1309,454,44",
+      "id": "https://hadro.github.io/woods-directory/0025_service:rbc:lcrbmrp:t8073:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "George U. Maury — 1611 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/25#xywh=1641,1483,482,49",
+      "id": "https://hadro.github.io/woods-directory/0025_service:rbc:lcrbmrp:t8073:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "C. Wilson — Corner Short and Hickory",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/25#xywh=1735,1724,291,42",
+      "id": "https://hadro.github.io/woods-directory/0025_service:rbc:lcrbmrp:t8073:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicago Hotel and Restaurant — 204-206 S. Rampart",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/25#xywh=1496,2078,790,44",
+      "id": "https://hadro.github.io/woods-directory/0025_service:rbc:lcrbmrp:t8073:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Astoria Hotel — 235-237 S. Rampart",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/25#xywh=1647,2268,495,44",
+      "id": "https://hadro.github.io/woods-directory/0025_service:rbc:lcrbmrp:t8073:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Great Southern Hotel and Restaurant — 1012-16 Dryades St",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/25#xywh=1451,2454,874,40",
+      "id": "https://hadro.github.io/woods-directory/0025_service:rbc:lcrbmrp:t8073:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "National Ice Cream Co. — 2238 Seventh Street, corner Liberty",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/25#xywh=1578,2747,622,48",
+      "id": "https://hadro.github.io/woods-directory/0025_service:rbc:lcrbmrp:t8073:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Orleans Ice Cream Works — 2217 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/25#xywh=1544,3129,684,43",
+      "id": "https://hadro.github.io/woods-directory/0025_service:rbc:lcrbmrp:t8073:025_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0025_service:rbc:lcrbmrp:t8073:025_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

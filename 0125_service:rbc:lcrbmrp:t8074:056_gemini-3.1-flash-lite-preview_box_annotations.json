@@ -1,0 +1,315 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Milton Bruen — 1705 Saratoga Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/125#xywh=474,379,338,39",
+      "id": "https://hadro.github.io/woods-directory/0125_service:rbc:lcrbmrp:t8074:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Henry Bynum, Jr. — 3624 Danneel Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/125#xywh=406,550,464,40",
+      "id": "https://hadro.github.io/woods-directory/0125_service:rbc:lcrbmrp:t8074:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "David Coffey — 2627 Sixth Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/125#xywh=471,721,326,39",
+      "id": "https://hadro.github.io/woods-directory/0125_service:rbc:lcrbmrp:t8074:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Clarence V. Enos — 2825 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/125#xywh=430,889,422,44",
+      "id": "https://hadro.github.io/woods-directory/0125_service:rbc:lcrbmrp:t8074:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "D. E. Garner — 2014 Foucher Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/125#xywh=466,1061,339,42",
+      "id": "https://hadro.github.io/woods-directory/0125_service:rbc:lcrbmrp:t8074:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Robert Hereford — 2200 Eighth Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/125#xywh=434,1232,407,40",
+      "id": "https://hadro.github.io/woods-directory/0125_service:rbc:lcrbmrp:t8074:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "E. D. Howard — 4731 Annunciation Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/125#xywh=466,1403,334,39",
+      "id": "https://hadro.github.io/woods-directory/0125_service:rbc:lcrbmrp:t8074:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. E. Johnson — 2614 Banks Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/125#xywh=464,1574,348,39",
+      "id": "https://hadro.github.io/woods-directory/0125_service:rbc:lcrbmrp:t8074:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Anderson Ligon — 134 N. Liberty Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/125#xywh=435,1792,395,38",
+      "id": "https://hadro.github.io/woods-directory/0125_service:rbc:lcrbmrp:t8074:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Albert Monnot — 725 St Louis St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/125#xywh=455,1961,359,36",
+      "id": "https://hadro.github.io/woods-directory/0125_service:rbc:lcrbmrp:t8074:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "O. L. Neugass — 1125 N. Robertson Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/125#xywh=455,2178,357,35",
+      "id": "https://hadro.github.io/woods-directory/0125_service:rbc:lcrbmrp:t8074:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "E. V. Pickett — 2108 Jackson Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/125#xywh=470,2392,327,39",
+      "id": "https://hadro.github.io/woods-directory/0125_service:rbc:lcrbmrp:t8074:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Geo. A. Simeon — 149 Elk Place",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/125#xywh=442,2562,379,36",
+      "id": "https://hadro.github.io/woods-directory/0125_service:rbc:lcrbmrp:t8074:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. M. Teems — 2610 Clio Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/125#xywh=474,2733,321,38",
+      "id": "https://hadro.github.io/woods-directory/0125_service:rbc:lcrbmrp:t8074:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Henry Wallace — 1819 St. Anthony, bet. Roman & Prieur",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/125#xywh=449,2902,360,35",
+      "id": "https://hadro.github.io/woods-directory/0125_service:rbc:lcrbmrp:t8074:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "H. C. Waters — 319 N. Rocheblave Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/125#xywh=464,3073,330,39",
+      "id": "https://hadro.github.io/woods-directory/0125_service:rbc:lcrbmrp:t8074:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Oscar J. Williams — 2826 Magnolia Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/125#xywh=1348,389,446,46",
+      "id": "https://hadro.github.io/woods-directory/0125_service:rbc:lcrbmrp:t8074:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. G. Dubuclet — Stand in Treme Market. Residence, 1028 Orleans Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/125#xywh=1355,651,424,44",
+      "id": "https://hadro.github.io/woods-directory/0125_service:rbc:lcrbmrp:t8074:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Isaac Jackson — 1000 Perdido St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/125#xywh=1404,869,348,38",
+      "id": "https://hadro.github.io/woods-directory/0125_service:rbc:lcrbmrp:t8074:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. P. Bedou — 1707 Bienville Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/125#xywh=1416,1132,298,36",
+      "id": "https://hadro.github.io/woods-directory/0125_service:rbc:lcrbmrp:t8074:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Floyd's Studio — 2125 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/125#xywh=1395,1302,341,39",
+      "id": "https://hadro.github.io/woods-directory/0125_service:rbc:lcrbmrp:t8074:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Williams' Art Gallery — 1052 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/125#xywh=1314,1470,498,41",
+      "id": "https://hadro.github.io/woods-directory/0125_service:rbc:lcrbmrp:t8074:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. M. Jones — 131 Dauphine Street. Residence, 2221 Third Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/125#xywh=1416,1732,295,35",
+      "id": "https://hadro.github.io/woods-directory/0125_service:rbc:lcrbmrp:t8074:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jos. R. Montegut — 1121 N. Robertson Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/125#xywh=1355,2083,407,36",
+      "id": "https://hadro.github.io/woods-directory/0125_service:rbc:lcrbmrp:t8074:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Alexander Robert — 407 Bourbon St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/125#xywh=1331,2298,438,35",
+      "id": "https://hadro.github.io/woods-directory/0125_service:rbc:lcrbmrp:t8074:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Welch's Frame Shop — 336 Bourbon Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/125#xywh=1311,2555,490,36",
+      "id": "https://hadro.github.io/woods-directory/0125_service:rbc:lcrbmrp:t8074:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "O. Hager — 1825 Washington Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/125#xywh=1447,2817,220,36",
+      "id": "https://hadro.github.io/woods-directory/0125_service:rbc:lcrbmrp:t8074:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. L. Martin — 2718 Valence Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/125#xywh=1405,3109,303,34",
+      "id": "https://hadro.github.io/woods-directory/0125_service:rbc:lcrbmrp:t8074:056_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0125_service:rbc:lcrbmrp:t8074:056_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

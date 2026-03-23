@@ -1,0 +1,18 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Imperial Dental Parlors — 1508 St. Bernard Avenue, near N. Robertson St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/185#xywh=419,2971,1817,107",
+      "id": "https://hadro.github.io/woods-directory/0185_service:rbc:lcrbmrp:t8075:021_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0185_service:rbc:lcrbmrp:t8075:021_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

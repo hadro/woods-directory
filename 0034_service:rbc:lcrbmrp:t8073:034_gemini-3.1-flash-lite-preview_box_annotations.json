@@ -1,0 +1,216 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. G. Davis & Son — 1613 Milan Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/34#xywh=1363,1138,511,45",
+      "id": "https://hadro.github.io/woods-directory/0034_service:rbc:lcrbmrp:t8073:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ferguson & Chapman — 1816 Delechaise Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/34#xywh=1320,1323,577,45",
+      "id": "https://hadro.github.io/woods-directory/0034_service:rbc:lcrbmrp:t8073:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. Hopes & G. K. Johnson — 3106 Carondelet Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/34#xywh=1258,1527,709,44",
+      "id": "https://hadro.github.io/woods-directory/0034_service:rbc:lcrbmrp:t8073:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "A. J. Matthews — 930 Dauphine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/34#xywh=1407,1735,421,42",
+      "id": "https://hadro.github.io/woods-directory/0034_service:rbc:lcrbmrp:t8073:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "L. C. Antoine — 515-519 S. Prieur Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/34#xywh=1415,2050,381,46",
+      "id": "https://hadro.github.io/woods-directory/0034_service:rbc:lcrbmrp:t8073:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "C. Clark — 4818 Chesnut Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/34#xywh=1485,2254,253,51",
+      "id": "https://hadro.github.io/woods-directory/0034_service:rbc:lcrbmrp:t8073:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. M. Jones — 2221 Third Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/34#xywh=1445,2464,326,44",
+      "id": "https://hadro.github.io/woods-directory/0034_service:rbc:lcrbmrp:t8073:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Midway Coal and Wood Shop — 2915 Howard Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/34#xywh=1168,2669,880,48",
+      "id": "https://hadro.github.io/woods-directory/0034_service:rbc:lcrbmrp:t8073:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Emile A. Richardson — 2125 Toledano Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/34#xywh=1305,2878,548,44",
+      "id": "https://hadro.github.io/woods-directory/0034_service:rbc:lcrbmrp:t8073:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Central Furniture Transfer Co. — 2400 S. Rampart Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/34#xywh=260,1049,805,44",
+      "id": "https://hadro.github.io/woods-directory/0034_service:rbc:lcrbmrp:t8073:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jos. Sinceno — 3604 Washington Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/34#xywh=490,1244,348,45",
+      "id": "https://hadro.github.io/woods-directory/0034_service:rbc:lcrbmrp:t8073:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Allen T. Woods — 1823 Seventh Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/34#xywh=447,1531,432,42",
+      "id": "https://hadro.github.io/woods-directory/0034_service:rbc:lcrbmrp:t8073:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Boyer & Taylor Co. Ltd. — 1309 St. Philip St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/34#xywh=337,1815,652,44",
+      "id": "https://hadro.github.io/woods-directory/0034_service:rbc:lcrbmrp:t8073:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Geddes & Moss — 2128 Jackson Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/34#xywh=449,2005,436,44",
+      "id": "https://hadro.github.io/woods-directory/0034_service:rbc:lcrbmrp:t8073:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Geo. D. Geddes Undertaking and Embalming Company — 2826 S. Rampart St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/34#xywh=225,2206,882,43",
+      "id": "https://hadro.github.io/woods-directory/0034_service:rbc:lcrbmrp:t8073:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Emile Labat — 1120 St. Claude St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/34#xywh=281,2399,764,91",
+      "id": "https://hadro.github.io/woods-directory/0034_service:rbc:lcrbmrp:t8073:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Oscar L. Muh — 1016 Touro St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/34#xywh=474,2586,381,43",
+      "id": "https://hadro.github.io/woods-directory/0034_service:rbc:lcrbmrp:t8073:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Blandin-LeBlanc Co. Ltd. — 1137 Hospital St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/34#xywh=263,2787,796,44",
+      "id": "https://hadro.github.io/woods-directory/0034_service:rbc:lcrbmrp:t8073:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Edward Brazley — 1815 Palmyra Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/34#xywh=442,3134,431,43",
+      "id": "https://hadro.github.io/woods-directory/0034_service:rbc:lcrbmrp:t8073:034_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0034_service:rbc:lcrbmrp:t8073:034_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

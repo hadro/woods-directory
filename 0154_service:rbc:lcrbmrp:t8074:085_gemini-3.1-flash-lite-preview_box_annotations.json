@@ -1,0 +1,62 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Success Restaurant and Confectionery — 1428 Canal Street, New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/154#xywh=417,409,1398,98",
+      "id": "https://hadro.github.io/woods-directory/0154_service:rbc:lcrbmrp:t8074:085_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Astoria Hotel and Cafe — 235-237 S. Rampart Street, New Orleans, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/154#xywh=488,1840,1674,105",
+      "id": "https://hadro.github.io/woods-directory/0154_service:rbc:lcrbmrp:t8074:085_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Tea, Coffee and Lunch",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/154#xywh=2412,1687,73,49",
+      "id": "https://hadro.github.io/woods-directory/0154_service:rbc:lcrbmrp:t8074:085_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Jewelers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/154#xywh=2424,1929,61,53",
+      "id": "https://hadro.github.io/woods-directory/0154_service:rbc:lcrbmrp:t8074:085_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Standard Hair Store — 1818 Tulane Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/154#xywh=2435,2690,50,43",
+      "id": "https://hadro.github.io/woods-directory/0154_service:rbc:lcrbmrp:t8074:085_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0154_service:rbc:lcrbmrp:t8074:085_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

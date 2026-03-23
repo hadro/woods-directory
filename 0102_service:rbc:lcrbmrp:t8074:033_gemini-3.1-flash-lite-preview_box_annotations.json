@@ -1,0 +1,40 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Albert Baumann — Third and Howard Sts.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/102#xywh=722,236,1500,170",
+      "id": "https://hadro.github.io/woods-directory/0102_service:rbc:lcrbmrp:t8074:033_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche & Ricard — 422 S. Rampart St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/102#xywh=2456,3333,62,39",
+      "id": "https://hadro.github.io/woods-directory/0102_service:rbc:lcrbmrp:t8074:033_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "The Orleans Cleaning Co. — 834 N. Claiborne Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/102#xywh=581,478,1757,100",
+      "id": "https://hadro.github.io/woods-directory/0102_service:rbc:lcrbmrp:t8074:033_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0102_service:rbc:lcrbmrp:t8074:033_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

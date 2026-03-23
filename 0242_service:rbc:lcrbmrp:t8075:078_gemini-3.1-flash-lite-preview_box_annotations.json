@@ -1,0 +1,337 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "La Branche's Drug Store — 818-820 N. Claiborne Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/242#xywh=322,212,1782,44",
+      "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. E. B. James — 1746 Erato Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/242#xywh=547,463,393,34",
+      "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. E. Jennings — 4619 Chestnut Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/242#xywh=545,635,394,35",
+      "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. C. E. Jones — 2008 Gravier Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/242#xywh=549,804,387,35",
+      "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Josephine Johnson — 2834 St. Ann Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/242#xywh=471,983,552,37",
+      "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mis Josephine Johnson — 832 N. Dupre Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/242#xywh=465,1331,556,36",
+      "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. J. L. Levy — 1240 Touro Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/242#xywh=557,1625,373,35",
+      "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. M. O. Lewis — 1032 Bellville Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/242#xywh=547,1840,393,36",
+      "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Sophronia C. Lewis — 1920 Sixth St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/242#xywh=461,2009,571,39",
+      "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Olivia T. LeBoeuf — 2116 Orleans Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/242#xywh=479,2178,531,35",
+      "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Stella Elodie McCoy — 2534 Soniat Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/242#xywh=440,2348,604,39",
+      "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Daisy Cass Major — 2218 Delachaise Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/242#xywh=484,2517,526,39",
+      "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Olivia Mayo — 8636 Spruce Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/242#xywh=539,2687,409,39",
+      "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Anna Messiah — 7609 Hampson Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/242#xywh=578,2857,329,33",
+      "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Julia Metoyer — 2021 St. Peter Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/242#xywh=510,3025,467,39",
+      "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Dean Moore — 2128 Burdette Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/242#xywh=1480,459,397,32",
+      "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. L. Murray — 2506 Berlin Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/242#xywh=1502,629,355,36",
+      "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. H. Norvell — 1926 Iberville Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/242#xywh=1501,796,356,34",
+      "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. C. V. Pollock — 630 S. Galvez St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/242#xywh=1464,967,428,36",
+      "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json/entry/18"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Julia B. Porter — 2038 Perdido St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/242#xywh=1435,1180,488,35",
+      "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json/entry/19"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Louisa J. Ross — 618 Hillary Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/242#xywh=1437,1351,486,33",
+      "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json/entry/20"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Eliza Selicourt — 430 Homer Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/242#xywh=1445,1519,465,35",
+      "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json/entry/21"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. L. G. Spraggins — 2418 Iberville Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/242#xywh=1431,1689,496,39",
+      "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json/entry/22"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Elizabeth P. Sutton — 4319 Clara Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/242#xywh=1383,1859,587,34",
+      "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json/entry/23"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mamie Tally-Reed — 1927 Fourth Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/242#xywh=1396,2028,563,39",
+      "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json/entry/24"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Mary Tapo — 1830 St. Claude Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/242#xywh=1490,2244,375,37",
+      "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json/entry/25"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Eliza Thomas — McDonoghville, La.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/242#xywh=1445,2413,464,34",
+      "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json/entry/26"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Georgia Thomas — 2126 Philip Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/242#xywh=1429,2581,501,36",
+      "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json/entry/27"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Miss Isabelle Thompson — 312 Lowerline Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/242#xywh=1389,2739,575,36",
+      "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json/entry/28"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "M. Burthe Thornhill — 2216 St. Philip Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/242#xywh=1438,2880,477,44",
+      "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json/entry/29"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0242_service:rbc:lcrbmrp:t8075:078_gemini-3.1-flash-lite-preview_box_annotations.json"
+}

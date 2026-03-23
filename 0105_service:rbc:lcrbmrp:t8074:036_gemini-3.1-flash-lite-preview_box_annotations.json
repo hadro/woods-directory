@@ -1,0 +1,205 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Mrs. Cora Vignes-Wilson — 927 Bienville Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/105#xywh=330,373,593,37",
+      "id": "https://hadro.github.io/woods-directory/0105_service:rbc:lcrbmrp:t8074:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "O. Dupre — L. B. Jefferson Parish",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/105#xywh=502,670,249,37",
+      "id": "https://hadro.github.io/woods-directory/0105_service:rbc:lcrbmrp:t8074:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. J. S. Carter — 2236 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/105#xywh=439,942,377,38",
+      "id": "https://hadro.github.io/woods-directory/0105_service:rbc:lcrbmrp:t8074:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. J. E. Milanes — 1428 Joliet Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/105#xywh=420,1113,414,35",
+      "id": "https://hadro.github.io/woods-directory/0105_service:rbc:lcrbmrp:t8074:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. R. O. Sanders — 2611 Josephine Street near Magnolia",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/105#xywh=409,1284,443,34",
+      "id": "https://hadro.github.io/woods-directory/0105_service:rbc:lcrbmrp:t8074:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. Edw. Vincent — 1706 Bienville Avenue",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/105#xywh=425,1499,419,35",
+      "id": "https://hadro.github.io/woods-directory/0105_service:rbc:lcrbmrp:t8074:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. Jos. E. Willis — 1815 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/105#xywh=417,1713,442,38",
+      "id": "https://hadro.github.io/woods-directory/0105_service:rbc:lcrbmrp:t8074:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. J. A. Barnes — Residence 617 Peniston St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/105#xywh=433,2008,419,35",
+      "id": "https://hadro.github.io/woods-directory/0105_service:rbc:lcrbmrp:t8074:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/7"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. L. T. Burbridge — 1832 Dryades St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/105#xywh=385,2268,511,38",
+      "id": "https://hadro.github.io/woods-directory/0105_service:rbc:lcrbmrp:t8074:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/8"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Raleigh J. Coker, M. D. — Residence 1414 Dumaine Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/105#xywh=347,2619,590,38",
+      "id": "https://hadro.github.io/woods-directory/0105_service:rbc:lcrbmrp:t8074:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/9"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. P. H. V. DeJoie — Residence 1131 Dufossat Street; Office Dejoie's Drug Store, 1832 Dryades Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/105#xywh=1318,368,473,41",
+      "id": "https://hadro.github.io/woods-directory/0105_service:rbc:lcrbmrp:t8074:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/10"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. Rivers Frederick — Residence 1810 N. Claiborne Ave.; Office LaBranch's Drug Store, 818-20 N. Claiborne Ave.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/105#xywh=1307,721,502,37",
+      "id": "https://hadro.github.io/woods-directory/0105_service:rbc:lcrbmrp:t8074:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/11"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "J. Arthur Hardin, M. D. — 1912 Bienville Street near Roman",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/105#xywh=1267,1074,590,37",
+      "id": "https://hadro.github.io/woods-directory/0105_service:rbc:lcrbmrp:t8074:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/12"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "W. F. Jase, M. D. — 8501 Oak Street",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/105#xywh=1351,1289,421,38",
+      "id": "https://hadro.github.io/woods-directory/0105_service:rbc:lcrbmrp:t8074:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/13"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "I. J. Kane, M. D. — Residence 1635 New Orleans St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/105#xywh=1360,1502,411,42",
+      "id": "https://hadro.github.io/woods-directory/0105_service:rbc:lcrbmrp:t8074:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/14"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. L. B. Landry — 509 Homer Street, Algiers",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/105#xywh=1360,1852,415,43",
+      "id": "https://hadro.github.io/woods-directory/0105_service:rbc:lcrbmrp:t8074:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/15"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Dr. O. Willard Landry — Residence 1419 Burdette Street; Offices: Dejoie's Pharmacy, 1832 Dryades St.; Nelson's Drug Store, Oak & Joliet St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/105#xywh=1296,2021,546,43",
+      "id": "https://hadro.github.io/woods-directory/0105_service:rbc:lcrbmrp:t8074:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/16"
+    },
+    {
+      "type": "Annotation",
+      "motivation": "commenting",
+      "body": {
+        "type": "TextualBody",
+        "value": "Geo. W. Lucas, M. D. — Residence 2122 First St.",
+        "format": "text/plain"
+      },
+      "target": "https://www.loc.gov/item/73644404/canvas/105#xywh=1314,2463,513,43",
+      "id": "https://hadro.github.io/woods-directory/0105_service:rbc:lcrbmrp:t8074:036_gemini-3.1-flash-lite-preview_box_annotations.json/entry/17"
+    }
+  ],
+  "id": "https://hadro.github.io/woods-directory/0105_service:rbc:lcrbmrp:t8074:036_gemini-3.1-flash-lite-preview_box_annotations.json"
+}
