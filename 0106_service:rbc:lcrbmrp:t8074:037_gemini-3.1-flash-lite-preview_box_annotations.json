@@ -12,50 +12,6 @@
       },
       "target": "https://www.loc.gov/item/73644404/canvas/106#xywh=534,251,1821,357",
       "id": "https://hadro.github.io/woods-directory/0106_service:rbc:lcrbmrp:t8074:037_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "Dr. Louis A. Dejoie — 405 N. Saratoga Street; Residence: 2624 Tulane Ave., Cor. Richard's St.",
-        "format": "text/plain"
-      },
-      "target": "https://www.loc.gov/item/73644404/canvas/106#xywh=2460,1723,53,44",
-      "id": "https://hadro.github.io/woods-directory/0106_service:rbc:lcrbmrp:t8074:037_gemini-3.1-flash-lite-preview_box_annotations.json/entry/1"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "J. T. Dede, M. D. — 1408 St. Anthony Street; Residence: 2008 St. Anthony Street",
-        "format": "text/plain"
-      },
-      "target": "https://www.loc.gov/item/73644404/canvas/106#xywh=2460,2271,53,40",
-      "id": "https://hadro.github.io/woods-directory/0106_service:rbc:lcrbmrp:t8074:037_gemini-3.1-flash-lite-preview_box_annotations.json/entry/2"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "Providence Sanitarium — 2018 St. Anthony Street",
-        "format": "text/plain"
-      },
-      "target": "https://www.loc.gov/item/73644404/canvas/106#xywh=2447,1603,66,44",
-      "id": "https://hadro.github.io/woods-directory/0106_service:rbc:lcrbmrp:t8074:037_gemini-3.1-flash-lite-preview_box_annotations.json/entry/3"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "LaBranch & Labat — N. Claiborne and Kerlerec Streets",
-        "format": "text/plain"
-      },
-      "target": "https://www.loc.gov/item/73644404/canvas/106#xywh=2447,3321,66,42",
-      "id": "https://hadro.github.io/woods-directory/0106_service:rbc:lcrbmrp:t8074:037_gemini-3.1-flash-lite-preview_box_annotations.json/entry/6"
     }
   ],
   "id": "https://hadro.github.io/woods-directory/0106_service:rbc:lcrbmrp:t8074:037_gemini-3.1-flash-lite-preview_box_annotations.json"

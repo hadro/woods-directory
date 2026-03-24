@@ -7,17 +7,6 @@
       "motivation": "commenting",
       "body": {
         "type": "TextualBody",
-        "value": "N. Bell — 109 S. Claiborne Ave.",
-        "format": "text/plain"
-      },
-      "target": "https://www.loc.gov/item/73644404/canvas/124#xywh=2447,1234,50,37",
-      "id": "https://hadro.github.io/woods-directory/0124_service:rbc:lcrbmrp:t8074:055_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
         "value": "Claiborne Dye Works — 1819 St. La Branche",
         "format": "text/plain"
       },
@@ -56,17 +45,6 @@
       },
       "target": "https://www.loc.gov/item/73644404/canvas/124#xywh=1162,640,274,43",
       "id": "https://hadro.github.io/woods-directory/0124_service:rbc:lcrbmrp:t8074:055_gemini-3.1-flash-lite-preview_box_annotations.json/entry/4"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
-        "value": "Tuskegee — 3441 Magnolia Street",
-        "format": "text/plain"
-      },
-      "target": "https://www.loc.gov/item/73644404/canvas/124#xywh=2455,2910,42,40",
-      "id": "https://hadro.github.io/woods-directory/0124_service:rbc:lcrbmrp:t8074:055_gemini-3.1-flash-lite-preview_box_annotations.json/entry/5"
     }
   ],
   "id": "https://hadro.github.io/woods-directory/0124_service:rbc:lcrbmrp:t8074:055_gemini-3.1-flash-lite-preview_box_annotations.json"

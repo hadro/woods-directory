@@ -7,17 +7,6 @@
       "motivation": "commenting",
       "body": {
         "type": "TextualBody",
-        "value": "Floyd Photographer — Fourth Street",
-        "format": "text/plain"
-      },
-      "target": "https://www.loc.gov/item/73644404/canvas/151#xywh=0,3130,63,127",
-      "id": "https://hadro.github.io/woods-directory/0151_service:rbc:lcrbmrp:t8074:082_gemini-3.1-flash-lite-preview_box_annotations.json/entry/0"
-    },
-    {
-      "type": "Annotation",
-      "motivation": "commenting",
-      "body": {
-        "type": "TextualBody",
         "value": "New Orleans Ice Cream Works — 2217 Dryades Street",
         "format": "text/plain"
       },
