@@ -299,7 +299,8 @@ function renderMetaStrip(meta) {
   const parts = [];
   if (meta.date)         parts.push(`<span class="meta-chip">${meta.date}</span>`);
   if (meta.institution)  parts.push(`<span class="meta-chip">${meta.institution}</span>`);
-  if (meta.genre)        parts.push(`<span class="meta-chip">${meta.genre}</span>`);
+  if (meta.genre && typeof meta.genre === "string") parts.push(`<span class="meta-chip">${meta.genre}</span>`);
+  else if (meta.genre)   Object.keys(meta.genre).forEach(k => parts.push(`<span class="meta-chip">${k}</span>`));
   if (meta.homepage_url)
     parts.push(`<a class="meta-chip meta-link" href="${meta.homepage_url}" target="_blank">Item page ↗</a>`);
   const strip = document.getElementById("meta-strip");
