@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
 <meta charset="utf-8"/>
-<title>woods directory 73644404 (73644404)</title>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Woods' Directory — New Orleans Map</title>
 <link rel="stylesheet"
   href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
 <link rel="stylesheet"
@@ -23,10 +24,11 @@ body { display: flex; height: 100vh; font-family: system-ui, -apple-system, sans
 }
 #sidebar-header {
   padding: 14px 16px 10px;
-  border-bottom: 1px solid #eee;
+  background: #f5f5f5;
+  border-bottom: 1px solid #e0e0e0;
 }
 #sidebar-header h1 { font-size: 15px; font-weight: 700; }
-#sidebar-header p  { font-size: 11px; color: #888; margin-top: 2px; }
+#sidebar-header p  { font-size: 11px; color: #595959; margin-top: 2px; }
 #sidebar-body {
   padding: 12px 14px;
   overflow-y: auto;
@@ -43,9 +45,9 @@ label.field-label {
 input[type=text], select {
   width: 100%; padding: 6px 8px; font-size: 13px;
   border: 1px solid #ccc; border-radius: 4px;
-  outline: none;
 }
 input[type=text]:focus, select:focus { border-color: #4e79a7; }
+input[type=text]:focus-visible, select:focus-visible { outline: 2px solid #1a6ebd; outline-offset: 1px; }
 
 /* ── Category checkboxes ── */
 .cat-row {
@@ -59,10 +61,12 @@ input[type=text]:focus, select:focus { border-color: #4e79a7; }
 }
 .cat-label { font-size: 13px; }
 #cat-toggle {
-  font-size: 11px; color: #4e79a7; cursor: pointer;
+  font-size: 11px; color: #1a6ebd; cursor: pointer;
   text-decoration: underline; margin-top: 3px;
   display: inline-block;
+  background: none; border: none; padding: 0;
 }
+#cat-toggle:focus-visible { outline: 2px solid #1a6ebd; outline-offset: 2px; border-radius: 2px; }
 
 /* ── Footer count + actions ── */
 #sidebar-footer {
@@ -89,8 +93,8 @@ input[type=text]:focus, select:focus { border-color: #4e79a7; }
 /* ── Popup ── */
 .popup-name  { font-weight: 700; font-size: 13px; }
 .popup-addr  { color: #444; margin: 2px 0; }
-.popup-cat   { color: #777; font-style: italic; font-size: 11px; }
-.popup-page  { color: #aaa; font-size: 10px; margin-top: 3px; }
+.popup-cat   { color: #595959; font-style: italic; font-size: 11px; }
+.popup-page  { color: #767676; font-size: 10px; margin-top: 3px; }
 .popup-thumb {
   display: block; width: 100%; border-radius: 3px;
   margin-bottom: 6px; border: 1px solid #e0e0e0;
@@ -123,13 +127,45 @@ input[type=text]:focus, select:focus { border-color: #4e79a7; }
 #about-modal a:focus-visible { outline: 2px solid #1a6ebd; outline-offset: 2px; border-radius: 2px; }
 #about-btn:hover { border-color: #595959; background: #f5f5f5; }
 #about-btn:focus-visible { outline: 2px solid #1a6ebd; outline-offset: 2px; }
+
+/* ── Mobile sidebar toggle ── */
+#sidebar-toggle {
+  display: none;
+  position: fixed; top: 10px; right: 10px; z-index: 1000;
+  background: #fff; border: 1px solid #bbb; border-radius: 4px;
+  padding: 6px 10px; font-size: 1.2rem; cursor: pointer;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+}
+#sidebar-toggle:focus-visible { outline: 2px solid #1a6ebd; outline-offset: 2px; }
+#sidebar-backdrop {
+  display: none; position: fixed; inset: 0; z-index: 498;
+  background: rgba(0,0,0,0.35);
+}
+@media (max-width: 600px) {
+  body { flex-direction: column; }
+  #sidebar {
+    position: fixed; top: 0; left: 0; bottom: 0;
+    width: 82vw; max-width: 320px;
+    z-index: 1001; transform: translateX(-100%);
+    transition: transform 0.22s ease;
+    border-right: 1px solid #ddd;
+  }
+  #sidebar.open { transform: translateX(0); }
+  #sidebar-backdrop.open { display: block; }
+  #sidebar-toggle { display: block; }
+  #map { flex: 1; height: 100vh; }
+  #fit-btn, #reset-btn { min-height: 44px; }
+  #about-btn { min-height: 44px; }
+}
 </style>
 </head>
 <body>
 
+<div id="sidebar-toggle" aria-label="Open sidebar" aria-expanded="false">&#9776;</div>
+<div id="sidebar-backdrop"></div>
 <div id="sidebar">
   <div id="sidebar-header">
-    <h1>Woods' Directory</h1>
+    <h1>Allen T. Woods' Directory</h1>
     <p id="subtitle">Loading…</p>
     <p style="margin-top:4px;font-size:11px;"><a href="https://www.loc.gov/item/73644404/" target="_blank" rel="noopener" style="color:#1a6ebd;">Item page (Library of Congress) ↗</a></p>
         <p style="margin-top:2px;font-size:11px;"><a href="https://hadro.github.io/woods-directory/explorer.html" target="_blank" rel="noopener" style="color:#1a6ebd;">Data Explorer ↗</a></p>
@@ -153,7 +189,7 @@ input[type=text]:focus, select:focus { border-color: #4e79a7; }
     <div>
       <label class="field-label">Category</label>
       <div id="cat-checks"></div>
-      <span id="cat-toggle">Select none</span>
+      <button id="cat-toggle" aria-label="Toggle all categories">Select none</button>
     </div>
 
   </div>
@@ -165,7 +201,7 @@ input[type=text]:focus, select:focus { border-color: #4e79a7; }
   </div>
 </div>
 
-<div id="map"></div>
+<div id="map" role="region" aria-label="Map of directory entries"></div>
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
@@ -174,9 +210,9 @@ const ALL_ENTRIES    = [{"name": "Chicago Hotel and Restaurant", "address": "204
 const CAT_COLORS     = {"Barbers": "#edc948", "Benevolent, Charitable, Etc.": "#ff9da7", "CLEANING, PRESSING AND DYE WORKS": "#9c755f", "Churches": "#bab0ac", "Dressmakers": "#499894", "Hairdressers": "#86bcb6", "Midwives and Trained Nurses": "#d4a6c8", "Roster of Societies": "#d7b5a6", "Societies": "#8cd17d", "Wagons to Hire": "#f1ce63", "other": "#b07aa1"};
 const CAT_LABELS     = {"Barbers": "Barbers", "Benevolent, Charitable, Etc.": "Benevolent, Charitable, Etc.", "CLEANING, PRESSING AND DYE WORKS": "CLEANING, PRESSING AND DYE WORKS", "Churches": "Churches", "Dressmakers": "Dressmakers", "Hairdressers": "Hairdressers", "Midwives and Trained Nurses": "Midwives and Trained Nurses", "Roster of Societies": "Roster of Societies", "Societies": "Societies", "Wagons to Hire": "Wagons to Hire", "other": "Other"};
 const TOTAL_ENTRIES  = ALL_ENTRIES.length;
-const YEAR_LABEL     = "woods directory 73644404 (73644404)";
+const YEAR_LABEL     = "The Woods New Orleans business directory (1911-1913)";
 
-const map = L.map('map', { preferCanvas: true }).setView([38.5, -96.0], 5);
+const map = L.map('map').setView([38.5, -96.0], 5);
 L.tileLayer(
   'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',
   { attribution: '&copy; OpenStreetMap contributors &copy; CARTO', maxZoom: 19 }
@@ -191,6 +227,29 @@ const markerByIdx = new Map();  // ALL_ENTRIES index → Leaflet marker
 let _openEntryIdx = null;       // index of currently-open popup, or null
 let _suppressFitBounds = false; // true while restoring a hash-encoded view
 let _initialFitDone    = false; // after the first fit, user controls the viewport
+// Mobile sidebar toggle
+(function() {
+  const toggle = document.getElementById('sidebar-toggle');
+  const sidebar = document.getElementById('sidebar');
+  const backdrop = document.getElementById('sidebar-backdrop');
+  if (!toggle) return;
+  function openSidebar() {
+    sidebar.classList.add('open');
+    backdrop.classList.add('open');
+    toggle.setAttribute('aria-expanded', 'true');
+    toggle.setAttribute('aria-label', 'Close sidebar');
+  }
+  function closeSidebar() {
+    sidebar.classList.remove('open');
+    backdrop.classList.remove('open');
+    toggle.setAttribute('aria-expanded', 'false');
+    toggle.setAttribute('aria-label', 'Open sidebar');
+  }
+  toggle.addEventListener('click', () => sidebar.classList.contains('open') ? closeSidebar() : openSidebar());
+  backdrop.addEventListener('click', closeSidebar);
+  document.addEventListener('keydown', e => { if (e.key === 'Escape' && sidebar.classList.contains('open')) closeSidebar(); });
+})();
+
 const _openAboutOnLoad = location.hash === '#about'; // capture before map hash logic overwrites it
 
 function stateToHash() {
@@ -281,12 +340,13 @@ function updateMap() {
       radius: 7, color: color, fillColor: color,
       fillOpacity: 0.85, weight: 1.5
     });
+    marker.options.title = `${e.name}${e.category ? " — " + e.category : ""}`;
 
     marker.bindTooltip(esc(e.name), { direction: 'top', offset: [0, -4] });
     marker.bindPopup(
       (e.thumb ? (e.thumb_link
-        ? `<a href="${e.thumb_link}" target="_blank" rel="noopener"><img class="popup-thumb" src="${e.thumb}" alt="source scan"/></a>`
-        : `<img class="popup-thumb" src="${e.thumb}" alt="source scan"/>`) : '') +
+        ? `<a href="${e.thumb_link}" target="_blank" rel="noopener"><img class="popup-thumb" src="${e.thumb}" alt="${esc(e.name)} — source scan"/></a>`
+        : `<img class="popup-thumb" src="${e.thumb}" alt="${esc(e.name)} — source scan"/>`) : '') +
       `<div class="popup-name">${esc(e.name)}</div>` +
       (e.address ? `<div class="popup-addr">${esc(e.address)}</div>` : '') +
       `<div class="popup-addr">${esc(e.city)}, ${esc(e.state)}</div>` +
