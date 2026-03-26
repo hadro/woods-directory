@@ -740,6 +740,7 @@ function showDetail(row) {
     if (srcUrl) links.push(`<a href="${srcUrl}" target="_blank">Open source page ↗</a>`);
     const csUrl = contentStateUrl(row.canvas_fragment);
     if (csUrl) links.push(`<a href="${csUrl}" target="_blank">View in source document ↗</a>`);
+    links.push(`<a href="map.html?cf=${encodeURIComponent(row.canvas_fragment)}" target="_blank">View on map ↗</a>`);
     src.innerHTML = links.join(" · ");
   } else {
     src.innerHTML = "";
@@ -1100,6 +1101,17 @@ if (window.innerWidth <= 640) {
 }
 applyHashState();
 renderAll();
+
+// Deep-link from map: ?cf={canvas_fragment}
+(function () {
+  const cf = new URLSearchParams(location.search).get('cf');
+  if (!cf) return;
+  const match = ALL_ENTRIES.find(r => r.canvas_fragment === cf);
+  if (!match) return;
+  selectedIdx = ALL_ENTRIES.indexOf(match);
+  showDetail(match);
+  renderTableBody();
+})();
 
 (function () {
   let opener = null;
