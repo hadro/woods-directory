@@ -751,6 +751,11 @@ document.getElementById("detail-close").addEventListener("click", () => {
   document.getElementById("detail").classList.remove("open");
   selectedIdx = null;
   renderTable();
+  const u = new URL(location.href);
+  if (u.searchParams.has('cf')) {
+    u.searchParams.delete('cf');
+    history.replaceState(null, '', u.pathname + (u.searchParams.size ? '?' + u.searchParams : '') + u.hash);
+  }
 });
 
 // ── Render: facet sidebar ──────────────────────────────────────────────────
