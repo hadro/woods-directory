@@ -26,6 +26,13 @@
       flex-wrap: wrap;
     }
     header h1 { font-size: 15px; font-weight: 700; color: #1a1a1a; }
+    header nav { margin-left: auto; display: flex; gap: 12px; }
+    header nav a {
+      font-size: 13px; color: #1a6ebd; text-decoration: none;
+      white-space: nowrap;
+    }
+    header nav a:hover { text-decoration: underline; }
+    header nav a:focus-visible { outline: 2px solid #1a6ebd; outline-offset: 2px; border-radius: 2px; }
     #viewer-wrap { flex: 1; position: relative; overflow: hidden; }
     clover-viewer { display: block; position: absolute; inset: 0; }
 
@@ -35,6 +42,10 @@
 
 <header>
   <h1>Allen T. Woods' New Orleans business directory (1911–1913)</h1>
+  <nav aria-label="Related tools">
+    <a href="https://hadro.github.io/woods-directory/map#about">Map ↗</a>
+    <a href="https://hadro.github.io/woods-directory/explorer#about">Data explorer ↗</a>
+  </nav>
 </header>
 
 <div id="viewer-wrap"></div>
