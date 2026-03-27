@@ -371,7 +371,7 @@ function updateMap() {
       `<div class="popup-name">${esc(e.name)}</div>` +
       (e.address ? `<div class="popup-addr">${esc(e.address)}</div>` : '') +
       `<div class="popup-addr">${esc(e.city)}, ${esc(e.state)}</div>` +
-      `<div class="popup-cat">${esc(CAT_LABELS[e.category] || e.category)}</div>` +
+      `<div class="popup-cat">${esc(CAT_LABELS[e.category] || e.category)}${e.volume_year ? ' · ' + esc(e.volume_year) : ''}</div>` +
       `<div class="popup-page">${esc(e.page)}</div>` +
       (e.canvas_fragment ? `<div class="popup-links"><a href="explorer.html?cf=${encodeURIComponent(e.canvas_fragment)}">View in explorer ↗</a></div>` : ''),
       { maxWidth: 300 }
